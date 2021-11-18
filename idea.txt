@@ -1,0 +1,20 @@
+Plan: User inputs a game and program outputs 3 similar games to recommend.
+
+Similarity criteria:
+    1. Genre (RPG, FPS, etc.) 
+    2. Subject (Fantasy, war, etc.) - user-defined tags
+    3. Popularity
+    4. Rating
+
+Steps:
+    1. Scrape game data from steam
+        - Clean data
+        - Generate an array of criteria for each game -> or put into CSV?
+    2. Similarity algorithm
+        - Create node for each game
+        - Calculate similarity score between each two nodes
+        - If similarity score is above a certain threshold, add weighted edge between the two nodes
+    3. Search algorithm
+        - Given user input game, find that node in the database and return 3 closest nodes
+        - If game doesn't exist, scrape for game title???? create node and edges while returning 3 highest scoring nodes
+    4. Visualization for demo
