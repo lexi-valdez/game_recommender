@@ -418,7 +418,7 @@
       var g_eDiscoveryQueueType = 0;
 
 	GStoreItemData.AddStoreItemDataSet(
-		{"rgApps":{"582160":{"name":"Assassin's Creed\u00ae Origins","url_name":"Assassins_Creed_Origins","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/582160\/capsule_184x69.jpg?t=1603213581","os_windows":true,"has_live_broadcast":false,"localized":true},"242050":{"name":"Assassin\u2019s Creed\u00ae IV Black Flag\u2122","url_name":"Assassins_Creed_IV_Black_Flag","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/242050\/capsule_184x69.jpg?t=1616174462","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"New DLC Now Available"},"289650":{"name":"Assassin's Creed\u00ae Unity","url_name":"Assassins_Creed_Unity","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/289650\/capsule_184x69.jpg?t=1602601508","os_windows":true,"has_live_broadcast":false,"localized":true},"368500":{"name":"Assassin's Creed\u00ae Syndicate","url_name":"Assassins_Creed_Syndicate","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/368500\/capsule_184x69.jpg?t=1602772802","os_windows":true,"has_live_broadcast":false,"localized":true},"48190":{"name":"Assassin\u2019s Creed\u00ae Brotherhood","url_name":"Assassins_Creed_Brotherhood","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/48190\/capsule_184x69.jpg?t=1602600648","os_windows":true,"has_live_broadcast":false,"localized":true},"201870":{"name":"Assassin's Creed\u00ae Revelations","url_name":"Assassins_Creed_Revelations","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/201870\/capsule_184x69.jpg?t=1602772760","os_windows":true,"has_live_broadcast":false,"localized":true},"15100":{"name":"Assassin's Creed\u2122: Director's Cut Edition","url_name":"Assassins_Creed_Directors_Cut_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/15100\/capsule_184x69.jpg?t=1602600542","os_windows":true,"has_live_broadcast":false,"localized":true},"33230":{"name":"Assassin's Creed 2","url_name":"Assassins_Creed_2","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/33230\/capsule_184x69.jpg?t=1631289682","os_windows":true,"has_live_broadcast":false,"localized":true},"359600":{"name":"Assassin\u2019s Creed\u00ae Chronicles: Russia","url_name":"Assassins_Creed_Chronicles_Russia","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/359600\/capsule_184x69.jpg?t=1532007222","os_windows":true,"has_live_broadcast":false,"localized":true},"311560":{"name":"Assassin\u2019s Creed\u00ae Rogue","url_name":"Assassins_Creed_Rogue","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/311560\/capsule_184x69.jpg?t=1602601367","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Now Available"},"937892":{"name":"Assassin\u2019s Creed\u24c7 Odyssey - The Fate of Atlantis","url_name":"Assassins_Creed_Odyssey__The_Fate_of_Atlantis","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/937892\/capsule_184x69.jpg?t=1567527628","os_windows":true,"dlc":true,"dlc_for_app":"812140","has_live_broadcast":false,"localized":true},"662350":{"name":"Assassin's Creed\u00ae Origins - The Hidden Ones","url_name":"Assassins_Creed_Origins__The_Hidden_Ones","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/662350\/capsule_184x69.jpg?t=1534182171","os_windows":true,"dlc":true,"dlc_for_app":"582160","has_live_broadcast":false,"localized":true},"489830":{"name":"The Elder Scrolls V: Skyrim Special Edition","url_name":"The_Elder_Scrolls_V_Skyrim_Special_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/489830\/capsule_184x69.jpg?t=1636654357","os_windows":true,"has_live_broadcast":false,"localized":true},"814380":{"name":"Sekiro\u2122: Shadows Die Twice - GOTY Edition","url_name":"Sekiro_Shadows_Die_Twice__GOTY_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/814380\/capsule_184x69.jpg?t=1603904569","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1252330":{"name":"DEATHLOOP","url_name":"DEATHLOOP","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1252330\/capsule_184x69.jpg?t=1633010221","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1151640":{"name":"Horizon Zero Dawn\u2122 Complete Edition","url_name":"Horizon_Zero_Dawn_Complete_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1151640\/capsule_184x69.jpg?t=1635442187","os_windows":true,"has_live_broadcast":false,"localized":true},"306130":{"name":"The Elder Scrolls\u00ae Online","url_name":"The_Elder_Scrolls_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/306130\/capsule_184x69.jpg?t=1636601973","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true},"740130":{"name":"Tales of Arise","url_name":"Tales_of_Arise","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/740130\/capsule_184x69.jpg?t=1635289178","os_windows":true,"has_live_broadcast":false,"localized":true},"1286830":{"name":"STAR WARS\u2122: The Old Republic\u2122","url_name":"STAR_WARS_The_Old_Republic","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">Free To Play<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1286830\/capsule_184x69.jpg?t=1616604893","os_windows":true,"has_live_broadcast":false,"localized":true},"292030":{"name":"The Witcher\u00ae 3: Wild Hunt","url_name":"The_Witcher_3_Wild_Hunt","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/292030\/capsule_184x69.jpg?t=1621939214","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Game of the Year Edition Now Available!"},"377160":{"name":"Fallout 4","url_name":"Fallout_4","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/377160\/capsule_184x69.jpg?t=1635279860","os_windows":true,"has_live_broadcast":false,"localized":true},"39210":{"name":"FINAL FANTASY XIV Online","url_name":"FINAL_FANTASY_XIV_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/39210\/capsule_184x69.jpg?t=1621453463","os_windows":true,"has_live_broadcast":false,"localized":true},"356190":{"name":"Middle-earth\u2122: Shadow of War\u2122","url_name":"Middleearth_Shadow_of_War","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/356190\/capsule_184x69.jpg?t=1575317164","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1030840":{"name":"Mafia: Definitive Edition","url_name":"Mafia_Definitive_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1030840\/capsule_184x69.jpg?t=1632420251","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"632470":{"name":"Disco Elysium - The Final Cut","url_name":"Disco_Elysium__The_Final_Cut","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/632470\/capsule_184x69.jpg?t=1636999532","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true},"261550":{"name":"Mount &amp; Blade II: Bannerlord","url_name":"Mount__Blade_II_Bannerlord","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/261550\/capsule_184x69.jpg?t=1626026727","os_windows":true,"early_access":true,"has_live_broadcast":false,"localized":true},"524220":{"name":"NieR:Automata\u2122","url_name":"NieRAutomata","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/524220\/capsule_184x69.jpg?t=1624266255","os_windows":true,"has_live_broadcast":false,"localized":true},"750920":{"name":"Shadow of the Tomb Raider: Definitive Edition","url_name":"Shadow_of_the_Tomb_Raider_Definitive_Edition","discount_block":"<div class=\"discount_block empty \"><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/750920\/capsule_184x69.jpg?t=1617889764","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"374320":{"name":"DARK SOULS\u2122 III","url_name":"DARK_SOULS_III","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/374320\/capsule_184x69.jpg?t=1636678210","os_windows":true,"has_live_broadcast":false,"localized":true},"379430":{"name":"Kingdom Come: Deliverance","url_name":"Kingdom_Come_Deliverance","discount_block":"<div class=\"discount_block \" data-price-final=\"1019\"><div class=\"discount_pct\">-66%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99<\/div><div class=\"discount_final_price\">$10.19<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/379430\/capsule_184x69_alt_assets_4.jpg?t=1636719215","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"578650":{"name":"The Outer Worlds","url_name":"The_Outer_Worlds","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/578650\/capsule_184x69.jpg?t=1616004214","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1328670":{"name":"Mass Effect\u2122 Legendary Edition","url_name":"Mass_Effect_Legendary_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1328670\/capsule_184x69.jpg?t=1627595040","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"208650":{"name":"Batman\u2122: Arkham Knight","url_name":"Batman_Arkham_Knight","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/208650\/capsule_184x69.jpg?t=1634156452","os_windows":true,"has_live_broadcast":false,"localized":true},"22380":{"name":"Fallout: New Vegas","url_name":"Fallout_New_Vegas","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/22380\/capsule_184x69.jpg?t=1586905021","os_windows":true,"has_live_broadcast":false,"localized":true},"1190460":{"name":"DEATH STRANDING","url_name":"DEATH_STRANDING","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1190460\/capsule_184x69.jpg?t=1636451066","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"391220":{"name":"Rise of the Tomb Raider\u2122","url_name":"Rise_of_the_Tomb_Raider","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/391220\/capsule_184x69.jpg?t=1617888747","os_windows":true,"os_macos":true,"os_linux":true,"vr_htcvive":true,"vr_oculusrift":true,"has_live_broadcast":false,"localized":true},"447040":{"name":"Watch_Dogs\u00ae 2","url_name":"Watch_Dogs_2","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/447040\/capsule_184x69.jpg?t=1602605654","os_windows":true,"has_live_broadcast":false,"localized":true},"637650":{"name":"FINAL FANTASY XV WINDOWS EDITION","url_name":"FINAL_FANTASY_XV_WINDOWS_EDITION","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/637650\/capsule_184x69.jpg?t=1592962568","os_windows":true,"has_live_broadcast":false,"localized":true},"403640":{"name":"Dishonored 2","url_name":"Dishonored_2","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/403640\/capsule_184x69.jpg?t=1603889340","os_windows":true,"has_live_broadcast":false,"localized":true},"287700":{"name":"METAL GEAR SOLID V: THE PHANTOM PAIN","url_name":"METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/287700\/capsule_184x69.jpg?t=1591740509","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Metal Gear Online Update Now Available"},"1069640":{"name":"This Land Is My Land","url_name":"This_Land_Is_My_Land","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1069640\/capsule_184x69.jpg?t=1634816268","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"611670":{"name":"The Elder Scrolls V: Skyrim VR","url_name":"The_Elder_Scrolls_V_Skyrim_VR","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/611670\/capsule_184x69.jpg?t=1564002443","os_windows":true,"vr_htcvive":true,"vr_oculusrift":true,"vr_windowsmr":true,"virtual_reality":true,"has_live_broadcast":false,"localized":true}},"rgPackages":[],"rgBundles":[]}	);
+		{"rgApps":{"582160":{"name":"Assassin's Creed\u00ae Origins","url_name":"Assassins_Creed_Origins","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/582160\/capsule_184x69.jpg?t=1603213581","os_windows":true,"has_live_broadcast":false,"localized":true},"242050":{"name":"Assassin\u2019s Creed\u00ae IV Black Flag\u2122","url_name":"Assassins_Creed_IV_Black_Flag","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/242050\/capsule_184x69.jpg?t=1616174462","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"New DLC Now Available"},"289650":{"name":"Assassin's Creed\u00ae Unity","url_name":"Assassins_Creed_Unity","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/289650\/capsule_184x69.jpg?t=1602601508","os_windows":true,"has_live_broadcast":false,"localized":true},"368500":{"name":"Assassin's Creed\u00ae Syndicate","url_name":"Assassins_Creed_Syndicate","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/368500\/capsule_184x69.jpg?t=1602772802","os_windows":true,"has_live_broadcast":false,"localized":true},"15100":{"name":"Assassin's Creed\u2122: Director's Cut Edition","url_name":"Assassins_Creed_Directors_Cut_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/15100\/capsule_184x69.jpg?t=1602600542","os_windows":true,"has_live_broadcast":false,"localized":true},"33230":{"name":"Assassin's Creed 2","url_name":"Assassins_Creed_2","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/33230\/capsule_184x69.jpg?t=1631289682","os_windows":true,"has_live_broadcast":false,"localized":true},"311560":{"name":"Assassin\u2019s Creed\u00ae Rogue","url_name":"Assassins_Creed_Rogue","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/311560\/capsule_184x69.jpg?t=1602601367","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Now Available"},"201870":{"name":"Assassin's Creed\u00ae Revelations","url_name":"Assassins_Creed_Revelations","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/201870\/capsule_184x69.jpg?t=1602772760","os_windows":true,"has_live_broadcast":false,"localized":true},"937892":{"name":"Assassin\u2019s Creed\u24c7 Odyssey - The Fate of Atlantis","url_name":"Assassins_Creed_Odyssey__The_Fate_of_Atlantis","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/937892\/capsule_184x69.jpg?t=1567527628","os_windows":true,"dlc":true,"dlc_for_app":"812140","has_live_broadcast":false,"localized":true},"48190":{"name":"Assassin\u2019s Creed\u00ae Brotherhood","url_name":"Assassins_Creed_Brotherhood","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/48190\/capsule_184x69.jpg?t=1602600648","os_windows":true,"has_live_broadcast":false,"localized":true},"662350":{"name":"Assassin's Creed\u00ae Origins - The Hidden Ones","url_name":"Assassins_Creed_Origins__The_Hidden_Ones","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/662350\/capsule_184x69.jpg?t=1534182171","os_windows":true,"dlc":true,"dlc_for_app":"582160","has_live_broadcast":false,"localized":true},"937891":{"name":"Assassin\u2019s Creed\u24c7 Odyssey \u2013 Legacy of the First Blade","url_name":"Assassins_Creed_Odyssey__Legacy_of_the_First_Blade","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/937891\/capsule_184x69.jpg?t=1544632052","os_windows":true,"dlc":true,"dlc_for_app":"812140","has_live_broadcast":false,"localized":true},"489830":{"name":"The Elder Scrolls V: Skyrim Special Edition","url_name":"The_Elder_Scrolls_V_Skyrim_Special_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/489830\/capsule_184x69.jpg?t=1636654357","os_windows":true,"has_live_broadcast":false,"localized":true},"814380":{"name":"Sekiro\u2122: Shadows Die Twice - GOTY Edition","url_name":"Sekiro_Shadows_Die_Twice__GOTY_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/814380\/capsule_184x69.jpg?t=1603904569","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1252330":{"name":"DEATHLOOP","url_name":"DEATHLOOP","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1252330\/capsule_184x69.jpg?t=1637251319","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1151640":{"name":"Horizon Zero Dawn\u2122 Complete Edition","url_name":"Horizon_Zero_Dawn_Complete_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1151640\/capsule_184x69.jpg?t=1635442187","os_windows":true,"has_live_broadcast":false,"localized":true},"306130":{"name":"The Elder Scrolls\u00ae Online","url_name":"The_Elder_Scrolls_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/306130\/capsule_184x69.jpg?t=1636601973","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true},"740130":{"name":"Tales of Arise","url_name":"Tales_of_Arise","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/740130\/capsule_184x69.jpg?t=1635289178","os_windows":true,"has_live_broadcast":false,"localized":true},"1286830":{"name":"STAR WARS\u2122: The Old Republic\u2122","url_name":"STAR_WARS_The_Old_Republic","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">Free To Play<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1286830\/capsule_184x69.jpg?t=1616604893","os_windows":true,"has_live_broadcast":false,"localized":true},"292030":{"name":"The Witcher\u00ae 3: Wild Hunt","url_name":"The_Witcher_3_Wild_Hunt","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/292030\/capsule_184x69.jpg?t=1621939214","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Game of the Year Edition Now Available!"},"377160":{"name":"Fallout 4","url_name":"Fallout_4","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/377160\/capsule_184x69.jpg?t=1635279860","os_windows":true,"has_live_broadcast":false,"localized":true},"39210":{"name":"FINAL FANTASY XIV Online","url_name":"FINAL_FANTASY_XIV_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/39210\/capsule_184x69.jpg?t=1621453463","os_windows":true,"has_live_broadcast":false,"localized":true},"356190":{"name":"Middle-earth\u2122: Shadow of War\u2122","url_name":"Middleearth_Shadow_of_War","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/356190\/capsule_184x69.jpg?t=1575317164","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1030840":{"name":"Mafia: Definitive Edition","url_name":"Mafia_Definitive_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1030840\/capsule_184x69.jpg?t=1632420251","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"632470":{"name":"Disco Elysium - The Final Cut","url_name":"Disco_Elysium__The_Final_Cut","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/632470\/capsule_184x69.jpg?t=1636999532","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true},"261550":{"name":"Mount &amp; Blade II: Bannerlord","url_name":"Mount__Blade_II_Bannerlord","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/261550\/capsule_184x69.jpg?t=1626026727","os_windows":true,"early_access":true,"has_live_broadcast":false,"localized":true},"524220":{"name":"NieR:Automata\u2122","url_name":"NieRAutomata","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/524220\/capsule_184x69.jpg?t=1624266255","os_windows":true,"has_live_broadcast":false,"localized":true},"379430":{"name":"Kingdom Come: Deliverance","url_name":"Kingdom_Come_Deliverance","discount_block":"<div class=\"discount_block \" data-price-final=\"1019\"><div class=\"discount_pct\">-66%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99<\/div><div class=\"discount_final_price\">$10.19<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/379430\/capsule_184x69_alt_assets_4.jpg?t=1636719215","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"750920":{"name":"Shadow of the Tomb Raider: Definitive Edition","url_name":"Shadow_of_the_Tomb_Raider_Definitive_Edition","discount_block":"<div class=\"discount_block empty \"><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/750920\/capsule_184x69.jpg?t=1617889764","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"374320":{"name":"DARK SOULS\u2122 III","url_name":"DARK_SOULS_III","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/374320\/capsule_184x69.jpg?t=1636678210","os_windows":true,"has_live_broadcast":false,"localized":true},"578650":{"name":"The Outer Worlds","url_name":"The_Outer_Worlds","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/578650\/capsule_184x69.jpg?t=1616004214","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1328670":{"name":"Mass Effect\u2122 Legendary Edition","url_name":"Mass_Effect_Legendary_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1328670\/capsule_184x69.jpg?t=1627595040","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"208650":{"name":"Batman\u2122: Arkham Knight","url_name":"Batman_Arkham_Knight","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/208650\/capsule_184x69.jpg?t=1634156452","os_windows":true,"has_live_broadcast":false,"localized":true},"22380":{"name":"Fallout: New Vegas","url_name":"Fallout_New_Vegas","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/22380\/capsule_184x69.jpg?t=1586905021","os_windows":true,"has_live_broadcast":false,"localized":true},"1190460":{"name":"DEATH STRANDING","url_name":"DEATH_STRANDING","discount_block":"<div class=\"discount_block \" data-price-final=\"1799\"><div class=\"discount_pct\">-70%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$59.99<\/div><div class=\"discount_final_price\">$17.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1190460\/capsule_184x69.jpg?t=1636451066","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"391220":{"name":"Rise of the Tomb Raider\u2122","url_name":"Rise_of_the_Tomb_Raider","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/391220\/capsule_184x69.jpg?t=1617888747","os_windows":true,"os_macos":true,"os_linux":true,"vr_htcvive":true,"vr_oculusrift":true,"has_live_broadcast":false,"localized":true},"447040":{"name":"Watch_Dogs\u00ae 2","url_name":"Watch_Dogs_2","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/447040\/capsule_184x69.jpg?t=1602605654","os_windows":true,"has_live_broadcast":false,"localized":true},"637650":{"name":"FINAL FANTASY XV WINDOWS EDITION","url_name":"FINAL_FANTASY_XV_WINDOWS_EDITION","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/637650\/capsule_184x69.jpg?t=1592962568","os_windows":true,"has_live_broadcast":false,"localized":true},"1069640":{"name":"This Land Is My Land","url_name":"This_Land_Is_My_Land","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1069640\/capsule_184x69.jpg?t=1634816268","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"403640":{"name":"Dishonored 2","url_name":"Dishonored_2","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/403640\/capsule_184x69.jpg?t=1603889340","os_windows":true,"has_live_broadcast":false,"localized":true},"287700":{"name":"METAL GEAR SOLID V: THE PHANTOM PAIN","url_name":"METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/287700\/capsule_184x69.jpg?t=1591740509","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Metal Gear Online Update Now Available"},"611670":{"name":"The Elder Scrolls V: Skyrim VR","url_name":"The_Elder_Scrolls_V_Skyrim_VR","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/611670\/capsule_184x69.jpg?t=1564002443","os_windows":true,"vr_htcvive":true,"vr_oculusrift":true,"vr_windowsmr":true,"virtual_reality":true,"has_live_broadcast":false,"localized":true}},"rgPackages":[],"rgBundles":[]}	);
 	GStoreItemData.AddNavParams( {
 		recommended: "1_5_9__300",
 		recommend_franchise: "1_5_9__316",
@@ -456,8 +456,8 @@
 		
         	} );
 	GDynamicStore.OnReady( function() {
-		RenderMoreLikeThisBlock( ["489830","814380","1252330","1151640","306130","740130","1286830","292030","377160","39210","356190","1030840","632470","261550","524220","750920","374320","379430","578650","1328670","208650","22380","1190460","391220","447040","637650","403640","287700","1069640","611670"], !!true );
-		RenderFranchiseAppBlock( ["582160","242050","289650","368500","48190","201870","15100","33230","359600","311560","937892","662350"] );
+		RenderMoreLikeThisBlock( ["489830","814380","1252330","1151640","306130","740130","1286830","292030","377160","39210","356190","1030840","632470","261550","524220","379430","750920","374320","578650","1328670","208650","22380","1190460","391220","447040","637650","1069640","403640","287700","611670"], !!true );
+		RenderFranchiseAppBlock( ["582160","242050","289650","368500","15100","33230","311560","201870","937892","48190","662350","937891"] );
 		RenderMoreDLCFromBaseGameBlock( [] );
 
 	});
@@ -994,7 +994,7 @@
 						if( $J('#searchform').length > 0 )
 						{
 							// default search support where the web page includes the search edit control
-							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_5_9_', 'US', 1, 'english', g_rgUserPreferences, '13171753' );
+							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_5_9_', 'US', 1, 'english', g_rgUserPreferences, '13183149' );
 						}
 						else 
 						{
@@ -1024,8 +1024,8 @@
       </script>
       <script type="text/javascript">
        var g_AccountID = 0;
-	var g_sessionID = "6f9344e01e74bdc8a52190da";
-	var g_ServerTime = 1637198193;
+	var g_sessionID = "3ac2af8466eacba253aa9b0b";
+	var g_ServerTime = 1637285514;
 
 	$J( InitMiniprofileHovers );
 
@@ -1038,7 +1038,7 @@
 		GStoreItemData.SetCurrencyFormatter( function( nValueInCents, bWholeUnitsOnly ) { var fmt = function( nValueInCents, bWholeUnitsOnly ) {	var format = v_numberformat( nValueInCents / 100, bWholeUnitsOnly ? 0 : 2, ".", ","); return format; };var strNegativeSymbol = '';	if ( nValueInCents < 0 ) { strNegativeSymbol = '-'; nValueInCents = -nValueInCents; }return strNegativeSymbol + "$" + fmt( nValueInCents, bWholeUnitsOnly );} );
 		GStoreItemData.SetCurrencyMinPriceIncrement( 1 );
       </script>
-      <div data-broadcastuser='{"success":1,"bHideStoreBroadcast":false}' data-config='{"EUNIVERSE":1,"WEB_UNIVERSE":"public","LANGUAGE":"english","COUNTRY":"US","MEDIA_CDN_COMMUNITY_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/","MEDIA_CDN_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/","COMMUNITY_CDN_URL":"https:\/\/community.cloudflare.steamstatic.com\/","COMMUNITY_CDN_ASSET_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/assets\/","STORE_CDN_URL":"https:\/\/store.cloudflare.steamstatic.com\/","PUBLIC_SHARED_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/shared\/","COMMUNITY_BASE_URL":"https:\/\/steamcommunity.com\/","CHAT_BASE_URL":"https:\/\/steamcommunity.com\/","STORE_BASE_URL":"https:\/\/store.steampowered.com\/","IMG_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/images\/","STEAMTV_BASE_URL":"https:\/\/steam.tv\/","HELP_BASE_URL":"https:\/\/help.steampowered.com\/","PARTNER_BASE_URL":"https:\/\/partner.steamgames.com\/","STATS_BASE_URL":"https:\/\/partner.steampowered.com\/","INTERNAL_STATS_BASE_URL":"https:\/\/steamstats.valve.org\/","IN_CLIENT":false,"USE_POPUPS":false,"STORE_ICON_BASE_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/","WEBAPI_BASE_URL":"https:\/\/api.steampowered.com\/","TOKEN_URL":"https:\/\/store.steampowered.com\/\/chat\/clientjstoken","BUILD_TIMESTAMP":1637109831,"PAGE_TIMESTAMP":1637198193,"IN_TENFOOT":false,"IN_GAMEPADUI":false,"PLATFORM":"unknown","BASE_URL_STORE_CDN_ASSETS":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/","EREALM":1,"LOGIN_BASE_URL":"https:\/\/login.steampowered.com\/","SNR":"1_5_9_"}' data-userinfo='{"logged_in":false,"country_code":"US"}' id="application_config" style="display: none;">
+      <div data-broadcastuser='{"success":1,"bHideStoreBroadcast":false}' data-config='{"EUNIVERSE":1,"WEB_UNIVERSE":"public","LANGUAGE":"english","COUNTRY":"US","MEDIA_CDN_COMMUNITY_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/","MEDIA_CDN_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/","COMMUNITY_CDN_URL":"https:\/\/community.cloudflare.steamstatic.com\/","COMMUNITY_CDN_ASSET_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/assets\/","STORE_CDN_URL":"https:\/\/store.cloudflare.steamstatic.com\/","PUBLIC_SHARED_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/shared\/","COMMUNITY_BASE_URL":"https:\/\/steamcommunity.com\/","CHAT_BASE_URL":"https:\/\/steamcommunity.com\/","STORE_BASE_URL":"https:\/\/store.steampowered.com\/","IMG_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/images\/","STEAMTV_BASE_URL":"https:\/\/steam.tv\/","HELP_BASE_URL":"https:\/\/help.steampowered.com\/","PARTNER_BASE_URL":"https:\/\/partner.steamgames.com\/","STATS_BASE_URL":"https:\/\/partner.steampowered.com\/","INTERNAL_STATS_BASE_URL":"https:\/\/steamstats.valve.org\/","IN_CLIENT":false,"USE_POPUPS":false,"STORE_ICON_BASE_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/","WEBAPI_BASE_URL":"https:\/\/api.steampowered.com\/","TOKEN_URL":"https:\/\/store.steampowered.com\/\/chat\/clientjstoken","BUILD_TIMESTAMP":1637260316,"PAGE_TIMESTAMP":1637285514,"IN_TENFOOT":false,"IN_GAMEPADUI":false,"PLATFORM":"unknown","BASE_URL_STORE_CDN_ASSETS":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/","EREALM":1,"LOGIN_BASE_URL":"https:\/\/login.steampowered.com\/","SNR":"1_5_9_"}' data-userinfo='{"logged_in":false,"country_code":"US"}' id="application_config" style="display: none;">
       </div>
       <!-- create two column layout for Deck, Tablet sized screens -->
       <div class="tablet_grid" id="tabletGrid">
@@ -1082,7 +1082,7 @@
             </a>
            </div>
            <div class="apphub_AppIcon">
-            <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg"/>
+            <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg"/>
             <div class="overlay">
             </div>
            </div>
@@ -1168,7 +1168,7 @@
              </div>
              <div class="glance_ctn_responsive_left">
               <div class="user_reviews" id="userReviews">
-               <div class="user_reviews_summary_row" data-tooltip-html="90% of the 1,692 user reviews in the last 30 days are positive." onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="90% of the 1,625 user reviews in the last 30 days are positive." onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column">
                  Recent Reviews:
                 </div>
@@ -1177,14 +1177,14 @@
                   Very Positive
                  </span>
                  <span class="responsive_hidden">
-                  (1,692)
+                  (1,625)
                  </span>
                  <span class="nonresponsive_hidden responsive_reviewdesc">
-                  - 90% of the 1,692 user reviews in the last 30 days are positive.
+                  - 90% of the 1,625 user reviews in the last 30 days are positive.
                  </span>
                 </div>
                </div>
-               <div class="user_reviews_summary_row" data-tooltip-html="89% of the 97,544 user reviews for this game are positive." itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="89% of the 97,575 user reviews for this game are positive." itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column all">
                  All Reviews:
                 </div>
@@ -1193,13 +1193,13 @@
                   Very Positive
                  </span>
                  <span class="responsive_hidden">
-                  (97,544)
+                  (97,575)
                  </span>
                  <span class="nonresponsive_hidden responsive_reviewdesc">
-                  - 89% of the 97,544 user reviews for this game are positive.
+                  - 89% of the 97,575 user reviews for this game are positive.
                  </span>
                  <!-- microdata -->
-                 <meta content="97544" itemprop="reviewCount"/>
+                 <meta content="97575" itemprop="reviewCount"/>
                  <meta content="9" itemprop="ratingValue"/>
                  <meta content="10" itemprop="bestRating"/>
                  <meta content="1" itemprop="worstRating"/>
@@ -1347,19 +1347,19 @@
                   Very Positive
                  </span>
                  <span class="responsive_reviewdesc_short">
-                  (89% of 97,544)
+                  (89% of 97,575)
                   <span class="desc_short">
                    All Time
                   </span>
                  </span>
                  <!-- microdata -->
-                 <meta content="97544" itemprop="reviewCount"/>
+                 <meta content="97575" itemprop="reviewCount"/>
                  <meta content="9" itemprop="ratingValue"/>
                  <meta content="10" itemprop="bestRating"/>
                  <meta content="1" itemprop="worstRating"/>
                 </div>
                </div>
-               <div class="user_reviews_summary_row" data-tooltip-html="90% of the 1,692 user reviews in the last 30 days are positive." id="appReviewsRecent_responsive" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="90% of the 1,625 user reviews in the last 30 days are positive." id="appReviewsRecent_responsive" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column">
                  Recent Reviews:
                 </div>
@@ -1368,7 +1368,7 @@
                   Very Positive
                  </span>
                  <span class="responsive_reviewdesc_short">
-                  (90% of 1,692)
+                  (90% of 1,625)
                   <span class="desc_short">
                    Recent
                   </span>
@@ -2148,13 +2148,13 @@
            </div>
            <div class="communitylink_achievement_images">
             <div class="communitylink_achievement">
-             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/812140/99a5100a8c20faa6c106b0d8b0ae0bd80ae2d9a8.jpg" title="The Midas Touch"/>
+             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/812140/12ca9eb31bf254dfb2adc66c717ca7f862578088.jpg" title="Everybody Benefits"/>
             </div>
             <div class="communitylink_achievement">
-             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/812140/74fe04106e7e876bb9c3b4fc386906bce1de5a4e.jpg" title="1 Versus 100"/>
+             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/812140/c45ae1e8aed554fe3e3dc33b44fd849bb6fb9bed.jpg" title="Parry to Carry"/>
             </div>
             <div class="communitylink_achievement">
-             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/812140/3ebd4b53b729996f4c0e138b9fb2af9e68a0b10e.jpg" title="Gathering Full Strength"/>
+             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/812140/965401595d92e3680d7f3dc4acd2572ac2d67ff3.jpg" title="Rain of Arrows"/>
             </div>
             <a class="communitylink_achievement communitylink_achivement_plusmore" href="https://steamcommunity.com/stats/812140/achievements">
              View
@@ -2179,18 +2179,18 @@
            </div>
            <div class="communitylink_points_shop_images">
             <div class="communitylink_points_shop_item">
-             <a href="https://store.steampowered.com/points/shop/app/812140/reward/64824/">
-              <img class="" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/812140/a355ee8e4d83bf2c4ad0b9ab072ad8cf2a365393.png" title=":ACODC_Trireme:"/>
+             <a href="https://store.steampowered.com/points/shop/app/812140/reward/65382/">
+              <img class="profile_background" src="https://steamcommunity.com/economy/profilebackground/items/812140/9e507849f8603aa3b006e10a1ba2c3264d344413.jpg?size=64x0" title="Kassandra"/>
+             </a>
+            </div>
+            <div class="communitylink_points_shop_item">
+             <a href="https://store.steampowered.com/points/shop/app/812140/reward/65238/">
+              <img class="" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/812140/1f63da24813094a98663d45dcd4f2229ddff96b6.png" title=":ACODC_Kick:"/>
              </a>
             </div>
             <div class="communitylink_points_shop_item">
              <a href="https://store.steampowered.com/points/shop/app/812140/reward/65328/">
               <img class="profile_background" src="https://steamcommunity.com/economy/profilebackground/items/812140/4ae73ce8d1da6edfe4cc9dc2f79fce36de3348a5.jpg?size=64x0" title="Athens"/>
-             </a>
-            </div>
-            <div class="communitylink_points_shop_item">
-             <a href="https://store.steampowered.com/points/shop/app/812140/reward/65274/">
-              <img class="profile_background" src="https://steamcommunity.com/economy/profilebackground/items/812140/88483d126ba2d0bf518ce4e4b0a7e4a024f84934.jpg?size=64x0" title="Sparta"/>
              </a>
             </div>
             <a class="communitylink_achievement communitylink_achivement_plusmore" href="https://store.steampowered.com/points/shop/app/812140/">
@@ -2405,7 +2405,7 @@
               <input name="snr" type="hidden" value="1_5_9__403"/>
               <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="6f9344e01e74bdc8a52190da"/>
+              <input name="sessionid" type="hidden" value="3ac2af8466eacba253aa9b0b"/>
               <input name="subid" type="hidden" value="247989"/>
              </form>
              <div class="game_area_purchase_platform">
@@ -2437,7 +2437,7 @@
               <input name="snr" type="hidden" value="1_5_9__403"/>
               <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="6f9344e01e74bdc8a52190da"/>
+              <input name="sessionid" type="hidden" value="3ac2af8466eacba253aa9b0b"/>
               <input name="subid" type="hidden" value="290649"/>
              </form>
              <div class="game_area_purchase_platform">
@@ -2469,7 +2469,7 @@
               <input name="snr" type="hidden" value="1_5_9__403"/>
               <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="6f9344e01e74bdc8a52190da"/>
+              <input name="sessionid" type="hidden" value="3ac2af8466eacba253aa9b0b"/>
               <input name="subid" type="hidden" value="290655"/>
              </form>
              <div class="game_area_purchase_platform">
@@ -2501,7 +2501,7 @@
               <input name="snr" type="hidden" value="1_5_9__403"/>
               <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="6f9344e01e74bdc8a52190da"/>
+              <input name="sessionid" type="hidden" value="3ac2af8466eacba253aa9b0b"/>
               <input name="subid" type="hidden" value="290658"/>
              </form>
              <div class="game_area_purchase_platform">
@@ -2542,7 +2542,7 @@
             <div class="game_area_dlc_list">
              <form action="https://store.steampowered.com/cart/?snr=1_5_9_" method="POST" name="add_all_dlc_to_cart">
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="6f9344e01e74bdc8a52190da"/>
+              <input name="sessionid" type="hidden" value="3ac2af8466eacba253aa9b0b"/>
               <div class="tableView">
                <div class="gameDlcBlocks">
                 <a class="game_area_dlc_row odd ds_collapse_flag ds_collapse_flag_tiny" data-ds-appid="937890" data-ds-crtrids="[33075774,185907]" data-ds-itemkey="App_937890" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,19,21,1695]" href="https://store.steampowered.com/app/937890/Assassins_Creed_Odyssey__Season_Pass/?snr=1_5_9__405" id="dlc_row_937890" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:937890,&quot;public&quot;:1,&quot;v6&quot;:1} );">
@@ -2612,7 +2612,7 @@
              Ultimate Edition
             </h2>
             <p>
-             <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/812140/extras/ACD_UCS6738_ProductImage_1000x1000_US.jpg?t=1602601042">
+             <img src="https://cdn.akamai.steamstatic.com/steam/apps/812140/extras/ACD_UCS6738_ProductImage_1000x1000_US.jpg?t=1602601042">
               <br/>
               <br/>
               Enhance your Assassin's Creed® Odyssey experience with the ULTIMATE EDITION, including the game, the DELUXE PACK and the SEASON PASS.
@@ -2629,7 +2629,7 @@
              Gold Edition
             </h2>
             <p>
-             <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/812140/extras/ACD_UCS7400_ProductImage_1000x1000_GE_US.jpg?t=1602601042">
+             <img src="https://cdn.akamai.steamstatic.com/steam/apps/812140/extras/ACD_UCS7400_ProductImage_1000x1000_GE_US.jpg?t=1602601042">
               <br/>
               <br/>
               Enhance your Assassin's Creed® Odyssey experience with the GOLD EDITION including the game and the SEASON PASS.
@@ -2646,7 +2646,7 @@
              Deluxe Edition
             </h2>
             <p>
-             <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/812140/extras/ACD_UCS6734_ProductImage_1000x1000_US.jpg?t=1602601042">
+             <img src="https://cdn.akamai.steamstatic.com/steam/apps/812140/extras/ACD_UCS6734_ProductImage_1000x1000_US.jpg?t=1602601042">
               <br/>
               <br/>
               Upgrade your game experience with the DELUXE EDITION which includes the game and the Deluxe Pack.
@@ -2674,7 +2674,7 @@
             <h2>
              About This Game
             </h2>
-            <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/812140/extras/600x200_Verbatim-Steam_UK.jpg?t=1602601042">
+            <img src="https://cdn.akamai.steamstatic.com/steam/apps/812140/extras/600x200_Verbatim-Steam_UK.jpg?t=1602601042">
              <br/>
              <br/>
              <br/>
@@ -2931,8 +2931,8 @@
            <input id="review_default_day_range" type="hidden" value="30"/>
            <input id="review_start_date" type="hidden" value="-1"/>
            <input id="review_end_date" type="hidden" value="-1"/>
-           <input id="review_summary_num_positive_reviews" type="hidden" value="87251"/>
-           <input id="review_summary_num_reviews" type="hidden" value="97544"/>
+           <input id="review_summary_num_positive_reviews" type="hidden" value="87279"/>
+           <input id="review_summary_num_reviews" type="hidden" value="97575"/>
            <div class="review_recent_events" id="review_recent_events_container">
            </div>
            <div class="collapsed" id="review_histograms_container">
@@ -2944,11 +2944,11 @@
                <div class="title">
                 Overall Reviews:
                </div>
-               <span class="game_review_summary positive" data-tooltip-html="89% of the 97,544 user reviews for this game are positive.">
+               <span class="game_review_summary positive" data-tooltip-html="89% of the 97,575 user reviews for this game are positive.">
                 Very Positive
                </span>
                <span>
-                (97,544 reviews)
+                (97,575 reviews)
                </span>
                <a class="tooltip" data-tooltip-text="This summary uses only reviews written by customers that purchased the game directly from Steam.">
                 <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark.png"/>
@@ -2968,11 +2968,11 @@
                <div class="title">
                 Recent Reviews:
                </div>
-               <span class="game_review_summary positive" data-tooltip-html="90% of the 1,692 user reviews in the last 30 days are positive.">
+               <span class="game_review_summary positive" data-tooltip-html="90% of the 1,625 user reviews in the last 30 days are positive.">
                 Very Positive
                </span>
                <span>
-                (1,692 reviews)
+                (1,625 reviews)
                </span>
                <a class="tooltip" data-tooltip-text="This summary uses only reviews written by customers that purchased the game directly from Steam.">
                 <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark.png"/>
@@ -2996,7 +2996,7 @@
                <label for="review_type_all">
                 All
                 <span class="user_reviews_count">
-                 (110,847)
+                 (110,879)
                 </span>
                </label>
                <br/>
@@ -3004,7 +3004,7 @@
                <label for="review_type_positive">
                 Positive
                 <span class="user_reviews_count">
-                 (98,599)
+                 (98,627)
                 </span>
                </label>
                <br/>
@@ -3012,7 +3012,7 @@
                <label for="review_type_negative">
                 Negative
                 <span class="user_reviews_count">
-                 (12,248)
+                 (12,252)
                 </span>
                </label>
               </div>
@@ -3028,7 +3028,7 @@
                <label for="purchase_type_all">
                 All
                 <span class="user_reviews_count">
-                 (110,847)
+                 (110,879)
                 </span>
                </label>
                <br/>
@@ -3036,7 +3036,7 @@
                <label for="purchase_type_steam">
                 Steam Purchasers
                 <span class="user_reviews_count">
-                 (97,544)
+                 (97,575)
                 </span>
                 <a class="tooltip" data-tooltip-text="These are reviews written by customers that purchased the game directly from Steam.">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -3047,7 +3047,7 @@
                <label for="purchase_type_non_steam">
                 Other
                 <span class="user_reviews_count">
-                 (13,303)
+                 (13,304)
                 </span>
                 <a class="tooltip" data-tooltip-text="These are reviews written by customers that did not purchase the game on Steam. (This may include legitimate sources such as other digital stores, retail stores, testing purposes, or press review purposes. Or, from inappropriate sources such as copies given in exchange for reviews.)">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -3066,7 +3066,7 @@
                <label for="review_language_all">
                 All Languages
                 <span class="user_reviews_count">
-                 (110,847)
+                 (110,879)
                 </span>
                </label>
                <br/>
@@ -3074,7 +3074,7 @@
                <label for="review_language_mine">
                 Your Languages
                 <span class="user_reviews_count">
-                 (37,365)
+                 (37,371)
                 </span>
                 <a class="tooltip" data-tooltip-html="Your preferences are currently set to show content authored in these languages: English.&lt;br&gt;&lt;br&gt; Click 'customize' below to modify your preferences.">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -3489,7 +3489,7 @@
      <script type="text/javascript">
       $J( function() {
 			InitAppTagModal( 812140,
-				[{"tagid":1695,"name":"Open World","count":1939,"browseable":true},{"tagid":122,"name":"RPG","count":1341,"browseable":true},{"tagid":4182,"name":"Singleplayer","count":1083,"browseable":true},{"tagid":4376,"name":"Assassin","count":1078,"browseable":true},{"tagid":19,"name":"Action","count":1052,"browseable":true},{"tagid":21,"name":"Adventure","count":928,"browseable":true},{"tagid":3987,"name":"Historical","count":902,"browseable":true},{"tagid":1687,"name":"Stealth","count":739,"browseable":true},{"tagid":1742,"name":"Story Rich","count":674,"browseable":true},{"tagid":7208,"name":"Female Protagonist","count":541,"browseable":true},{"tagid":1697,"name":"Third Person","count":533,"browseable":true},{"tagid":4036,"name":"Parkour","count":525,"browseable":true},{"tagid":12095,"name":"Sexual Content","count":475,"browseable":true},{"tagid":6426,"name":"Choices Matter","count":391,"browseable":true},{"tagid":4667,"name":"Violent","count":340,"browseable":true},{"tagid":3859,"name":"Multiplayer","count":331,"browseable":true},{"tagid":4166,"name":"Atmospheric","count":330,"browseable":true},{"tagid":6650,"name":"Nudity","count":288,"browseable":true},{"tagid":1756,"name":"Great Soundtrack","count":280,"browseable":true},{"tagid":4345,"name":"Gore","count":262,"browseable":true}],
+				[{"tagid":1695,"name":"Open World","count":1939,"browseable":true},{"tagid":122,"name":"RPG","count":1341,"browseable":true},{"tagid":4182,"name":"Singleplayer","count":1083,"browseable":true},{"tagid":4376,"name":"Assassin","count":1078,"browseable":true},{"tagid":19,"name":"Action","count":1052,"browseable":true},{"tagid":21,"name":"Adventure","count":928,"browseable":true},{"tagid":3987,"name":"Historical","count":902,"browseable":true},{"tagid":1687,"name":"Stealth","count":739,"browseable":true},{"tagid":1742,"name":"Story Rich","count":674,"browseable":true},{"tagid":7208,"name":"Female Protagonist","count":541,"browseable":true},{"tagid":1697,"name":"Third Person","count":533,"browseable":true},{"tagid":4036,"name":"Parkour","count":525,"browseable":true},{"tagid":12095,"name":"Sexual Content","count":476,"browseable":true},{"tagid":6426,"name":"Choices Matter","count":391,"browseable":true},{"tagid":4667,"name":"Violent","count":340,"browseable":true},{"tagid":3859,"name":"Multiplayer","count":331,"browseable":true},{"tagid":4166,"name":"Atmospheric","count":330,"browseable":true},{"tagid":6650,"name":"Nudity","count":288,"browseable":true},{"tagid":1756,"name":"Great Soundtrack","count":280,"browseable":true},{"tagid":4345,"name":"Gore","count":262,"browseable":true}],
 				[],
 				"1_5_9__410",
 				"1_5_9__411",
@@ -3501,11 +3501,11 @@
 					});
      </script>
      <link href="https://store.cloudflare.steamstatic.com/public/css/applications/store/main.css?v=PRHhWRjxyFOe&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/manifest.js?v=XW4d63TBQvL2&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/manifest.js?v=6cWdA4tT-4AX&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/libraries.js?v=8TRmMpfWBHVd&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/libraries.js?v=3NqeSni5Qekb&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/main.js?v=XBBE5Ml54cPz&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/main.js?v=2VPMYCzKoOXY&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
     </div>
     <!-- responsive_page_legacy_content -->

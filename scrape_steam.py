@@ -2,7 +2,6 @@
 # Place data into Excel
 import requests
 from bs4 import BeautifulSoup
-import xlsxwriter
 import pandas as pd
 
 # scrape_test() scrapes data from two URLs and writes the output to a .txt file
@@ -20,8 +19,27 @@ def scrape_test():
     with open(filename, 'w', encoding="utf-8") as fd:
         fd.write(soup.prettify())
 
+    r = requests.get('https://store.steampowered.com/search/?term=')
+    soup = BeautifulSoup(r.text, 'html.parser')
+    filename = "scrape_test3.txt"
+    with open(filename, 'w', encoding="utf-8") as fd:
+        fd.write(soup.prettify())
+
+# get_app_ids() gets app ids from steam 
+# Each app_id is used to access a URL for a specific game
+def get_app_ids():
+    app_ids = []
+    url = 'https://store.steampowered.com/search/?term=' # this url shows all projects on Steam
+    r = requests.get(url)
+    soup = BeautifulSoup(r.text, 'html.parser')
+
+    for game in soup.find_all("a", {"class":"search_result_row ds_collapse_flag"}):
+        app_ids.append(game["data-ds-appid"])
+
+    return app_ids
+
 # get_game_data() takes a steam url corresponding to a single video game
-# it scrapes the page for relevant characteristics that I use to calculate similarity scores
+# it scrapes the page for relevant characteristics that I use to calculate similarity
 def get_game_data(url):
     r = requests.get(url)
     soup = BeautifulSoup(r.text, 'html.parser')
@@ -30,45 +48,69 @@ def get_game_data(url):
     title = soup.find(itemprop='name').get_text() 
 
     # get genres
-    genre_list = []
+    genre_list = ['' for i in range(3)]
+    i = 0
     for genre in soup.find(id="genresAndManufacturer").find("span").find_all("a"):
-        genre_list.append(genre.get_text())
+        if i == 3: # allowing three genres at most
+            break
+        genre_list[i] = genre.get_text()
+        i += 1
 
-    # get user-defined tags (20 per game, ignore the 1st '' and the 21st '+')
-    tag_list = []
+    # get user-defined tags (20 per game, ignore the 1st '' tag and the 21st '+' tag)
+    tag_list = ['' for i in range(20)]
+    i = 0
     for tag in soup.find("div", {"class":"glance_tags popular_tags"}):
+        if i == 20: # only 20 tags maximum
+            break
         tag_ = tag.get_text().strip()
         if tag_ != '+' and tag_ != '':
-            tag_list.append(tag_)
+            tag_list[i] = tag_
+            i += 1
 
     # get percentage of positive reviews and total user reviews
-    review_desc = soup.find("span", {"class":"responsive_reviewdesc_short"}).get_text().strip() 
-    pos_idx = review_desc.index('%')
-    rev_idx_start = review_desc.index('of ') + 3
-    rev_idx_end = review_desc.index(')')
+    review_desc = soup.find("span", {"class":"responsive_reviewdesc_short"})
+    
+    if review_desc == None: # no review description, set to empty string
+        pos_pct = ''
+        tot_rev = ''
+    else: 
+        review_desc = review_desc.get_text().strip() 
+        pos_idx = review_desc.index('%') 
+        rev_idx_start = review_desc.index('of ') + 3
+        rev_idx_end = review_desc.index(')')
 
-    pos_pct = review_desc[1:pos_idx+1] # extract percentage of positive reviews
-    tot_rev = review_desc[rev_idx_start:rev_idx_end] # extract total user reviews
+        pos_pct = review_desc[1:pos_idx+1] # extract percentage of positive reviews
+        tot_rev = review_desc[rev_idx_start:rev_idx_end] # extract total user reviews
 
-    print(title, genre_list, tag_list, pos_pct, tot_rev)
-
-    # return characteristics
+    return title, genre_list, tag_list, pos_pct, tot_rev
 
 # write_data() stores scraped data into an Excel file
-# this is used for verification purposes
-def write_data():  
-    # pandas and xlsxwriter code here
+# this is used as input for the apriori algorithm
+def write_data(game_dict):  
+    df = pd.DataFrame.from_dict(game_dict, orient='index') # convert to dataframe format
+    df.columns = ['Genre1', 'Genre2', 'Genre3', 'Tag1', 'Tag2', 'Tag3', 'Tag4', 'Tag5', 'Tag6', 'Tag7', 'Tag8', 'Tag9', 
+                'Tag10', 'Tag11', 'Tag12', 'Tag13', 'Tag14', 'Tag15', 'Tag16', 'Tag17', 'Tag18', 'Tag19', 'Tag20', 'PosPercent', 'TotalReviews'] # rename dataframe columns
 
+    with pd.ExcelWriter("game_data.xlsx") as writer: # write to Excel
+        df.to_excel(writer, sheet_name='Video Game Data')
+
+# scrape_steam() loops through games on steam
+# it extracts relevant characteristics for each game and stores the data in Excel
 def scrape_steam():
-    # loop through all (limit??? games)
-        # run get_game_data and add to dictionary
-    #write_data from dict to excel
+    game_dict = {}
+    app_ids = get_app_ids()
+    
+    for i in range(len(app_ids)): # loop through each app id
+        url = 'https://store.steampowered.com/app/' + app_ids[i] # get url for each game
+        data = get_game_data(url)
+        game_dict[data[0]] = (data[1][0], data[1][1], data[1][2], 
+                                data[2][0], data[2][1], data[2][2], data[2][3], data[2][4], data[2][5], data[2][6], data[2][7], data[2][8], data[2][9], 
+                                data[2][10], data[2][11], data[2][12], data[2][13], data[2][14], data[2][15], data[2][16], data[2][17], data[2][18], data[2][19], 
+                                data[3], data[4]) # separate genre_list and tag_list into separate entries
+
+    write_data(game_dict)
 
 
 if __name__ == "__main__":
     #scrape_test()
-    url = 'https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/'
-    get_game_data(url)
-
-    url = 'https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/'
-    get_game_data(url)
+    scrape_steam()

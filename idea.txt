@@ -1,7 +1,7 @@
 Plan: User inputs a game and program outputs 3 similar games to recommend.
 
 Similarity criteria:
-    1. Genre (RPG, FPS, etc.) 
+    1. Genre (RPG, FPS, etc.) -> limit of 3
     2. Subject (Fantasy, war, etc.) - user-defined tags
     3. Popularity
     4. Rating
@@ -10,7 +10,7 @@ Steps:
     1. Scrape game data from steam
         - Clean data
         - Generate an array of criteria for each game -> or put into CSV?
-    2. Similarity algorithm
+    2. Similarity algorithm -> Apriori
         - Create node for each game
         - Calculate similarity score between each two nodes
         - If similarity score is above a certain threshold, add weighted edge between the two nodes
