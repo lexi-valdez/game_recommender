@@ -5,11 +5,11 @@
   <meta content="width=device-width,initial-scale=1" name="viewport"/>
   <meta content="#171a21" name="theme-color"/>
   <title>
-   Dragon Age: Origins - Ultimate Edition on Steam
+   Save 75% on Dragon Age: Origins - Ultimate Edition on Steam
   </title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/motiva_sans.css?v=2C1Oh9QFVTyK&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-  <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=wEtEKHnxqI7T&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+  <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=HgJ-vRcbYWPh&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/buttons.css?v=hFJKQ6HV7IKT&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/css/v6/store.css?v=PwckfHNPKT6i&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/user_reviews.css?v=F73HJC22IPdX&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
@@ -18,6 +18,7 @@
   <link href="https://store.cloudflare.steamstatic.com/public/css/v6/recommended.css?v=xuPF2BB4ygA-&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/css/v6/user_reviews_rewards.css?v=5-HJZa1v4wFP&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/apphub.css?v=0jTpyLdMuBBC&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+  <link href="https://store.cloudflare.steamstatic.com/public/css/promo/autumn2021_nominations.css?v=fmc_TUDt8_rx&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/ui-lightness/jquery-ui-1.7.2.custom.css?v=.23LkAmA0IgZV&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/css/v6/game_mob.css?v=DsamWNlStnbx&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_responsive.css?v=mx3zakmFPU5T&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
@@ -79,6 +80,8 @@
   </script>
   <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/flot-0.8/jquery.flot.selection.min.js?v=._7pxnS3SCqO7&amp;_cdn=cloudflare" type="text/javascript">
   </script>
+  <script src="https://store.cloudflare.steamstatic.com/public/javascript/promo/salefunctions.js?v=QkX1h9QiiO9U&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+  </script>
   <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/jquery-ui-1.9.2.js?v=.4YjdpcHj68MM&amp;_cdn=cloudflare" type="text/javascript">
   </script>
   <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=gcLGc1YQkPQi&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
@@ -86,8 +89,8 @@
   <meta content="summary_large_image" name="twitter:card"/>
   <meta content="Dragon Age: Origins - Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs." name="Description"/>
   <meta content="@steam" name="twitter:site">
-   <meta content="Dragon Age: Origins - Ultimate Edition on Steam" property="og:title"/>
-   <meta content="Dragon Age: Origins - Ultimate Edition on Steam" property="twitter:title"/>
+   <meta content="Save 75% on Dragon Age: Origins - Ultimate Edition on Steam" property="og:title"/>
+   <meta content="Save 75% on Dragon Age: Origins - Ultimate Edition on Steam" property="twitter:title"/>
    <meta content="website" property="og:type"/>
    <meta content="105386699540688" property="fb:app_id"/>
    <meta content="Steam" property="og:site"/>
@@ -404,7 +407,7 @@
       var g_eDiscoveryQueueType = 0;
 
 	GStoreItemData.AddStoreItemDataSet(
-		{"rgApps":{"1222690":{"name":"Dragon Age\u2122 Inquisition","url_name":"Dragon_Age_Inquisition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1222690\/capsule_184x69.jpg?t=1633006819","os_windows":true,"has_live_broadcast":false,"mastersub_granting_app":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/mastersubs\/eaplay\/eaplay.svg","localized":true,"has_adult_content_violence":true},"1238040":{"name":"Dragon Age II","url_name":"Dragon_Age_II","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1238040\/capsule_184x69.jpg?t=1614948670","os_windows":true,"has_live_broadcast":false,"mastersub_granting_app":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/mastersubs\/eaplay\/eaplay.svg","localized":true,"has_adult_content_violence":true,"has_adult_content_sex":true},"1238050":{"name":"Dragon Age II DLC Bundle","url_name":"Dragon_Age_II_DLC_Bundle","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1238050\/capsule_184x69.jpg?t=1609112422","os_windows":true,"dlc":true,"dlc_for_app":"1238040","has_live_broadcast":false,"localized":true,"has_adult_content_violence":true,"has_adult_content_sex":true},"17450":{"name":"Dragon Age: Origins","url_name":"Dragon_Age_Origins","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/17450\/capsule_184x69.jpg?t=1615390705","os_windows":true,"has_live_broadcast":false,"localized":true},"47730":{"name":"Dragon Age\u2122: Origins Awakening","url_name":"Dragon_Age_Origins_Awakening","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47730\/capsule_184x69.jpg?t=1615217804","os_windows":true,"has_live_broadcast":false,"localized":true},"1086940":{"name":"Baldur's Gate 3","url_name":"Baldurs_Gate_3","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1086940\/capsule_184x69.jpg?t=1634241306","os_windows":true,"os_macos":true,"early_access":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1184370":{"name":"Pathfinder: Wrath of the Righteous","url_name":"Pathfinder_Wrath_of_the_Righteous","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1184370\/capsule_184x69.jpg?t=1636468530","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"292030":{"name":"The Witcher\u00ae 3: Wild Hunt","url_name":"The_Witcher_3_Wild_Hunt","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/292030\/capsule_184x69.jpg?t=1621939214","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Game of the Year Edition Now Available!"},"763890":{"name":"Wildermyth","url_name":"Wildermyth","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/763890\/capsule_184x69.jpg?t=1634231822","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true},"1096530":{"name":"Solasta: Crown of the Magister","url_name":"Solasta_Crown_of_the_Magister","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1096530\/capsule_184x69.jpg?t=1636040929","os_windows":true,"os_macos":true,"has_live_broadcast":true,"localized":true},"640820":{"name":"Pathfinder: Kingmaker - Enhanced Plus Edition","url_name":"Pathfinder_Kingmaker__Enhanced_Plus_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/640820\/capsule_184x69.jpg?t=1630566412","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"632470":{"name":"Disco Elysium - The Final Cut","url_name":"Disco_Elysium__The_Final_Cut","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/632470\/capsule_184x69.jpg?t=1636999532","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true},"560130":{"name":"Pillars of Eternity II: Deadfire","url_name":"Pillars_of_Eternity_II_Deadfire","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/560130\/capsule_184x69.jpg?t=1632762508","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true},"719040":{"name":"Wasteland 3","url_name":"Wasteland_3","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/719040\/capsule_184x69.jpg?t=1629827324","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"356190":{"name":"Middle-earth\u2122: Shadow of War\u2122","url_name":"Middleearth_Shadow_of_War","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/356190\/capsule_184x69.jpg?t=1575317164","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1295510":{"name":"DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122 - Definitive Edition","url_name":"DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1295510\/capsule_184x69.jpg?t=1622131694","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"606880":{"name":"GreedFall","url_name":"GreedFall","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/606880\/capsule_184x69.jpg?t=1628785114","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1113000":{"name":"Persona 4 Golden","url_name":"Persona_4_Golden","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1113000\/capsule_184x69.jpg?t=1626689322","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"212500":{"name":"The Lord of the Rings Online\u2122","url_name":"The_Lord_of_the_Rings_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">Play for Free!<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/212500\/capsule_184x69.jpg?t=1630088794","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Now Available -  Paths of the Dead Update!"},"1287840":{"name":"Disciples: Liberation","url_name":"Disciples_Liberation","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1287840\/capsule_184x69.jpg?t=1637258998","os_windows":true,"has_live_broadcast":true,"localized":true,"has_adult_content_violence":true},"22330":{"name":"The Elder Scrolls IV: Oblivion\u00ae Game of the Year Edition","url_name":"The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$14.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/22330\/capsule_184x69.jpg?t=1585658214","os_windows":true,"has_live_broadcast":false,"localized":true},"595520":{"name":"FINAL FANTASY XII THE ZODIAC AGE","url_name":"FINAL_FANTASY_XII_THE_ZODIAC_AGE","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/595520\/capsule_184x69.jpg?t=1635500529","os_windows":true,"has_live_broadcast":false,"localized":true},"921570":{"name":"OCTOPATH TRAVELER\u2122","url_name":"OCTOPATH_TRAVELER","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/921570\/capsule_184x69.jpg?t=1629997522","os_windows":true,"has_live_broadcast":false,"localized":true},"228280":{"name":"Baldur's Gate: Enhanced Edition","url_name":"Baldurs_Gate_Enhanced_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/228280\/capsule_184x69.jpg?t=1632772481","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"status_string":"New DLC Available"},"291650":{"name":"Pillars of Eternity","url_name":"Pillars_of_Eternity","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/291650\/capsule_184x69.jpg?t=1615973823","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"status_string":"New DLC Available!"},"335300":{"name":"DARK SOULS\u2122 II: Scholar of the First Sin","url_name":"DARK_SOULS_II_Scholar_of_the_First_Sin","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/335300\/capsule_184x69.jpg?t=1636678017","os_windows":true,"has_live_broadcast":false,"localized":true},"32370":{"name":"STAR WARS\u2122 - Knights of the Old Republic\u2122","url_name":"STAR_WARS__Knights_of_the_Old_Republic","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/32370\/capsule_184x69.jpg?t=1602892538","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true},"1138660":{"name":"Black Book","url_name":"Black_Book","discount_block":"<div class=\"discount_block \" data-price-final=\"1874\"><div class=\"discount_pct\">-25%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$18.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1138660\/capsule_184x69.jpg?t=1636023418","os_windows":true,"os_macos":true,"has_live_broadcast":false,"discount":true,"localized":true},"373420":{"name":"Divinity: Original Sin - Enhanced Edition","url_name":"Divinity_Original_Sin__Enhanced_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/373420\/capsule_184x69.jpg?t=1589968419","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true},"257350":{"name":"Baldur's Gate II: Enhanced Edition","url_name":"Baldurs_Gate_II_Enhanced_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/257350\/capsule_184x69.jpg?t=1618855937","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true},"1283410":{"name":"Tails of Iron","url_name":"Tails_of_Iron","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1283410\/capsule_184x69.jpg?t=1635853651","os_windows":true,"has_live_broadcast":false,"localized":true},"20920":{"name":"The Witcher 2: Assassins of Kings Enhanced Edition","url_name":"The_Witcher_2_Assassins_of_Kings_Enhanced_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/20920\/capsule_184x69.jpg?t=1621936593","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"status_string":"Now Available on SteamOS!"},"288470":{"name":"Fable Anniversary","url_name":"Fable_Anniversary","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/288470\/capsule_184x69.jpg?t=1577393306","os_windows":true,"has_live_broadcast":false,"localized":true},"411300":{"name":"ELEX","url_name":"ELEX","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/411300\/capsule_184x69.jpg?t=1623757263","os_windows":true,"has_live_broadcast":false,"localized":true},"704450":{"name":"Neverwinter Nights: Enhanced Edition","url_name":"Neverwinter_Nights_Enhanced_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/704450\/capsule_184x69.jpg?t=1608058656","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true}},"rgPackages":[],"rgBundles":[]}	);
+		{"rgApps":{"1222690":{"name":"Dragon Age\u2122 Inquisition","url_name":"Dragon_Age_Inquisition","discount_block":"<div class=\"discount_block \" data-price-final=\"999\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1222690\/capsule_184x69.jpg?t=1633006819","os_windows":true,"has_live_broadcast":false,"mastersub_granting_app":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/mastersubs\/eaplay\/eaplay.svg","discount":true,"localized":true,"has_adult_content_violence":true},"1238040":{"name":"Dragon Age II","url_name":"Dragon_Age_II","discount_block":"<div class=\"discount_block \" data-price-final=\"499\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$4.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1238040\/capsule_184x69.jpg?t=1614948670","os_windows":true,"has_live_broadcast":false,"mastersub_granting_app":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/mastersubs\/eaplay\/eaplay.svg","discount":true,"localized":true,"has_adult_content_violence":true,"has_adult_content_sex":true},"1238050":{"name":"Dragon Age II DLC Bundle","url_name":"Dragon_Age_II_DLC_Bundle","discount_block":"<div class=\"discount_block \" data-price-final=\"624\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$6.24<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1238050\/capsule_184x69.jpg?t=1609112422","os_windows":true,"dlc":true,"dlc_for_app":"1238040","has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true,"has_adult_content_sex":true},"17450":{"name":"Dragon Age: Origins","url_name":"Dragon_Age_Origins","discount_block":"<div class=\"discount_block \" data-price-final=\"499\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$4.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/17450\/capsule_184x69.jpg?t=1615390705","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"47730":{"name":"Dragon Age\u2122: Origins Awakening","url_name":"Dragon_Age_Origins_Awakening","discount_block":"<div class=\"discount_block \" data-price-final=\"249\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$9.99<\/div><div class=\"discount_final_price\">$2.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47730\/capsule_184x69.jpg?t=1615217804","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1086940":{"name":"Baldur's Gate 3","url_name":"Baldurs_Gate_3","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1086940\/capsule_184x69.jpg?t=1634241306","os_windows":true,"os_macos":true,"early_access":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1184370":{"name":"Pathfinder: Wrath of the Righteous","url_name":"Pathfinder_Wrath_of_the_Righteous","discount_block":"<div class=\"discount_block \" data-price-final=\"4249\"><div class=\"discount_pct\">-15%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$49.99<\/div><div class=\"discount_final_price\">$42.49<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1184370\/capsule_184x69.jpg?t=1637773232","os_windows":true,"os_macos":true,"has_live_broadcast":true,"discount":true,"localized":true,"has_adult_content_violence":true},"292030":{"name":"The Witcher\u00ae 3: Wild Hunt","url_name":"The_Witcher_3_Wild_Hunt","discount_block":"<div class=\"discount_block \" data-price-final=\"799\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$7.99<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/292030\/capsule_184x69.jpg?t=1621939214","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"Game of the Year Edition Now Available!"},"763890":{"name":"Wildermyth","url_name":"Wildermyth","discount_block":"<div class=\"discount_block \" data-price-final=\"1874\"><div class=\"discount_pct\">-25%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$18.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/763890\/capsule_184x69.jpg?t=1634231822","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"640820":{"name":"Pathfinder: Kingmaker - Enhanced Plus Edition","url_name":"Pathfinder_Kingmaker__Enhanced_Plus_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"899\"><div class=\"discount_pct\">-55%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$8.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/640820\/capsule_184x69.jpg?t=1630566412","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"1096530":{"name":"Solasta: Crown of the Magister","url_name":"Solasta_Crown_of_the_Magister","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1096530\/capsule_184x69.jpg?t=1636040929","os_windows":true,"os_macos":true,"has_live_broadcast":true,"discount":true,"localized":true},"632470":{"name":"Disco Elysium - The Final Cut","url_name":"Disco_Elysium__The_Final_Cut","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/632470\/capsule_184x69_alt_assets_2.jpg?t=1637777194","os_windows":true,"os_macos":true,"has_live_broadcast":false,"discount":true,"localized":true},"560130":{"name":"Pillars of Eternity II: Deadfire","url_name":"Pillars_of_Eternity_II_Deadfire","discount_block":"<div class=\"discount_block \" data-price-final=\"999\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/560130\/capsule_184x69.jpg?t=1632762508","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"719040":{"name":"Wasteland 3","url_name":"Wasteland_3","discount_block":"<div class=\"discount_block \" data-price-final=\"1319\"><div class=\"discount_pct\">-67%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$13.19<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/719040\/capsule_184x69.jpg?t=1629827324","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"356190":{"name":"Middle-earth\u2122: Shadow of War\u2122","url_name":"Middleearth_Shadow_of_War","discount_block":"<div class=\"discount_block \" data-price-final=\"999\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$49.99<\/div><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/356190\/capsule_184x69.jpg?t=1575317164","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"1295510":{"name":"DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122 - Definitive Edition","url_name":"DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1295510\/capsule_184x69.jpg?t=1622131694","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"606880":{"name":"GreedFall","url_name":"GreedFall","discount_block":"<div class=\"discount_block \" data-price-final=\"1399\"><div class=\"discount_pct\">-60%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99<\/div><div class=\"discount_final_price\">$13.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/606880\/capsule_184x69.jpg?t=1628785114","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"212500":{"name":"The Lord of the Rings Online\u2122","url_name":"The_Lord_of_the_Rings_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">Play for Free!<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/212500\/capsule_184x69.jpg?t=1630088794","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Now Available -  Paths of the Dead Update!"},"22330":{"name":"The Elder Scrolls IV: Oblivion\u00ae Game of the Year Edition","url_name":"The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"449\"><div class=\"discount_pct\">-70%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$14.99<\/div><div class=\"discount_final_price\">$4.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/22330\/capsule_184x69.jpg?t=1585658214","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1287840":{"name":"Disciples: Liberation","url_name":"Disciples_Liberation","discount_block":"<div class=\"discount_block \" data-price-final=\"3599\"><div class=\"discount_pct\">-10%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$35.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1287840\/capsule_184x69.jpg?t=1637774529","os_windows":true,"has_live_broadcast":true,"discount":true,"localized":true,"has_adult_content_violence":true},"1113000":{"name":"Persona 4 Golden","url_name":"Persona_4_Golden","discount_block":"<div class=\"discount_block \" data-price-final=\"1399\"><div class=\"discount_pct\">-30%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$13.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1113000\/capsule_184x69.jpg?t=1626689322","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"595520":{"name":"FINAL FANTASY XII THE ZODIAC AGE","url_name":"FINAL_FANTASY_XII_THE_ZODIAC_AGE","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/595520\/capsule_184x69.jpg?t=1635500529","os_windows":true,"has_live_broadcast":false,"localized":true},"228280":{"name":"Baldur's Gate: Enhanced Edition","url_name":"Baldurs_Gate_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"399\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$3.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/228280\/capsule_184x69.jpg?t=1632772481","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"New DLC Available"},"921570":{"name":"OCTOPATH TRAVELER\u2122","url_name":"OCTOPATH_TRAVELER","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/921570\/capsule_184x69.jpg?t=1629997522","os_windows":true,"has_live_broadcast":false,"localized":true},"291650":{"name":"Pillars of Eternity","url_name":"Pillars_of_Eternity","discount_block":"<div class=\"discount_block \" data-price-final=\"1499\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99<\/div><div class=\"discount_final_price\">$14.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/291650\/capsule_184x69.jpg?t=1615973823","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"New DLC Available!"},"335300":{"name":"DARK SOULS\u2122 II: Scholar of the First Sin","url_name":"DARK_SOULS_II_Scholar_of_the_First_Sin","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/335300\/capsule_184x69.jpg?t=1636678017","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1138660":{"name":"Black Book","url_name":"Black_Book","discount_block":"<div class=\"discount_block \" data-price-final=\"1874\"><div class=\"discount_pct\">-25%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$18.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1138660\/capsule_184x69.jpg?t=1636023418","os_windows":true,"os_macos":true,"has_live_broadcast":false,"discount":true,"localized":true},"32370":{"name":"STAR WARS\u2122 - Knights of the Old Republic\u2122","url_name":"STAR_WARS__Knights_of_the_Old_Republic","discount_block":"<div class=\"discount_block \" data-price-final=\"349\"><div class=\"discount_pct\">-65%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$9.99<\/div><div class=\"discount_final_price\">$3.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/32370\/capsule_184x69.jpg?t=1602892538","os_windows":true,"os_macos":true,"has_live_broadcast":false,"discount":true,"localized":true},"257350":{"name":"Baldur's Gate II: Enhanced Edition","url_name":"Baldurs_Gate_II_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"299\"><div class=\"discount_pct\">-85%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$2.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/257350\/capsule_184x69.jpg?t=1618855937","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"373420":{"name":"Divinity: Original Sin - Enhanced Edition","url_name":"Divinity_Original_Sin__Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"1399\"><div class=\"discount_pct\">-65%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$13.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/373420\/capsule_184x69.jpg?t=1589968419","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"20920":{"name":"The Witcher 2: Assassins of Kings Enhanced Edition","url_name":"The_Witcher_2_Assassins_of_Kings_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"299\"><div class=\"discount_pct\">-85%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$2.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/20920\/capsule_184x69.jpg?t=1621936593","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"Now Available on SteamOS!"},"288470":{"name":"Fable Anniversary","url_name":"Fable_Anniversary","discount_block":"<div class=\"discount_block \" data-price-final=\"874\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99<\/div><div class=\"discount_final_price\">$8.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/288470\/capsule_184x69.jpg?t=1577393306","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1283410":{"name":"Tails of Iron","url_name":"Tails_of_Iron","discount_block":"<div class=\"discount_block \" data-price-final=\"1874\"><div class=\"discount_pct\">-25%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$18.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1283410\/capsule_184x69_alt_assets_1.jpg?t=1637777883","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"362960":{"name":"Tyranny","url_name":"Tyranny","discount_block":"<div class=\"discount_block \" data-price-final=\"749\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99<\/div><div class=\"discount_final_price\">$7.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/362960\/capsule_184x69.jpg?t=1615985862","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"704450":{"name":"Neverwinter Nights: Enhanced Edition","url_name":"Neverwinter_Nights_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"399\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$3.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/704450\/capsule_184x69.jpg?t=1608058656","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true}},"rgPackages":[],"rgBundles":[]}	);
 	GStoreItemData.AddNavParams( {
 		recommended: "1_5_9__300",
 		recommend_franchise: "1_5_9__316",
@@ -432,6 +435,7 @@
 		$J('#responsive_apppage_reviewblock_ctn' ).css('width', '100%' );
 		window.setTimeout( function() { $J('#responsive_apppage_reviewblock_ctn').css('width', '' ); }, 1 );
 
+					InitSteamAwardNominationDialog( 47810, "Dragon Age: Origins - Ultimate Edition", [], 0, 0 );
 		
 				var watcher = new CScrollOffsetWatcher( $J('#app_reviews_hash'), OnLoadReviews );
 		watcher.SetBufferHeight( 0 );
@@ -442,8 +446,8 @@
 		
         	} );
 	GDynamicStore.OnReady( function() {
-		RenderMoreLikeThisBlock( ["1086940","1184370","292030","763890","1096530","640820","632470","560130","719040","356190","1295510","606880","1113000","212500","1287840","22330","595520","921570","228280","291650","335300","32370","1138660","373420","257350","1283410","20920","288470","411300","704450"], !!true );
-		RenderFranchiseAppBlock( ["1222690","1238040","1238050","17450","47730",1255347,1295710,1255341,1255346,1255344,1255350,1255360] );
+		RenderMoreLikeThisBlock( ["1086940","1184370","292030","763890","640820","1096530","632470","560130","719040","356190","1295510","606880","212500","22330","1287840","1113000","595520","228280","921570","291650","335300","1138660","32370","257350","373420","20920","288470","1283410","362960","704450"], !!true );
+		RenderFranchiseAppBlock( ["1222690","1238040","1238050","17450","47730",1255343,1255346,1295711,1255350,1255351,1295726,1295724] );
 		RenderMoreDLCFromBaseGameBlock( [] );
 
 	});
@@ -980,7 +984,7 @@
 						if( $J('#searchform').length > 0 )
 						{
 							// default search support where the web page includes the search edit control
-							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_5_9_', 'US', 1, 'english', g_rgUserPreferences, '13199704' );
+							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_5_9_', 'US', 1, 'english', g_rgUserPreferences, '13236457' );
 						}
 						else 
 						{
@@ -1010,8 +1014,8 @@
       </script>
       <script type="text/javascript">
        var g_AccountID = 0;
-	var g_sessionID = "0b3b5d817d78be85e5367666";
-	var g_ServerTime = 1637463229;
+	var g_sessionID = "3cef4fc989d7cc431aff0cb6";
+	var g_ServerTime = 1637794280;
 
 	$J( InitMiniprofileHovers );
 
@@ -1024,7 +1028,7 @@
 		GStoreItemData.SetCurrencyFormatter( function( nValueInCents, bWholeUnitsOnly ) { var fmt = function( nValueInCents, bWholeUnitsOnly ) {	var format = v_numberformat( nValueInCents / 100, bWholeUnitsOnly ? 0 : 2, ".", ","); return format; };var strNegativeSymbol = '';	if ( nValueInCents < 0 ) { strNegativeSymbol = '-'; nValueInCents = -nValueInCents; }return strNegativeSymbol + "$" + fmt( nValueInCents, bWholeUnitsOnly );} );
 		GStoreItemData.SetCurrencyMinPriceIncrement( 1 );
       </script>
-      <div data-broadcastuser='{"success":1,"bHideStoreBroadcast":false}' data-config='{"EUNIVERSE":1,"WEB_UNIVERSE":"public","LANGUAGE":"english","COUNTRY":"US","MEDIA_CDN_COMMUNITY_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/","MEDIA_CDN_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/","COMMUNITY_CDN_URL":"https:\/\/community.cloudflare.steamstatic.com\/","COMMUNITY_CDN_ASSET_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/assets\/","STORE_CDN_URL":"https:\/\/store.cloudflare.steamstatic.com\/","PUBLIC_SHARED_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/shared\/","COMMUNITY_BASE_URL":"https:\/\/steamcommunity.com\/","CHAT_BASE_URL":"https:\/\/steamcommunity.com\/","STORE_BASE_URL":"https:\/\/store.steampowered.com\/","IMG_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/images\/","STEAMTV_BASE_URL":"https:\/\/steam.tv\/","HELP_BASE_URL":"https:\/\/help.steampowered.com\/","PARTNER_BASE_URL":"https:\/\/partner.steamgames.com\/","STATS_BASE_URL":"https:\/\/partner.steampowered.com\/","INTERNAL_STATS_BASE_URL":"https:\/\/steamstats.valve.org\/","IN_CLIENT":false,"USE_POPUPS":false,"STORE_ICON_BASE_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/","WEBAPI_BASE_URL":"https:\/\/api.steampowered.com\/","TOKEN_URL":"https:\/\/store.steampowered.com\/\/chat\/clientjstoken","BUILD_TIMESTAMP":1637260316,"PAGE_TIMESTAMP":1637463229,"IN_TENFOOT":false,"IN_GAMEPADUI":false,"PLATFORM":"unknown","BASE_URL_STORE_CDN_ASSETS":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/","EREALM":1,"LOGIN_BASE_URL":"https:\/\/login.steampowered.com\/","SNR":"1_5_9_"}' data-userinfo='{"logged_in":false,"country_code":"US"}' id="application_config" style="display: none;">
+      <div data-broadcastuser='{"success":1,"bHideStoreBroadcast":false}' data-config='{"EUNIVERSE":1,"WEB_UNIVERSE":"public","LANGUAGE":"english","COUNTRY":"US","MEDIA_CDN_COMMUNITY_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/","MEDIA_CDN_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/","COMMUNITY_CDN_URL":"https:\/\/community.cloudflare.steamstatic.com\/","COMMUNITY_CDN_ASSET_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/assets\/","STORE_CDN_URL":"https:\/\/store.cloudflare.steamstatic.com\/","PUBLIC_SHARED_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/shared\/","COMMUNITY_BASE_URL":"https:\/\/steamcommunity.com\/","CHAT_BASE_URL":"https:\/\/steamcommunity.com\/","STORE_BASE_URL":"https:\/\/store.steampowered.com\/","IMG_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/images\/","STEAMTV_BASE_URL":"https:\/\/steam.tv\/","HELP_BASE_URL":"https:\/\/help.steampowered.com\/","PARTNER_BASE_URL":"https:\/\/partner.steamgames.com\/","STATS_BASE_URL":"https:\/\/partner.steampowered.com\/","INTERNAL_STATS_BASE_URL":"https:\/\/steamstats.valve.org\/","IN_CLIENT":false,"USE_POPUPS":false,"STORE_ICON_BASE_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/","WEBAPI_BASE_URL":"https:\/\/api.steampowered.com\/","TOKEN_URL":"https:\/\/store.steampowered.com\/\/chat\/clientjstoken","BUILD_TIMESTAMP":1637793704,"PAGE_TIMESTAMP":1637794280,"IN_TENFOOT":false,"IN_GAMEPADUI":false,"PLATFORM":"unknown","BASE_URL_STORE_CDN_ASSETS":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/","EREALM":1,"LOGIN_BASE_URL":"https:\/\/login.steampowered.com\/","SNR":"1_5_9_"}' data-userinfo='{"logged_in":false,"country_code":"US"}' id="application_config" style="display: none;">
       </div>
       <!-- create two column layout for Deck, Tablet sized screens -->
       <div class="tablet_grid" id="tabletGrid">
@@ -1032,7 +1036,7 @@
         <meta content="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/capsule_231x87.jpg?t=1615244558" itemprop="image"/>
         <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" style="display: none;">
          <meta content="USD" itemprop="priceCurrency"/>
-         <meta content="29.99" itemprop="price"/>
+         <meta content="7.49" itemprop="price"/>
         </div>
         <div class="page_title_area game_title_area page_content" data-gpnav="columns">
          <div class="breadcrumbs" data-panel='{"flow-children":"row"}'>
@@ -1068,7 +1072,7 @@
             </a>
            </div>
            <div class="apphub_AppIcon">
-            <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/47810/e5e0b9629b314f7338f493d26227eb2bd1172e77.jpg"/>
+            <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/47810/e5e0b9629b314f7338f493d26227eb2bd1172e77.jpg"/>
             <div class="overlay">
             </div>
            </div>
@@ -1130,7 +1134,7 @@
              </div>
              <div class="glance_ctn_responsive_left">
               <div class="user_reviews" id="userReviews">
-               <div class="user_reviews_summary_row" data-tooltip-html="92% of the 229 user reviews in the last 30 days are positive." onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="91% of the 228 user reviews in the last 30 days are positive." onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column">
                  Recent Reviews:
                 </div>
@@ -1139,14 +1143,14 @@
                   Very Positive
                  </span>
                  <span class="responsive_hidden">
-                  (229)
+                  (228)
                  </span>
                  <span class="nonresponsive_hidden responsive_reviewdesc">
-                  - 92% of the 229 user reviews in the last 30 days are positive.
+                  - 91% of the 228 user reviews in the last 30 days are positive.
                  </span>
                 </div>
                </div>
-               <div class="user_reviews_summary_row" data-tooltip-html="90% of the 14,456 user reviews for this game are positive." itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="90% of the 14,482 user reviews for this game are positive." itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column all">
                  All Reviews:
                 </div>
@@ -1155,13 +1159,13 @@
                   Very Positive
                  </span>
                  <span class="responsive_hidden">
-                  (14,456)
+                  (14,482)
                  </span>
                  <span class="nonresponsive_hidden responsive_reviewdesc">
-                  - 90% of the 14,456 user reviews for this game are positive.
+                  - 90% of the 14,482 user reviews for this game are positive.
                  </span>
                  <!-- microdata -->
-                 <meta content="14456" itemprop="reviewCount"/>
+                 <meta content="14482" itemprop="reviewCount"/>
                  <meta content="9" itemprop="ratingValue"/>
                  <meta content="10" itemprop="bestRating"/>
                  <meta content="1" itemprop="worstRating"/>
@@ -1285,19 +1289,19 @@
                   Very Positive
                  </span>
                  <span class="responsive_reviewdesc_short">
-                  (90% of 14,456)
+                  (90% of 14,482)
                   <span class="desc_short">
                    All Time
                   </span>
                  </span>
                  <!-- microdata -->
-                 <meta content="14456" itemprop="reviewCount"/>
+                 <meta content="14482" itemprop="reviewCount"/>
                  <meta content="9" itemprop="ratingValue"/>
                  <meta content="10" itemprop="bestRating"/>
                  <meta content="1" itemprop="worstRating"/>
                 </div>
                </div>
-               <div class="user_reviews_summary_row" data-tooltip-html="92% of the 229 user reviews in the last 30 days are positive." id="appReviewsRecent_responsive" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="91% of the 228 user reviews in the last 30 days are positive." id="appReviewsRecent_responsive" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column">
                  Recent Reviews:
                 </div>
@@ -1306,7 +1310,7 @@
                   Very Positive
                  </span>
                  <span class="responsive_reviewdesc_short">
-                  (92% of 229)
+                  (91% of 228)
                   <span class="desc_short">
                    Recent
                   </span>
@@ -1602,6 +1606,37 @@
           </div>
           <!-- button area with share, follow, etc. for responsive ux -->
           <div data-panel='{"maintainY":true,"flow-children":"row"}' id="rowBtnActions" style="display: none;">
+          </div>
+         </div>
+         <div class="page_content">
+          <div class="steamaward_nominate_gamepage_ctn gamepage">
+           <div class="steamaward_nominate_award">
+            <img class="award_icon" src="https://cdn.cloudflare.steamstatic.com/store/promo/autumn2021/trophy.png?v=1'">
+            </img>
+           </div>
+           <div class="game_nominate steamaward_nominate_left">
+            <div class="game_nominate_line1 mslight ellipsis">
+             NOMINATE THIS GAME FOR
+            </div>
+            <div class="game_nominate_line2 msblack epurple ellipsis">
+             THE STEAM AWARDS
+            </div>
+            <div class="game_nominate_line3 mslight epurpledark ellipsis" style="text-transform: uppercase">
+             COMING THIS DECEMBER.
+             <a class="hover_highlight" href="https://store.steampowered.com/steamawards/nominations?snr=1_5_9_">
+              LEARN MORE.
+             </a>
+            </div>
+           </div>
+           <div class="game_nominate steamaward_nominate_right show_nomination_dialog">
+            <div class="game_nominate_nonomination">
+             <span>
+              Nominate this game for an award
+             </span>
+            </div>
+           </div>
+           <div style="clear: left;">
+           </div>
           </div>
          </div>
          <div class="purchase_options_content" id="purchaseOptionsContent" style="display: none;">
@@ -1944,10 +1979,10 @@
            <div class="block_content block_content_inner">
             <div id="AwardsDefault">
              <div class="game_page_autocollapse" style="max-height: 400px;">
-              <img src="https://cdn.akamai.steamstatic.com/steam/apps/47810/extras/DAO_Spike.png?t=1615244558">
+              <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/extras/DAO_Spike.png?t=1615244558">
                <br/>
                <br/>
-               <img src="https://cdn.akamai.steamstatic.com/steam/apps/47810/extras/DAO_PC_Gamer.png?t=1615244558">
+               <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/extras/DAO_PC_Gamer.png?t=1615244558">
                </img>
               </img>
              </div>
@@ -1978,7 +2013,7 @@
               <input name="snr" type="hidden" value="1_5_9__403"/>
               <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="0b3b5d817d78be85e5367666"/>
+              <input name="sessionid" type="hidden" value="3cef4fc989d7cc431aff0cb6"/>
               <input id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_value" name="subid" type="hidden" value=""/>
               <input id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_remove_value" name="removesubid" type="hidden" value=""/>
              </form>
@@ -2071,7 +2106,7 @@
               <input name="snr" type="hidden" value="1_5_9__403"/>
               <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="0b3b5d817d78be85e5367666"/>
+              <input name="sessionid" type="hidden" value="3cef4fc989d7cc431aff0cb6"/>
               <input name="subid" type="hidden" value="6517"/>
              </form>
              <div class="game_area_purchase_platform">
@@ -2087,10 +2122,23 @@
               </a>
               includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.
              </p>
+             <p class="game_purchase_discount_countdown">
+              SPECIAL PROMOTION! Offer ends December 1
+             </p>
              <div class="game_purchase_action">
               <div class="game_purchase_action_bg">
-               <div class="game_purchase_price price" data-price-final="2999">
-                $29.99
+               <div class="discount_block game_purchase_discount" data-price-final="749">
+                <div class="discount_pct">
+                 -75%
+                </div>
+                <div class="discount_prices">
+                 <div class="discount_original_price">
+                  $29.99
+                 </div>
+                 <div class="discount_final_price">
+                  $7.49
+                 </div>
+                </div>
                </div>
                <div class="btn_addtocart">
                 <a class="btn_green_steamui btn_medium" data-panel='{"autoFocus":true,"focusable":true,"clickOnActivate":true}' href="javascript:addToCart(6517);" id="btn_add_to_cart_6517">
@@ -2123,7 +2171,7 @@
             <h2>
              About This Game
             </h2>
-            <img src="https://cdn.akamai.steamstatic.com/steam/apps/47810/extras/DAOUE.png?t=1615244558">
+            <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/extras/DAOUE.png?t=1615244558">
              <br/>
              <br/>
              <strong>
@@ -2372,25 +2420,6 @@
           </div>
           <div class="rightcol game_meta_data" id="responsive_apppage_reviewblock_ctn">
           </div>
-          <div class="steam_curators_block block responsive_apppage_reviewblock">
-           <div class="block_header">
-            <div class="right">
-             <a href="https://store.steampowered.com/curators/curatorsreviewing/?appid=47810&amp;snr=1_5_9__top-curators">
-              View all
-             </a>
-            </div>
-            <h2>
-             What Curators Say
-            </h2>
-            <div class="no_curators_followed">
-             451 Curators have reviewed this product. Click
-             <a href="https://store.steampowered.com/curators/curatorsreviewing/?appid=47810&amp;snr=1_5_9__top-curators">
-              here
-             </a>
-             to see them.
-            </div>
-           </div>
-          </div>
          </div>
          <div style="clear: both;">
          </div>
@@ -2405,8 +2434,8 @@
            <input id="review_default_day_range" type="hidden" value="30"/>
            <input id="review_start_date" type="hidden" value="-1"/>
            <input id="review_end_date" type="hidden" value="-1"/>
-           <input id="review_summary_num_positive_reviews" type="hidden" value="13132"/>
-           <input id="review_summary_num_reviews" type="hidden" value="14456"/>
+           <input id="review_summary_num_positive_reviews" type="hidden" value="13155"/>
+           <input id="review_summary_num_reviews" type="hidden" value="14482"/>
            <div class="review_recent_events" id="review_recent_events_container">
            </div>
            <div class="collapsed" id="review_histograms_container">
@@ -2418,11 +2447,11 @@
                <div class="title">
                 Overall Reviews:
                </div>
-               <span class="game_review_summary positive" data-tooltip-html="90% of the 14,456 user reviews for this game are positive.">
+               <span class="game_review_summary positive" data-tooltip-html="90% of the 14,482 user reviews for this game are positive.">
                 Very Positive
                </span>
                <span>
-                (14,456 reviews)
+                (14,482 reviews)
                </span>
                <a class="tooltip" data-tooltip-text="This summary uses only reviews written by customers that purchased the game directly from Steam.">
                 <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark.png"/>
@@ -2442,11 +2471,11 @@
                <div class="title">
                 Recent Reviews:
                </div>
-               <span class="game_review_summary positive" data-tooltip-html="92% of the 229 user reviews in the last 30 days are positive.">
+               <span class="game_review_summary positive" data-tooltip-html="91% of the 228 user reviews in the last 30 days are positive.">
                 Very Positive
                </span>
                <span>
-                (229 reviews)
+                (228 reviews)
                </span>
                <a class="tooltip" data-tooltip-text="This summary uses only reviews written by customers that purchased the game directly from Steam.">
                 <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark.png"/>
@@ -2470,7 +2499,7 @@
                <label for="review_type_all">
                 All
                 <span class="user_reviews_count">
-                 (15,927)
+                 (15,954)
                 </span>
                </label>
                <br/>
@@ -2478,7 +2507,7 @@
                <label for="review_type_positive">
                 Positive
                 <span class="user_reviews_count">
-                 (14,482)
+                 (14,507)
                 </span>
                </label>
                <br/>
@@ -2486,7 +2515,7 @@
                <label for="review_type_negative">
                 Negative
                 <span class="user_reviews_count">
-                 (1,445)
+                 (1,447)
                 </span>
                </label>
               </div>
@@ -2502,7 +2531,7 @@
                <label for="purchase_type_all">
                 All
                 <span class="user_reviews_count">
-                 (15,927)
+                 (15,954)
                 </span>
                </label>
                <br/>
@@ -2510,7 +2539,7 @@
                <label for="purchase_type_steam">
                 Steam Purchasers
                 <span class="user_reviews_count">
-                 (14,456)
+                 (14,482)
                 </span>
                 <a class="tooltip" data-tooltip-text="These are reviews written by customers that purchased the game directly from Steam.">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -2521,7 +2550,7 @@
                <label for="purchase_type_non_steam">
                 Other
                 <span class="user_reviews_count">
-                 (1,471)
+                 (1,472)
                 </span>
                 <a class="tooltip" data-tooltip-text="These are reviews written by customers that did not purchase the game on Steam. (This may include legitimate sources such as other digital stores, retail stores, testing purposes, or press review purposes. Or, from inappropriate sources such as copies given in exchange for reviews.)">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -2540,7 +2569,7 @@
                <label for="review_language_all">
                 All Languages
                 <span class="user_reviews_count">
-                 (15,927)
+                 (15,954)
                 </span>
                </label>
                <br/>
@@ -2548,7 +2577,7 @@
                <label for="review_language_mine">
                 Your Languages
                 <span class="user_reviews_count">
-                 (12,631)
+                 (12,652)
                 </span>
                 <a class="tooltip" data-tooltip-html="Your preferences are currently set to show content authored in these languages: English.&lt;br&gt;&lt;br&gt; Click 'customize' below to modify your preferences.">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -2945,12 +2974,12 @@
 			
 					});
      </script>
-     <link href="https://store.cloudflare.steamstatic.com/public/css/applications/store/main.css?v=PRHhWRjxyFOe&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/manifest.js?v=6cWdA4tT-4AX&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <link href="https://store.cloudflare.steamstatic.com/public/css/applications/store/main.css?v=fjwE7Y56JUKT&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/manifest.js?v=yInE8dMHH6Xl&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/libraries.js?v=3NqeSni5Qekb&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/libraries.js?v=qmf6iHu8G_kJ&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/main.js?v=2VPMYCzKoOXY&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/main.js?v=EcKztKIoAXAd&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
     </div>
     <!-- responsive_page_legacy_content -->

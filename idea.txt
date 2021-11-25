@@ -18,3 +18,20 @@ Steps:
         - Given user input game, find that node in the database and return 3 closest nodes
         - If game doesn't exist, scrape for game title???? create node and edges while returning 3 highest scoring nodes
     4. Visualization for demo
+
+Discretization:
+    - PosPercent
+        0%-20% - 1
+        21%-40% - 2
+        41%-60% - 3
+        61%-80% - 4
+        81%-100% - 5
+
+    - TotalReviews
+        - Sort to get 1-5 score for popularity 
+        Top 100% - 1
+        Top 80% - 2
+        Top 60% - 3
+        Top 40% - 4
+        Top 20% - 5
+

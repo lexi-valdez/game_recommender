@@ -101,15 +101,14 @@ def get_game_data(url):
 
     return title, genre_list, tag_list, pos_pct, tot_rev
 
-# write_data() stores scraped data into an Excel file
-# this is used as input for the apriori algorithm
+# write_data() stores scraped raw data into an Excel file
 def write_data(game_dict):  
     df = pd.DataFrame.from_dict(game_dict, orient='index') # convert to dataframe format
     df.columns = ['Genre1', 'Genre2', 'Genre3', 'Tag1', 'Tag2', 'Tag3', 'Tag4', 'Tag5', 'Tag6', 'Tag7', 'Tag8', 'Tag9', 
                 'Tag10', 'Tag11', 'Tag12', 'Tag13', 'Tag14', 'Tag15', 'Tag16', 'Tag17', 'Tag18', 'Tag19', 'Tag20', 'PosPercent', 'TotalReviews'] # rename dataframe columns
 
-    with pd.ExcelWriter("game_data.xlsx") as writer: # write to Excel
-        df.to_excel(writer, sheet_name='Video Game Data')
+    with pd.ExcelWriter("game_data.xlsx", engine="openpyxl", mode="a") as writer: # write to Excel
+        df.to_excel(writer, sheet_name='Raw Data')
 
 # scrape_steam() loops through games on steam
 # it extracts relevant characteristics for each game and stores the data in Excel
@@ -120,7 +119,6 @@ def scrape_steam():
     for i in range(len(app_ids)): # loop through each app id
         url = 'https://store.steampowered.com/app/' + app_ids[i] # get url for each game
 
-        #print(url)
         data = get_game_data(url)
         game_dict[data[0]] = (data[1][0], data[1][1], data[1][2], 
                                 data[2][0], data[2][1], data[2][2], data[2][3], data[2][4], data[2][5], data[2][6], data[2][7], data[2][8], data[2][9], 
