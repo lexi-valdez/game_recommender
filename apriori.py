@@ -12,6 +12,7 @@ def write_data(game_dict):
     with pd.ExcelWriter("game_data.xlsx", engine="openpyxl", mode="a") as writer: # write to Excel
         df.to_excel(writer, sheet_name='Discretized Data')
 
+# get_rev_rankings() gets the percentile cutoffs for the TotalReviews column
 def get_rev_rankings(review_data):
     review_list = []
 
@@ -22,12 +23,13 @@ def get_rev_rankings(review_data):
     review_list.sort()
     num_ranks = len(review_list)
     
-    twentieth = round(num_ranks * 0.2)
-    fourtieth = round(num_ranks * 0.4)
+    # indices of 20th, 40th, 60th, and 80th percentile 
+    twentieth = round(num_ranks * 0.2) 
+    fourtieth = round(num_ranks * 0.4) 
     sixtieth = round(num_ranks * 0.6)
     eightieth = round(num_ranks * 0.8)
 
-    return (review_list[twentieth], review_list[fourtieth], review_list[sixtieth], review_list[eightieth])
+    return (review_list[twentieth], review_list[fourtieth], review_list[sixtieth], review_list[eightieth]) # return cutoff values for each percentile
 
 # get_pct_label() is a helper function that discretizes the PosPercent value into its 1-5 star rating
 def get_pct_label(pos_pct):
@@ -48,7 +50,8 @@ def get_pct_label(pos_pct):
 def get_rev_label(tot_rev, rev_rankings):
     if type(tot_rev) != float: # ignore blank/nan values
         tot_rev = int(tot_rev.replace(",", ""))
-        if tot_rev <= rev_rankings[0]:
+
+        if tot_rev <= rev_rankings[0]: # return 1-5 popularity score based on percentile cutoffs
             return 1
         elif tot_rev > rev_rankings[0] and tot_rev <= rev_rankings[1]:
             return 2
@@ -61,7 +64,7 @@ def get_rev_label(tot_rev, rev_rankings):
     else:
         return ''
 
-# discretize() takes the PosPercent and TotalReviews columns and places them into discrete categories
+# discretize() discretizes the PosPercent and TotalReviews columns and exports an updated version of the data to an Excel sheet
 def discretize():
     game_dict = {}
     raw_data = pd.read_excel('game_data.xlsx', sheet_name='Raw Data')
@@ -88,28 +91,24 @@ def discretize():
         rev_label = get_rev_label(tot_rev, rev_rankings) 
         game_dict[title].append(rev_label) # append 1-5 popularity score
     
-    write_data(game_dict)
+    write_data(game_dict) # write discretized data to new Excel sheet
 
-# preprocess_data() transforms raw game data so that it's useable by apriori
-def preprocess_data():
-    discretize()
-
-    transactions = []
+# apriori() runs the apriori algorithm
+def run_apriori():
     data = pd.read_excel('game_data.xlsx', sheet_name='Discretized Data')    
     rows = data.shape[0]
     cols = data.shape[1]
-    print(rows,cols)
+    transactions = [[] for i in range(rows)] 
     
     for i in range(rows):
-       for j in range(1, 26): 
-           transactions.append(str(data.values[i, j]))
+        transactions.append([str(data.values[i, j]) for j in range(cols)])
     
-    #print(transactions)
+    association_rules = list(apriori(transactions, min_support = 0.05, min_confidence = 0.8, min_lift = 3, min_length = 3, max_length = 5))
+    #print(association_rules)
+    print(len(association_rules))
+    print(association_rules[0])
 
-
-# run_model() runs the apriori algorithm on preprocessed game data
-def run_model():
-    print(1)
 
 if __name__ == "__main__":
-    preprocess_data()
+    #discretize()
+    run_apriori()
