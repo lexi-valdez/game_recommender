@@ -9,15 +9,15 @@ Similarity criteria:
 Steps:
     1. Scrape game data from steam
         - Clean data
-        - Generate an array of criteria for each game -> or put into CSV?
-    2. Similarity algorithm -> Apriori
-        - Create node for each game
-        - Calculate similarity score between each two nodes
-        - If similarity score is above a certain threshold, add weighted edge between the two nodes
+        - Generate a dict of characteristics for each game
+        - Push to Excel
+    2. Similarity algorithm -> Cosine Similarity
+        - Calculate similarity score between every two games
     3. Search algorithm
-        - Given user input game, find that node in the database and return 3 closest nodes
-        - If game doesn't exist, scrape for game title???? create node and edges while returning 3 highest scoring nodes
+        - Given user input game, use similarity score to find 3 closest games
+        - If game doesn't exist, TBD
     4. Visualization for demo
+        - TBD (Neo4J)
 
 Discretization:
     - PosPercent
@@ -35,3 +35,10 @@ Discretization:
         Top 40% - 4
         Top 20% - 5
 
+Resources:
+    - scrape_steam.py
+        - https://andrew-muller.medium.com/scraping-steam-user-reviews-9a43f9e38c92 
+    - preprocess.py and recommend.py
+        - https://www.datacamp.com/community/tutorials/recommender-systems-python
+        - https://medium.com/web-mining-is688-spring-2021/netflix-movies-and-tv-shows-recommender-using-cosine-similarity-e053ee42a85b
+        - https://towardsdatascience.com/using-cosine-similarity-to-build-a-movie-recommendation-system-ae7f20842599

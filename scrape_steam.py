@@ -107,7 +107,7 @@ def write_data(game_dict):
     df.columns = ['Genre1', 'Genre2', 'Genre3', 'Tag1', 'Tag2', 'Tag3', 'Tag4', 'Tag5', 'Tag6', 'Tag7', 'Tag8', 'Tag9', 
                 'Tag10', 'Tag11', 'Tag12', 'Tag13', 'Tag14', 'Tag15', 'Tag16', 'Tag17', 'Tag18', 'Tag19', 'Tag20', 'PosPercent', 'TotalReviews'] # rename dataframe columns
 
-    with pd.ExcelWriter("game_data.xlsx", engine="openpyxl", mode="a") as writer: # write to Excel
+    with pd.ExcelWriter("game_data.xlsx", engine="openpyxl", mode="a", if_sheet_exists="replace") as writer: # write to Excel
         df.to_excel(writer, sheet_name='Raw Data')
 
 # scrape_steam() loops through games on steam
@@ -126,7 +126,6 @@ def scrape_steam():
                                 data[3], data[4]) # separate genre_list and tag_list into separate entries
 
     write_data(game_dict)
-
 
 if __name__ == "__main__":
     #scrape_test()
