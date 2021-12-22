@@ -21,6 +21,5 @@ def calculate_similarity(combined_data_col):
 
 if __name__ == "__main__":
     preprocessed_data = pd.read_excel('game_data.xlsx', sheet_name='Preprocessed Data')
-#    print(preprocessed_data['Unnamed: 0'])
     calculate_similarity(preprocessed_data['CombinedData'])
     
