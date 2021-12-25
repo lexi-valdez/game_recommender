@@ -13,9 +13,10 @@ Steps:
         - Push to Excel
     2. Similarity algorithm -> Cosine Similarity
         - Calculate similarity score between every two games
+        - Push to Excel
     3. Search algorithm
         - Given user input game, use similarity score to find 3 closest games
-        - If game doesn't exist, TBD
+        - If game doesn't exist, return "None" for all 3 games
     4. Visualization for demo
         - TBD (Neo4J)
 
@@ -36,9 +37,11 @@ Discretization:
         Top 20% - 5
 
 Resources:
-    - scrape_steam.py
+    - scrape_steam.py (data scraping)
         - https://andrew-muller.medium.com/scraping-steam-user-reviews-9a43f9e38c92 
-    - preprocess.py and recommend.py
+    - preprocess.py and recommend.py (cosine similarity and recommendation process)
         - https://www.datacamp.com/community/tutorials/recommender-systems-python
         - https://medium.com/web-mining-is688-spring-2021/netflix-movies-and-tv-shows-recommender-using-cosine-similarity-e053ee42a85b
         - https://towardsdatascience.com/using-cosine-similarity-to-build-a-movie-recommendation-system-ae7f20842599
+    - recommend.py (user input module)
+        - https://datatofish.com/entry-box-tkinter/
