@@ -66,6 +66,7 @@ def get_rev_label(tot_rev, rev_rankings):
         return ''
 
 # discretize() discretizes the PosPercent and TotalReviews columns
+# it also removes any ™ or ® symbols in game titles to simplify the recommendation process
 def discretize():
     game_dict = {}
     raw_data = pd.read_excel('game_data.xlsx', sheet_name='Raw Data')
@@ -78,6 +79,9 @@ def discretize():
         title = raw_data['Title'][i]
 
         if pd.isnull(title) == False: # skip empty rows
+            title = title.replace(u"\u2122", '') # replace ™ or ® symbols to clean title
+            title = title.replace(u"\u00ae", '') 
+
             game_dict[title] = []
 
             game_dict[title].extend([ raw_data['Genre1'][i], raw_data['Genre2'][i], raw_data['Genre3'][i], raw_data['Tag1'][i], raw_data['Tag2'][i], raw_data['Tag3'][i], raw_data['Tag4'][i],
@@ -107,7 +111,7 @@ def combine_columns(game_dict):
             if pd.isnull(item) == False:
                 combined += str(item).replace("-", "").replace(" ", "") + ' ' # if not null, remove whitespace/hyphens and concatenate each attribute
 
-        combined = combined.lower().strip() # clean string
+        combined = combined.lower().strip() # clean string after all attributes are concatenated
         if combined == '': 
             empty_games.append(title) # track games with no attributes
         
