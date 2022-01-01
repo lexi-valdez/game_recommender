@@ -3,8 +3,13 @@
 import pandas as pd
 import tkinter as tk
 
-# generate_lookups() creates two lookup dictionaries for the row index and video game title
 def generate_lookups():
+    """ Creates two lookup dictionaries for the row index and video game title
+
+    Returns:
+        (dict, dict): Dictionary from row index to game title and dictionary from game title to row index
+    """
+
     game_lookup = {}
     index_lookup = {}
 
@@ -16,8 +21,10 @@ def generate_lookups():
 
     return game_lookup, index_lookup
 
-# handle_user() prompts user for a video game they want recommendations for and returns 3 similar games
 def handle_user():
+    """ Prompts user for a video game title and displays 3 most recommended games
+    """
+
     root = tk.Tk()
     canvas = tk.Canvas(root, width=400, height=240)
     canvas.pack()
@@ -36,8 +43,10 @@ def handle_user():
     result3 = tk.Label(root, text='')
     canvas.create_window(200, 190, window=result3)
 
-    # find_recommendations() generates 3 games using cosine similarity scores and prints them to screen
     def find_recommendations():
+        """ Generates 3 games using cosine similarity scores and prints them to screen
+        """
+        
         game_lookup, index_lookup = generate_lookups()
         title = entry.get() # get user input title
 

@@ -4,9 +4,10 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# scrape_test() scrapes data from two URLs and writes the output to a .txt file
-# this is used for testing purposes to determine how to extract the game characteristics I need
 def scrape_test():
+    """ Scrapes data from two URLs and writes the output to a .txt. file (For testing purposes only)
+    """
+
     r = requests.get('https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/')
     soup = BeautifulSoup(r.text, 'html.parser')
     filename = "scrape_test1.txt"
@@ -25,9 +26,13 @@ def scrape_test():
     with open(filename, 'w', encoding="utf-8") as fd:
         fd.write(soup.prettify())
 
-# get_app_ids() gets app ids from steam 
-# Each app_id is used to access a URL for a specific game
 def get_app_ids():
+    """ Gets app ids from Steam
+
+    Returns:
+        [list]: List of app ids that are used to access a URL for a specific game
+    """
+
     app_ids = []
     url = 'https://store.steampowered.com/search/?page=' # this url is used to page through all games on Steam
                                                             # follow url with a number to get a new page of games
@@ -43,9 +48,16 @@ def get_app_ids():
 
     return app_ids
 
-# get_game_data() takes a steam url corresponding to a single video game
-# it scrapes the page for relevant characteristics that I use to calculate similarity
 def get_game_data(url):
+    """ Scrapes page for relevant game attributes
+
+    Args:
+        url (str): Steam URL corresponding to a single video game
+
+    Returns:
+        (str, list[str], list[str] str, str): Tuple of attributes for a single video game
+    """
+
     r = requests.get(url)
     soup = BeautifulSoup(r.text, 'html.parser')
     
@@ -101,8 +113,13 @@ def get_game_data(url):
 
     return title, genre_list, tag_list, pos_pct, tot_rev
 
-# write_data() stores scraped raw data into an Excel file
 def write_data(game_dict):  
+    """ Stores scraped raw data into an Excel file
+
+    Args:
+        game_dict (dict): Dictionary of game titles and attributes to be written
+    """
+
     df = pd.DataFrame.from_dict(game_dict, orient='index') # convert to dataframe format
     df.columns = ['Genre1', 'Genre2', 'Genre3', 'Tag1', 'Tag2', 'Tag3', 'Tag4', 'Tag5', 'Tag6', 'Tag7', 'Tag8', 'Tag9', 
                 'Tag10', 'Tag11', 'Tag12', 'Tag13', 'Tag14', 'Tag15', 'Tag16', 'Tag17', 'Tag18', 'Tag19', 'Tag20', 'PosPercent', 'TotalReviews'] # rename dataframe columns
@@ -110,9 +127,10 @@ def write_data(game_dict):
     with pd.ExcelWriter("game_data.xlsx", engine="openpyxl", mode="a", if_sheet_exists="replace") as writer: # write to Excel
         df.to_excel(writer, sheet_name='Raw Data')
 
-# scrape_steam() loops through games on steam
-# it extracts relevant characteristics for each game and stores the data in Excel
 def scrape_steam():
+    """ Loops through games on Steam, extracts relevant attributes for each game, and stores data in Excel
+    """
+
     game_dict = {}
     app_ids = get_app_ids()
     
@@ -128,5 +146,5 @@ def scrape_steam():
     write_data(game_dict)
 
 if __name__ == "__main__":
-    #scrape_test()
+    #scrape_test() # testing purposes only
     scrape_steam()

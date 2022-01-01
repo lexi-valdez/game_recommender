@@ -4,8 +4,13 @@
 
 import pandas as pd
 
-# write_data() writes discretized data and combined column to an Excel sheet
 def write_data(game_dict):  
+    """ Writes discretized data and combined column to an Excel sheet
+
+    Args:
+        game_dict (dict): Updated dictionary of game data
+    """
+
     df = pd.DataFrame.from_dict(game_dict, orient='index') # convert to dataframe format
     df.columns = ['Genre1', 'Genre2', 'Genre3', 'Tag1', 'Tag2', 'Tag3', 'Tag4', 'Tag5', 'Tag6', 'Tag7', 'Tag8', 'Tag9', 
                 'Tag10', 'Tag11', 'Tag12', 'Tag13', 'Tag14', 'Tag15', 'Tag16', 'Tag17', 'Tag18', 'Tag19', 'Tag20', 'PosPercentDiscrete', 'TotalReviewsDiscrete', 'CombinedData'] # rename dataframe columns
@@ -13,8 +18,16 @@ def write_data(game_dict):
     with pd.ExcelWriter("game_data.xlsx", engine="openpyxl", mode="a", if_sheet_exists="replace") as writer: # write to Excel
         df.to_excel(writer, sheet_name='Preprocessed Data')
 
-# get_rev_rankings() gets the percentile cutoffs for the TotalReviews column
 def get_rev_rankings(review_data):
+    """ Gets percentile cutoffs for the TotalReviews column
+
+    Args:
+        review_data (pandas.core.series.Series): Column of TotalReviews
+
+    Returns:
+        (int, int, int, int): Tuple of cutoffs to determine each game's 1-5 rating
+    """
+
     review_list = []
 
     for i in range(len(review_data)): # convert each item in Series to an integer
@@ -32,8 +45,16 @@ def get_rev_rankings(review_data):
 
     return (review_list[twentieth], review_list[fourtieth], review_list[sixtieth], review_list[eightieth]) # return cutoff values for each percentile
 
-# get_pct_label() is a helper function that discretizes the PosPercent value into its 1-5 star rating
 def get_pct_label(pos_pct):
+    """ Helper function that discretizes the PosPercent value into its 1-5 star rating
+
+    Args:
+        pos_pct (str): Percent of positive reviews value for a game
+
+    Returns:
+        Literal[1, 2, 3, 4, 5, ''] | None: 1-5 rating for a game
+    """
+
     if pos_pct == 'na':
         return ''
     elif int(pos_pct) <= 20:
@@ -47,8 +68,17 @@ def get_pct_label(pos_pct):
     elif int(pos_pct) > 80 and int(pos_pct) <= 100:
         return 5
 
-# get_rev_label() is a helper function that discretizes the TotalReviews value
 def get_rev_label(tot_rev, rev_rankings):
+    """ Helper function that discretizes the TotalReviews column
+
+    Args:
+        tot_rev (str): Number of total reviews for a game
+        rev_rankings (int, int, int, int): Tuple of cutoffs that determine each game's 1-5 rating
+
+    Returns:
+        Literal[1, 2, 3, 4, 5, ''] | None: 1-5 rating based on total review count
+    """
+
     if type(tot_rev) != float: # ignore blank/nan values
         tot_rev = int(tot_rev.replace(",", ""))
 
@@ -65,9 +95,13 @@ def get_rev_label(tot_rev, rev_rankings):
     else:
         return ''
 
-# discretize() discretizes the PosPercent and TotalReviews columns
-# it also removes any ™ or ® symbols in game titles to simplify the recommendation process
 def discretize():
+    """ Dicretizes the PosPercent and TotalReviews columns and removes any ™ or ® symbols in game titles to simplify the recommendation process
+
+    Returns:
+        dict: Discretized dictionary of game data
+    """
+
     game_dict = {}
     raw_data = pd.read_excel('game_data.xlsx', sheet_name='Raw Data')
     rows = raw_data.shape[0]
@@ -99,9 +133,16 @@ def discretize():
     
     return game_dict
 
-# combine_columns() loops through each game, concatenates data from each of its columns, and cleans the resulting data string
-# it then adds the data string as a new entry in game_dict
 def combine_columns(game_dict):
+    """ Loops through each game, concatenates data from each of its columns, cleans the resulting data string, then adds the data string as a new entry in game_dict
+
+    Args:
+        game_dict (dict): Dictionary of discretized game data
+
+    Returns:
+        dict: Dictionary of discretized game data and CombinedData column
+    """
+    
     empty_games = [] # list that tracks games with no attributes
     for game in game_dict.items(): # loop through each game
         combined = ''
