@@ -15,7 +15,7 @@ def write_data(sim_array, sheet):
     with pd.ExcelWriter("game_data.xlsx", engine="openpyxl", mode="a", if_sheet_exists="replace") as writer: # write to Excel
         df.to_excel(writer, sheet_name=sheet)
 
-def calculate_similarity(combined_data_col):
+def calculate_cosine(combined_data_col):
     """ Finds the cosine similarity between all games
 
     Args:
@@ -25,6 +25,7 @@ def calculate_similarity(combined_data_col):
     cv = CountVectorizer()
     matrix = cv.fit_transform(combined_data_col)  
     cos_sim = cosine_similarity(matrix)
+    print(type(cos_sim))
     write_data(cos_sim, 'Cosine Similarity')
 
 def jaccard_similarity(set1, set2):
@@ -82,5 +83,5 @@ def calculate_jaccard(preprocessed_data):
     
 if __name__ == "__main__":
     preprocessed_data = pd.read_excel('game_data.xlsx', sheet_name='Preprocessed Data')
-    calculate_similarity(preprocessed_data['CombinedData'])
+    calculate_cosine(preprocessed_data['CombinedData'])
     calculate_jaccard(preprocessed_data)
