@@ -1,5 +1,3 @@
-# Recommend 3 games based on a given game title
-
 import pandas as pd
 import tkinter as tk
 
@@ -26,6 +24,7 @@ def handle_user():
     """
 
     root = tk.Tk()
+    root.title('Game Recommender - Jaccard Similarity')
     canvas = tk.Canvas(root, width=400, height=240)
     canvas.pack()
 
@@ -44,13 +43,13 @@ def handle_user():
     canvas.create_window(200, 190, window=result3)
 
     def find_recommendations():
-        """ Generates 3 games using cosine similarity scores and prints them to screen
+        """ Generates 3 games using jaccard similarity scores and prints them to screen
         """
         
         game_lookup, index_lookup = generate_lookups()
         title = entry.get() # get user input title
 
-        cos_sim = pd.read_excel('game_data.xlsx', sheet_name='Cosine Similarity')
+        cos_sim = pd.read_excel('game_data.xlsx', sheet_name='Jaccard Similarity')
         index = index_lookup.get(title) # row corresponding to the input game title
 
         if index == None: # if game does not exist in database, use default values

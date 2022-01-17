@@ -5,22 +5,22 @@
   <meta content="width=device-width,initial-scale=1" name="viewport"/>
   <meta content="#171a21" name="theme-color"/>
   <title>
-   Save 75% on Dragon Age: Origins - Ultimate Edition on Steam
+   Save 50% on Red Dead Redemption 2 on Steam
   </title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/motiva_sans.css?v=2C1Oh9QFVTyK&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-  <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=HgJ-vRcbYWPh&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+  <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=yc308edMI8NI&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/buttons.css?v=hFJKQ6HV7IKT&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-  <link href="https://store.cloudflare.steamstatic.com/public/css/v6/store.css?v=PwckfHNPKT6i&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+  <link href="https://store.cloudflare.steamstatic.com/public/css/v6/store.css?v=3DSi82mG_lJ8&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/user_reviews.css?v=F73HJC22IPdX&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/store_game_shared.css?v=3762vFgJovj_&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/css/v6/game.css?v=NJAL5GXVoUyz&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/css/v6/recommended.css?v=xuPF2BB4ygA-&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/css/v6/user_reviews_rewards.css?v=5-HJZa1v4wFP&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/apphub.css?v=0jTpyLdMuBBC&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-  <link href="https://store.cloudflare.steamstatic.com/public/css/promo/autumn2021_nominations.css?v=fmc_TUDt8_rx&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/ui-lightness/jquery-ui-1.7.2.custom.css?v=.23LkAmA0IgZV&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-  <link href="https://store.cloudflare.steamstatic.com/public/css/v6/game_mob.css?v=DsamWNlStnbx&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+  <link href="https://store.cloudflare.steamstatic.com/public/css/promo/winter2020_steamawards.css?v=Ynntv8nIJFx3&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+  <link href="https://store.cloudflare.steamstatic.com/public/css/v6/game_mob.css?v=rG0AUsWW1LFT&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_responsive.css?v=mx3zakmFPU5T&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
   <script>
    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -48,7 +48,7 @@
   </script>
   <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/shared_global.js?v=RVua47VPZG4D&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
   </script>
-  <script src="https://store.cloudflare.steamstatic.com/public/javascript/main.js?v=vx5y-GOBjCpX&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+  <script src="https://store.cloudflare.steamstatic.com/public/javascript/main.js?v=JzxFgJXzuRsH&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
   </script>
   <script src="https://store.cloudflare.steamstatic.com/public/javascript/dynamicstore.js?v=-IiCw3YmBkFc&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
   </script>
@@ -70,7 +70,7 @@
   </script>
   <script src="https://store.cloudflare.steamstatic.com/public/javascript/app_tagging.js?v=qjm0Q0PkUv4V&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
   </script>
-  <script src="https://store.cloudflare.steamstatic.com/public/javascript/game.js?v=vc59OChIdnFQ&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+  <script src="https://store.cloudflare.steamstatic.com/public/javascript/game.js?v=8f0pr30ysBJx&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
   </script>
   <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/flot-0.8/jquery.flot.min.js?v=.-m414tR-pxn_&amp;_cdn=cloudflare" type="text/javascript">
   </script>
@@ -80,27 +80,25 @@
   </script>
   <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/flot-0.8/jquery.flot.selection.min.js?v=._7pxnS3SCqO7&amp;_cdn=cloudflare" type="text/javascript">
   </script>
-  <script src="https://store.cloudflare.steamstatic.com/public/javascript/promo/salefunctions.js?v=QkX1h9QiiO9U&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
-  </script>
   <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/jquery-ui-1.9.2.js?v=.4YjdpcHj68MM&amp;_cdn=cloudflare" type="text/javascript">
   </script>
-  <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=gcLGc1YQkPQi&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+  <script src="https://store.cloudflare.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=2LOxtyl4at8K&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
   </script>
   <meta content="summary_large_image" name="twitter:card"/>
-  <meta content="Dragon Age: Origins - Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs." name="Description"/>
+  <meta content="Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online." name="Description"/>
   <meta content="@steam" name="twitter:site">
-   <meta content="Save 75% on Dragon Age: Origins - Ultimate Edition on Steam" property="og:title"/>
-   <meta content="Save 75% on Dragon Age: Origins - Ultimate Edition on Steam" property="twitter:title"/>
+   <meta content="Save 50% on Red Dead Redemption 2 on Steam" property="og:title"/>
+   <meta content="Save 50% on Red Dead Redemption 2 on Steam" property="twitter:title"/>
    <meta content="website" property="og:type"/>
    <meta content="105386699540688" property="fb:app_id"/>
    <meta content="Steam" property="og:site"/>
-   <meta content="https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/" property="og:url"/>
-   <meta content="Dragon Age: Origins - Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs." property="og:description"/>
-   <meta content="Dragon Age: Origins - Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs." property="twitter:description"/>
-   <link href="https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/" rel="canonical"/>
-   <link href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/capsule_616x353.jpg?t=1615244558" rel="image_src"/>
-   <meta content="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/capsule_616x353.jpg?t=1615244558" property="og:image"/>
-   <meta content="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/capsule_616x353.jpg?t=1615244558" name="twitter:image">
+   <meta content="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/" property="og:url"/>
+   <meta content="Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online." property="og:description"/>
+   <meta content="Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online." property="twitter:description"/>
+   <link href="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/" rel="canonical"/>
+   <link href="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1618851907" rel="image_src"/>
+   <meta content="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1618851907" property="og:image"/>
+   <meta content="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1618851907" name="twitter:image">
    </meta>
   </meta>
  </head>
@@ -110,7 +108,7 @@
     <div class="responsive_page_menu" id="responsive_page_menu">
      <div class="mainmenu_contents">
       <div class="mainmenu_contents_items">
-       <a class="menuitem" href="https://store.steampowered.com/login/?redir=app%2F47810%2FDragon_Age_Origins__Ultimate_Edition%2F&amp;redir_ssl=1&amp;snr=1_5_9__global-header">
+       <a class="menuitem" href="https://store.steampowered.com/login/?redir=app%2F1174180%2FRed_Dead_Redemption_2%2F&amp;redir_ssl=1&amp;snr=1_5_9__global-header">
         Login
        </a>
        <a class="menuitem supernav" data-tooltip-content=".submenu_store" data-tooltip-type="selector" href="https://store.steampowered.com/?snr=1_5_9__global-responsive-menu">
@@ -293,7 +291,7 @@
           Install Steam
          </a>
         </div>
-        <a class="global_action_link" href="https://store.steampowered.com/login/?redir=app%2F47810%2FDragon_Age_Origins__Ultimate_Edition%2F&amp;redir_ssl=1&amp;snr=1_5_9__global-header">
+        <a class="global_action_link" href="https://store.steampowered.com/login/?redir=app%2F1174180%2FRed_Dead_Redemption_2%2F&amp;redir_ssl=1&amp;snr=1_5_9__global-header">
          login
         </a>
         |
@@ -404,10 +402,23 @@
     </div>
     <div class="responsive_page_template_content" data-panel='{"autoFocus":true}'>
      <script type="text/javascript">
+      try {
+				if ( typeof ga != 'undefined' && ga )
+				{
+					ga( 'create', "UA-15984839-37", 'auto', "app", {
+						anonymizeIp: true
+					} );
+					ga( 'app.require', 'linker' );
+					ga( 'app.linker:autolink', ["store.steampowered.com","steamcommunity.com","help.steampowered.com"] );
+					ga( 'app.send', 'pageview' );
+				}
+			} catch ( e ) { }
+     </script>
+     <script type="text/javascript">
       var g_eDiscoveryQueueType = 0;
 
 	GStoreItemData.AddStoreItemDataSet(
-		{"rgApps":{"1222690":{"name":"Dragon Age\u2122 Inquisition","url_name":"Dragon_Age_Inquisition","discount_block":"<div class=\"discount_block \" data-price-final=\"999\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1222690\/capsule_184x69.jpg?t=1633006819","os_windows":true,"has_live_broadcast":false,"mastersub_granting_app":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/mastersubs\/eaplay\/eaplay.svg","discount":true,"localized":true,"has_adult_content_violence":true},"1238040":{"name":"Dragon Age II","url_name":"Dragon_Age_II","discount_block":"<div class=\"discount_block \" data-price-final=\"499\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$4.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1238040\/capsule_184x69.jpg?t=1614948670","os_windows":true,"has_live_broadcast":false,"mastersub_granting_app":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/mastersubs\/eaplay\/eaplay.svg","discount":true,"localized":true,"has_adult_content_violence":true,"has_adult_content_sex":true},"1238050":{"name":"Dragon Age II DLC Bundle","url_name":"Dragon_Age_II_DLC_Bundle","discount_block":"<div class=\"discount_block \" data-price-final=\"624\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$6.24<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1238050\/capsule_184x69.jpg?t=1609112422","os_windows":true,"dlc":true,"dlc_for_app":"1238040","has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true,"has_adult_content_sex":true},"17450":{"name":"Dragon Age: Origins","url_name":"Dragon_Age_Origins","discount_block":"<div class=\"discount_block \" data-price-final=\"499\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$4.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/17450\/capsule_184x69.jpg?t=1615390705","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"47730":{"name":"Dragon Age\u2122: Origins Awakening","url_name":"Dragon_Age_Origins_Awakening","discount_block":"<div class=\"discount_block \" data-price-final=\"249\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$9.99<\/div><div class=\"discount_final_price\">$2.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47730\/capsule_184x69.jpg?t=1615217804","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1086940":{"name":"Baldur's Gate 3","url_name":"Baldurs_Gate_3","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1086940\/capsule_184x69.jpg?t=1634241306","os_windows":true,"os_macos":true,"early_access":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"1184370":{"name":"Pathfinder: Wrath of the Righteous","url_name":"Pathfinder_Wrath_of_the_Righteous","discount_block":"<div class=\"discount_block \" data-price-final=\"4249\"><div class=\"discount_pct\">-15%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$49.99<\/div><div class=\"discount_final_price\">$42.49<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1184370\/capsule_184x69.jpg?t=1637773232","os_windows":true,"os_macos":true,"has_live_broadcast":true,"discount":true,"localized":true,"has_adult_content_violence":true},"292030":{"name":"The Witcher\u00ae 3: Wild Hunt","url_name":"The_Witcher_3_Wild_Hunt","discount_block":"<div class=\"discount_block \" data-price-final=\"799\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$7.99<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/292030\/capsule_184x69.jpg?t=1621939214","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"Game of the Year Edition Now Available!"},"763890":{"name":"Wildermyth","url_name":"Wildermyth","discount_block":"<div class=\"discount_block \" data-price-final=\"1874\"><div class=\"discount_pct\">-25%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$18.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/763890\/capsule_184x69.jpg?t=1634231822","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"640820":{"name":"Pathfinder: Kingmaker - Enhanced Plus Edition","url_name":"Pathfinder_Kingmaker__Enhanced_Plus_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"899\"><div class=\"discount_pct\">-55%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$8.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/640820\/capsule_184x69.jpg?t=1630566412","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"1096530":{"name":"Solasta: Crown of the Magister","url_name":"Solasta_Crown_of_the_Magister","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1096530\/capsule_184x69.jpg?t=1636040929","os_windows":true,"os_macos":true,"has_live_broadcast":true,"discount":true,"localized":true},"632470":{"name":"Disco Elysium - The Final Cut","url_name":"Disco_Elysium__The_Final_Cut","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/632470\/capsule_184x69_alt_assets_2.jpg?t=1637777194","os_windows":true,"os_macos":true,"has_live_broadcast":false,"discount":true,"localized":true},"560130":{"name":"Pillars of Eternity II: Deadfire","url_name":"Pillars_of_Eternity_II_Deadfire","discount_block":"<div class=\"discount_block \" data-price-final=\"999\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/560130\/capsule_184x69.jpg?t=1632762508","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"719040":{"name":"Wasteland 3","url_name":"Wasteland_3","discount_block":"<div class=\"discount_block \" data-price-final=\"1319\"><div class=\"discount_pct\">-67%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$13.19<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/719040\/capsule_184x69.jpg?t=1629827324","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"356190":{"name":"Middle-earth\u2122: Shadow of War\u2122","url_name":"Middleearth_Shadow_of_War","discount_block":"<div class=\"discount_block \" data-price-final=\"999\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$49.99<\/div><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/356190\/capsule_184x69.jpg?t=1575317164","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"1295510":{"name":"DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122 - Definitive Edition","url_name":"DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1295510\/capsule_184x69.jpg?t=1622131694","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"606880":{"name":"GreedFall","url_name":"GreedFall","discount_block":"<div class=\"discount_block \" data-price-final=\"1399\"><div class=\"discount_pct\">-60%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99<\/div><div class=\"discount_final_price\">$13.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/606880\/capsule_184x69.jpg?t=1628785114","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"212500":{"name":"The Lord of the Rings Online\u2122","url_name":"The_Lord_of_the_Rings_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">Play for Free!<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/212500\/capsule_184x69.jpg?t=1630088794","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Now Available -  Paths of the Dead Update!"},"22330":{"name":"The Elder Scrolls IV: Oblivion\u00ae Game of the Year Edition","url_name":"The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"449\"><div class=\"discount_pct\">-70%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$14.99<\/div><div class=\"discount_final_price\">$4.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/22330\/capsule_184x69.jpg?t=1585658214","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1287840":{"name":"Disciples: Liberation","url_name":"Disciples_Liberation","discount_block":"<div class=\"discount_block \" data-price-final=\"3599\"><div class=\"discount_pct\">-10%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$35.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1287840\/capsule_184x69.jpg?t=1637774529","os_windows":true,"has_live_broadcast":true,"discount":true,"localized":true,"has_adult_content_violence":true},"1113000":{"name":"Persona 4 Golden","url_name":"Persona_4_Golden","discount_block":"<div class=\"discount_block \" data-price-final=\"1399\"><div class=\"discount_pct\">-30%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$13.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1113000\/capsule_184x69.jpg?t=1626689322","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"595520":{"name":"FINAL FANTASY XII THE ZODIAC AGE","url_name":"FINAL_FANTASY_XII_THE_ZODIAC_AGE","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/595520\/capsule_184x69.jpg?t=1635500529","os_windows":true,"has_live_broadcast":false,"localized":true},"228280":{"name":"Baldur's Gate: Enhanced Edition","url_name":"Baldurs_Gate_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"399\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$3.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/228280\/capsule_184x69.jpg?t=1632772481","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"New DLC Available"},"921570":{"name":"OCTOPATH TRAVELER\u2122","url_name":"OCTOPATH_TRAVELER","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/921570\/capsule_184x69.jpg?t=1629997522","os_windows":true,"has_live_broadcast":false,"localized":true},"291650":{"name":"Pillars of Eternity","url_name":"Pillars_of_Eternity","discount_block":"<div class=\"discount_block \" data-price-final=\"1499\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99<\/div><div class=\"discount_final_price\">$14.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/291650\/capsule_184x69.jpg?t=1615973823","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"New DLC Available!"},"335300":{"name":"DARK SOULS\u2122 II: Scholar of the First Sin","url_name":"DARK_SOULS_II_Scholar_of_the_First_Sin","discount_block":"<div class=\"discount_block \" data-price-final=\"1999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/335300\/capsule_184x69.jpg?t=1636678017","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1138660":{"name":"Black Book","url_name":"Black_Book","discount_block":"<div class=\"discount_block \" data-price-final=\"1874\"><div class=\"discount_pct\">-25%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$18.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1138660\/capsule_184x69.jpg?t=1636023418","os_windows":true,"os_macos":true,"has_live_broadcast":false,"discount":true,"localized":true},"32370":{"name":"STAR WARS\u2122 - Knights of the Old Republic\u2122","url_name":"STAR_WARS__Knights_of_the_Old_Republic","discount_block":"<div class=\"discount_block \" data-price-final=\"349\"><div class=\"discount_pct\">-65%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$9.99<\/div><div class=\"discount_final_price\">$3.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/32370\/capsule_184x69.jpg?t=1602892538","os_windows":true,"os_macos":true,"has_live_broadcast":false,"discount":true,"localized":true},"257350":{"name":"Baldur's Gate II: Enhanced Edition","url_name":"Baldurs_Gate_II_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"299\"><div class=\"discount_pct\">-85%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$2.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/257350\/capsule_184x69.jpg?t=1618855937","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"373420":{"name":"Divinity: Original Sin - Enhanced Edition","url_name":"Divinity_Original_Sin__Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"1399\"><div class=\"discount_pct\">-65%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$13.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/373420\/capsule_184x69.jpg?t=1589968419","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"20920":{"name":"The Witcher 2: Assassins of Kings Enhanced Edition","url_name":"The_Witcher_2_Assassins_of_Kings_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"299\"><div class=\"discount_pct\">-85%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$2.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/20920\/capsule_184x69.jpg?t=1621936593","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"Now Available on SteamOS!"},"288470":{"name":"Fable Anniversary","url_name":"Fable_Anniversary","discount_block":"<div class=\"discount_block \" data-price-final=\"874\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99<\/div><div class=\"discount_final_price\">$8.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/288470\/capsule_184x69.jpg?t=1577393306","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"1283410":{"name":"Tails of Iron","url_name":"Tails_of_Iron","discount_block":"<div class=\"discount_block \" data-price-final=\"1874\"><div class=\"discount_pct\">-25%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99<\/div><div class=\"discount_final_price\">$18.74<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1283410\/capsule_184x69_alt_assets_1.jpg?t=1637777883","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true},"362960":{"name":"Tyranny","url_name":"Tyranny","discount_block":"<div class=\"discount_block \" data-price-final=\"749\"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99<\/div><div class=\"discount_final_price\">$7.49<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/362960\/capsule_184x69.jpg?t=1615985862","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true},"704450":{"name":"Neverwinter Nights: Enhanced Edition","url_name":"Neverwinter_Nights_Enhanced_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"399\"><div class=\"discount_pct\">-80%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$3.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/704450\/capsule_184x69.jpg?t=1608058656","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"discount":true,"localized":true}},"rgPackages":[],"rgBundles":[]}	);
+		{"rgApps":{"1404210":{"name":"Red Dead Online","url_name":"Red_Dead_Online","discount_block":"<div class=\"discount_block \" data-price-final=\"999\"><div class=\"discount_pct\">-50%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99<\/div><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1404210\/capsule_184x69.jpg?t=1618851879","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"status_string":"Limited Time Offer"},"377160":{"name":"Fallout 4","url_name":"Fallout_4","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/377160\/capsule_184x69.jpg?t=1635279860","os_windows":true,"has_live_broadcast":false,"localized":true},"1030840":{"name":"Mafia: Definitive Edition","url_name":"Mafia_Definitive_Edition","discount_block":"<div class=\"discount_block \" data-price-final=\"1479\"><div class=\"discount_pct\">-63%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99<\/div><div class=\"discount_final_price\">$14.79<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1030840\/capsule_184x69.jpg?t=1632420251","os_windows":true,"has_live_broadcast":false,"discount":true,"localized":true,"has_adult_content_violence":true},"306130":{"name":"The Elder Scrolls\u00ae Online","url_name":"The_Elder_Scrolls_Online","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/306130\/capsule_184x69.jpg?t=1641402424","os_windows":true,"os_macos":true,"has_live_broadcast":false,"localized":true},"1551360":{"name":"Forza Horizon 5","url_name":"Forza_Horizon_5","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1551360\/capsule_184x69.jpg?t=1640881911","os_windows":true,"has_live_broadcast":false,"localized":true},"292030":{"name":"The Witcher\u00ae 3: Wild Hunt","url_name":"The_Witcher_3_Wild_Hunt","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[1,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/292030\/capsule_184x69.jpg?t=1621939214","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Game of the Year Edition Now Available!"},"261550":{"name":"Mount &amp; Blade II: Bannerlord","url_name":"Mount__Blade_II_Bannerlord","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/261550\/capsule_184x69.jpg?t=1641803125","os_windows":true,"early_access":true,"has_live_broadcast":false,"localized":true},"976730":{"name":"Halo: The Master Chief Collection","url_name":"Halo_The_Master_Chief_Collection","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/976730\/capsule_184x69.jpg?t=1634144453","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"518790":{"name":"theHunter: Call of the Wild\u2122","url_name":"theHunter_Call_of_the_Wild","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/518790\/capsule_184x69.jpg?t=1638871469","os_windows":true,"has_live_broadcast":false,"localized":true},"1240440":{"name":"Halo Infinite","url_name":"Halo_Infinite","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">Free To Play<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1240440\/capsule_184x69.jpg?t=1639025793","os_windows":true,"has_live_broadcast":false,"localized":true},"22380":{"name":"Fallout: New Vegas","url_name":"Fallout_New_Vegas","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/22380\/capsule_184x69.jpg?t=1586905021","os_windows":true,"has_live_broadcast":false,"localized":true},"1151640":{"name":"Horizon Zero Dawn\u2122 Complete Edition","url_name":"Horizon_Zero_Dawn_Complete_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1151640\/capsule_184x69.jpg?t=1635442187","os_windows":true,"has_live_broadcast":false,"localized":true},"107410":{"name":"Arma 3","url_name":"Arma_3","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/107410\/capsule_184x69.jpg?t=1639750419","os_windows":true,"has_live_broadcast":false,"localized":true},"1088850":{"name":"Marvel's Guardians of the Galaxy","url_name":"Marvels_Guardians_of_the_Galaxy","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1088850\/capsule_184x69.jpg?t=1640081166","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"489830":{"name":"The Elder Scrolls V: Skyrim Special Edition","url_name":"The_Elder_Scrolls_V_Skyrim_Special_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/489830\/capsule_184x69.jpg?t=1636654357","os_windows":true,"has_live_broadcast":false,"localized":true},"1091500":{"name":"Cyberpunk 2077","url_name":"Cyberpunk_2077","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1091500\/capsule_184x69.jpg?t=1621944801","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"782330":{"name":"DOOM Eternal","url_name":"DOOM_Eternal","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/782330\/capsule_184x69.jpg?t=1639072952","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"546560":{"name":"Half-Life: Alyx","url_name":"HalfLife_Alyx","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/546560\/capsule_184x69.jpg?t=1641577012","os_windows":true,"vr_htcvive":true,"vr_oculusrift":true,"vr_windowsmr":true,"virtual_reality":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"397540":{"name":"Borderlands 3","url_name":"Borderlands_3","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/397540\/capsule_184x69.jpg?t=1641929975","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"39210":{"name":"FINAL FANTASY XIV Online","url_name":"FINAL_FANTASY_XIV_Online","discount_block":"<div class=\"discount_block empty \"><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/39210\/capsule_184x69.jpg?t=1639672153","os_windows":true,"has_live_broadcast":false,"localized":true},"374320":{"name":"DARK SOULS\u2122 III","url_name":"DARK_SOULS_III","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/374320\/capsule_184x69.jpg?t=1638193506","os_windows":true,"has_live_broadcast":false,"localized":true},"287700":{"name":"METAL GEAR SOLID V: THE PHANTOM PAIN","url_name":"METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"1999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/287700\/capsule_184x69.jpg?t=1591740509","os_windows":true,"has_live_broadcast":false,"localized":true,"status_string":"Metal Gear Online Update Now Available"},"460930":{"name":"Tom Clancy's Ghost Recon\u00ae Wildlands","url_name":"Tom_Clancys_Ghost_Recon_Wildlands","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/460930\/capsule_184x69.jpg?t=1602605434","os_windows":true,"has_live_broadcast":false,"localized":true},"1172620":{"name":"Sea of Thieves","url_name":"Sea_of_Thieves","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"3999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1172620\/capsule_184x69.jpg?t=1638484040","os_windows":true,"has_live_broadcast":false,"localized":true},"1286830":{"name":"STAR WARS\u2122: The Old Republic\u2122","url_name":"STAR_WARS_The_Old_Republic","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">Free To Play<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1286830\/capsule_184x69.jpg?t=1616604893","os_windows":true,"has_live_broadcast":false,"localized":true},"412020":{"name":"Metro Exodus","url_name":"Metro_Exodus","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/412020\/capsule_184x69.jpg?t=1625576954","os_windows":true,"os_macos":true,"os_linux":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"753640":{"name":"Outer Wilds","url_name":"Outer_Wilds","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"2499\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99<\/div><\/div><\/div>","descids":[],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/753640\/capsule_184x69.jpg?t=1633026544","os_windows":true,"has_live_broadcast":false,"localized":true},"1259420":{"name":"Days Gone","url_name":"Days_Gone","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"4999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1259420\/capsule_184x69.jpg?t=1635476187","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"812140":{"name":"Assassin's Creed\u00ae Odyssey","url_name":"Assassins_Creed_Odyssey","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[1,2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/812140\/capsule_184x69.jpg?t=1640083113","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true},"814380":{"name":"Sekiro\u2122: Shadows Die Twice - GOTY Edition","url_name":"Sekiro_Shadows_Die_Twice__GOTY_Edition","discount_block":"<div class=\"discount_block  no_discount\" data-price-final=\"5999\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99<\/div><\/div><\/div>","descids":[2,5],"small_capsulev5":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/814380\/capsule_184x69.jpg?t=1603904569","os_windows":true,"has_live_broadcast":false,"localized":true,"has_adult_content_violence":true}},"rgPackages":[],"rgBundles":[]}	);
 	GStoreItemData.AddNavParams( {
 		recommended: "1_5_9__300",
 		recommend_franchise: "1_5_9__316",
@@ -416,6 +427,7 @@
 		recommended_ranked_played: "1_5_9__862",
 	} );
 
+	
 	$J( function() {
 		var $Expander = $J('#devnotes_expander');
 		if( $Expander.length && $Expander.height() < parseInt( $Expander.css('max-height') ) ) {
@@ -435,19 +447,19 @@
 		$J('#responsive_apppage_reviewblock_ctn' ).css('width', '100%' );
 		window.setTimeout( function() { $J('#responsive_apppage_reviewblock_ctn').css('width', '' ); }, 1 );
 
-					InitSteamAwardNominationDialog( 47810, "Dragon Age: Origins - Ultimate Edition", [], 0, 0 );
 		
 				var watcher = new CScrollOffsetWatcher( $J('#app_reviews_hash'), OnLoadReviews );
 		watcher.SetBufferHeight( 0 );
 
 				InitPlaytimeFilterSlider();
 		
+		// on Tablet wait to do this when the window is fully loaded - see OnPageLoaded()
 				ReparentAppLandingPageForSmallScreens();
 		
         	} );
 	GDynamicStore.OnReady( function() {
-		RenderMoreLikeThisBlock( ["1086940","1184370","292030","763890","640820","1096530","632470","560130","719040","356190","1295510","606880","212500","22330","1287840","1113000","595520","228280","921570","291650","335300","1138660","32370","257350","373420","20920","288470","1283410","362960","704450"], !!true );
-		RenderFranchiseAppBlock( ["1222690","1238040","1238050","17450","47730",1255343,1255346,1295711,1255350,1255351,1295726,1295724] );
+		RenderMoreLikeThisBlock( ["1404210","377160","1030840","306130","1551360","292030","261550","976730","518790","1240440","22380","1151640","107410","1088850","489830","1091500","782330","546560","397540","39210","374320","287700","460930","1172620","1286830","412020","753640","1259420","812140","814380"], !!true );
+		RenderFranchiseAppBlock( [] );
 		RenderMoreDLCFromBaseGameBlock( [] );
 
 	});
@@ -455,10 +467,10 @@
 	
 	function OpenTagModal()
 	{
-		ShowAppTagModal( 47810 );
+		ShowAppTagModal( 1174180 );
 	}
      </script>
-     <div class="game_page_background game" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/47810/page_bg_generated_v6b.jpg?t=1615244558');">
+     <div class="game_page_background game" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/page_bg_generated_v6b.jpg?t=1618851907');">
       <div class="" id="store_header">
        <div class="content">
         <div id="store_controls">
@@ -586,7 +598,7 @@
               </a>
               <a class="popup_menu_item" href="https://store.steampowered.com/controller/?snr=1_5_9__12">
                <span>
-                Controller Friendly
+                Controller-Friendly
                </span>
               </a>
               <a class="popup_menu_item" href="https://store.steampowered.com/remoteplay_hub/?snr=1_5_9__12">
@@ -602,7 +614,7 @@
               </a>
               <a class="popup_menu_item" href="https://store.steampowered.com/vr/?snr=1_5_9__12">
                <span>
-                Virtual Reality
+                VR Titles
                </span>
               </a>
               <a class="popup_menu_item" href="https://store.steampowered.com/vrhardware/?snr=1_5_9__12">
@@ -871,7 +883,7 @@
               </div>
               <div class="popup_genre_expand_content responsive_hidden" data-genre-group="social_and_players">
                <a class="popup_menu_item" href="https://store.steampowered.com/category/multiplayer_coop/?snr=1_5_9__12">
-                Cooperative
+                Co-Operative
                </a>
                <a class="popup_menu_item" href="https://store.steampowered.com/category/multiplayer_lan/?snr=1_5_9__12">
                 LAN
@@ -984,7 +996,7 @@
 						if( $J('#searchform').length > 0 )
 						{
 							// default search support where the web page includes the search edit control
-							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_5_9_', 'US', 1, 'english', g_rgUserPreferences, '13236457' );
+							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_5_9_', 'US', 1, 'english', g_rgUserPreferences, '13675754' );
 						}
 						else 
 						{
@@ -1014,8 +1026,8 @@
       </script>
       <script type="text/javascript">
        var g_AccountID = 0;
-	var g_sessionID = "3cef4fc989d7cc431aff0cb6";
-	var g_ServerTime = 1637794280;
+	var g_sessionID = "972890c4d515474c4e416aed";
+	var g_ServerTime = 1642375333;
 
 	$J( InitMiniprofileHovers );
 
@@ -1028,15 +1040,15 @@
 		GStoreItemData.SetCurrencyFormatter( function( nValueInCents, bWholeUnitsOnly ) { var fmt = function( nValueInCents, bWholeUnitsOnly ) {	var format = v_numberformat( nValueInCents / 100, bWholeUnitsOnly ? 0 : 2, ".", ","); return format; };var strNegativeSymbol = '';	if ( nValueInCents < 0 ) { strNegativeSymbol = '-'; nValueInCents = -nValueInCents; }return strNegativeSymbol + "$" + fmt( nValueInCents, bWholeUnitsOnly );} );
 		GStoreItemData.SetCurrencyMinPriceIncrement( 1 );
       </script>
-      <div data-broadcastuser='{"success":1,"bHideStoreBroadcast":false}' data-config='{"EUNIVERSE":1,"WEB_UNIVERSE":"public","LANGUAGE":"english","COUNTRY":"US","MEDIA_CDN_COMMUNITY_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/","MEDIA_CDN_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/","COMMUNITY_CDN_URL":"https:\/\/community.cloudflare.steamstatic.com\/","COMMUNITY_CDN_ASSET_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/assets\/","STORE_CDN_URL":"https:\/\/store.cloudflare.steamstatic.com\/","PUBLIC_SHARED_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/shared\/","COMMUNITY_BASE_URL":"https:\/\/steamcommunity.com\/","CHAT_BASE_URL":"https:\/\/steamcommunity.com\/","STORE_BASE_URL":"https:\/\/store.steampowered.com\/","IMG_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/images\/","STEAMTV_BASE_URL":"https:\/\/steam.tv\/","HELP_BASE_URL":"https:\/\/help.steampowered.com\/","PARTNER_BASE_URL":"https:\/\/partner.steamgames.com\/","STATS_BASE_URL":"https:\/\/partner.steampowered.com\/","INTERNAL_STATS_BASE_URL":"https:\/\/steamstats.valve.org\/","IN_CLIENT":false,"USE_POPUPS":false,"STORE_ICON_BASE_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/","WEBAPI_BASE_URL":"https:\/\/api.steampowered.com\/","TOKEN_URL":"https:\/\/store.steampowered.com\/\/chat\/clientjstoken","BUILD_TIMESTAMP":1637793704,"PAGE_TIMESTAMP":1637794280,"IN_TENFOOT":false,"IN_GAMEPADUI":false,"PLATFORM":"unknown","BASE_URL_STORE_CDN_ASSETS":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/","EREALM":1,"LOGIN_BASE_URL":"https:\/\/login.steampowered.com\/","SNR":"1_5_9_"}' data-userinfo='{"logged_in":false,"country_code":"US"}' id="application_config" style="display: none;">
+      <div data-broadcastuser='{"success":1,"bHideStoreBroadcast":false}' data-config='{"EUNIVERSE":1,"WEB_UNIVERSE":"public","LANGUAGE":"english","COUNTRY":"US","MEDIA_CDN_COMMUNITY_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/","MEDIA_CDN_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/","COMMUNITY_CDN_URL":"https:\/\/community.cloudflare.steamstatic.com\/","COMMUNITY_CDN_ASSET_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/assets\/","STORE_CDN_URL":"https:\/\/store.cloudflare.steamstatic.com\/","PUBLIC_SHARED_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/shared\/","COMMUNITY_BASE_URL":"https:\/\/steamcommunity.com\/","CHAT_BASE_URL":"https:\/\/steamcommunity.com\/","STORE_BASE_URL":"https:\/\/store.steampowered.com\/","IMG_URL":"https:\/\/store.cloudflare.steamstatic.com\/public\/images\/","STEAMTV_BASE_URL":"https:\/\/steam.tv\/","HELP_BASE_URL":"https:\/\/help.steampowered.com\/","PARTNER_BASE_URL":"https:\/\/partner.steamgames.com\/","STATS_BASE_URL":"https:\/\/partner.steampowered.com\/","INTERNAL_STATS_BASE_URL":"https:\/\/steamstats.valve.org\/","IN_CLIENT":false,"USE_POPUPS":false,"STORE_ICON_BASE_URL":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/","WEBAPI_BASE_URL":"https:\/\/api.steampowered.com\/","TOKEN_URL":"https:\/\/store.steampowered.com\/\/chat\/clientjstoken","BUILD_TIMESTAMP":1642111384,"PAGE_TIMESTAMP":1642375333,"IN_TENFOOT":false,"IN_GAMEPADUI":false,"PLATFORM":"unknown","BASE_URL_STORE_CDN_ASSETS":"https:\/\/cdn.cloudflare.steamstatic.com\/store\/","EREALM":1,"LOGIN_BASE_URL":"https:\/\/login.steampowered.com\/","SNR":"1_5_9_"}' data-userinfo='{"logged_in":false,"country_code":"US"}' id="application_config" style="display: none;">
       </div>
       <!-- create two column layout for Deck, Tablet sized screens -->
       <div class="tablet_grid" id="tabletGrid">
        <div class="page_content_ctn" itemscope="" itemtype="http://schema.org/Product">
-        <meta content="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/capsule_231x87.jpg?t=1615244558" itemprop="image"/>
+        <meta content="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_231x87.jpg?t=1618851907" itemprop="image"/>
         <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" style="display: none;">
          <meta content="USD" itemprop="priceCurrency"/>
-         <meta content="7.49" itemprop="price"/>
+         <meta content="29.99" itemprop="price"/>
         </div>
         <div class="page_title_area game_title_area page_content" data-gpnav="columns">
          <div class="breadcrumbs" data-panel='{"flow-children":"row"}'>
@@ -1045,17 +1057,13 @@
             All Games
            </a>
            &gt;
-           <a href="https://store.steampowered.com/genre/RPG/?snr=1_5_9__205">
-            RPG Games
+           <a href="https://store.steampowered.com/genre/Adventure/?snr=1_5_9__205">
+            Adventure Games
            </a>
            &gt;
-           <a href="https://store.steampowered.com/franchise/DragonAge?snr=1_5_9__205">
-            Dragon Age Franchise
-           </a>
-           &gt;
-           <a href="https://store.steampowered.com/app/47810/?snr=1_5_9__205">
+           <a href="https://store.steampowered.com/app/1174180/?snr=1_5_9__205">
             <span itemprop="name">
-             Dragon Age: Origins - Ultimate Edition
+             Red Dead Redemption 2
             </span>
            </a>
           </div>
@@ -1065,19 +1073,19 @@
          <div class="apphub_HomeHeaderContent">
           <div class="apphub_HeaderStandardTop">
            <div class="apphub_OtherSiteInfo">
-            <a class="btnv6_blue_hoverfade btn_medium" href="https://steamcommunity.com/app/47810">
+            <a class="btnv6_blue_hoverfade btn_medium" href="https://steamcommunity.com/app/1174180">
              <span>
               Community Hub
              </span>
             </a>
            </div>
            <div class="apphub_AppIcon">
-            <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/47810/e5e0b9629b314f7338f493d26227eb2bd1172e77.jpg"/>
+            <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1174180/5106abd9c1187a97f23295a0ba9470c94804ec6c.jpg"/>
             <div class="overlay">
             </div>
            </div>
            <div class="apphub_AppName" id="appHubAppName">
-            Dragon Age: Origins - Ultimate Edition
+            Red Dead Redemption 2
            </div>
            <div style="clear: both">
            </div>
@@ -1094,47 +1102,47 @@
          </script>
          <div class="game_background_glow">
           <div class="responsive_page_header_img" style="display: none;">
-           <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/header.jpg?t=1615244558" style="width:100%;"/>
+           <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1618851907" style="width:100%;"/>
           </div>
           <div class="block_content page_content" data-panel='{"flow-children":"column"}' id="game_highlights">
            <div class="rightcol" data-panel='{"flow-children":"column"}'>
             <div class="glance_ctn">
              <div class="game_header_image_ctn" id="gameHeaderImageCtn">
-              <img class="game_header_image_full" src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/header.jpg?t=1615244558"/>
+              <img class="game_header_image_full" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1618851907"/>
               <div class="apphub_AppName" id="appHubAppName_responsive" style="display: none;">
-               Dragon Age: Origins - Ultimate Edition
+               Red Dead Redemption 2
               </div>
               <div class="app_header_grid_container" id="appHeaderGridContainer" style="display:none">
                <div class="grid_label">
                 Developer
                </div>
                <div class="grid_content">
-                <a href="https://store.steampowered.com/developer/Bioware?snr=1_5_9__400">
-                 BioWare
+                <a href="https://store.steampowered.com/developer/rockstargames?snr=1_5_9__400">
+                 Rockstar Games
                 </a>
                </div>
                <div class="grid_label">
                 Publisher
                </div>
                <div class="grid_content">
-                <a href="https://store.steampowered.com/publisher/EA?snr=1_5_9__400">
-                 Electronic Arts
+                <a href="https://store.steampowered.com/publisher/rockstargames?snr=1_5_9__400">
+                 Rockstar Games
                 </a>
                </div>
                <div class="grid_label grid_date">
                 Released
                </div>
                <div class="grid_content grid_date">
-                Oct 26, 2010
+                Dec 5, 2019
                </div>
               </div>
              </div>
              <div class="game_description_snippet">
-              Dragon Age: Origins - Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.
+              Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.
              </div>
              <div class="glance_ctn_responsive_left">
               <div class="user_reviews" id="userReviews">
-               <div class="user_reviews_summary_row" data-tooltip-html="91% of the 228 user reviews in the last 30 days are positive." onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="92% of the 10,232 user reviews in the last 30 days are positive." onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column">
                  Recent Reviews:
                 </div>
@@ -1143,14 +1151,14 @@
                   Very Positive
                  </span>
                  <span class="responsive_hidden">
-                  (228)
+                  (10,232)
                  </span>
                  <span class="nonresponsive_hidden responsive_reviewdesc">
-                  - 91% of the 228 user reviews in the last 30 days are positive.
+                  - 92% of the 10,232 user reviews in the last 30 days are positive.
                  </span>
                 </div>
                </div>
-               <div class="user_reviews_summary_row" data-tooltip-html="90% of the 14,482 user reviews for this game are positive." itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="87% of the 214,327 user reviews for this game are positive." itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column all">
                  All Reviews:
                 </div>
@@ -1159,13 +1167,13 @@
                   Very Positive
                  </span>
                  <span class="responsive_hidden">
-                  (14,482)
+                  (214,327)
                  </span>
                  <span class="nonresponsive_hidden responsive_reviewdesc">
-                  - 90% of the 14,482 user reviews for this game are positive.
+                  - 87% of the 214,327 user reviews for this game are positive.
                  </span>
                  <!-- microdata -->
-                 <meta content="14482" itemprop="reviewCount"/>
+                 <meta content="214327" itemprop="reviewCount"/>
                  <meta content="9" itemprop="ratingValue"/>
                  <meta content="10" itemprop="bestRating"/>
                  <meta content="1" itemprop="worstRating"/>
@@ -1177,7 +1185,7 @@
                 Release Date:
                </div>
                <div class="date">
-                Oct 26, 2010
+                Dec 5, 2019
                </div>
               </div>
               <div class="dev_row">
@@ -1185,8 +1193,8 @@
                 Developer:
                </div>
                <div class="summary column" id="developers_list">
-                <a href="https://store.steampowered.com/developer/Bioware?snr=1_5_9__2000">
-                 BioWare
+                <a href="https://store.steampowered.com/developer/rockstargames?snr=1_5_9__2000">
+                 Rockstar Games
                 </a>
                </div>
               </div>
@@ -1195,8 +1203,8 @@
                 Publisher:
                </div>
                <div class="summary column">
-                <a href="https://store.steampowered.com/publisher/EA?snr=1_5_9__2000">
-                 Electronic Arts
+                <a href="https://store.steampowered.com/publisher/rockstargames?snr=1_5_9__2000">
+                 Rockstar Games
                 </a>
                </div>
               </div>
@@ -1210,68 +1218,68 @@
                <div class="glance_tags_label">
                 Popular user-defined tags for this product:
                </div>
-               <div class="glance_tags popular_tags" data-appid="47810">
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/RPG/?snr=1_5_9__409" style="display: none;">
-                 RPG
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Fantasy/?snr=1_5_9__409" style="display: none;">
-                 Fantasy
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Story%20Rich/?snr=1_5_9__409" style="display: none;">
-                 Story Rich
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Singleplayer/?snr=1_5_9__409" style="display: none;">
-                 Singleplayer
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Choices%20Matter/?snr=1_5_9__409" style="display: none;">
-                 Choices Matter
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Party-Based%20RPG/?snr=1_5_9__409" style="display: none;">
-                 Party-Based RPG
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Real-Time%20with%20Pause/?snr=1_5_9__409" style="display: none;">
-                 Real-Time with Pause
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Mature/?snr=1_5_9__409" style="display: none;">
-                 Mature
-                </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Character%20Customization/?snr=1_5_9__409" style="display: none;">
-                 Character Customization
+               <div class="glance_tags popular_tags" data-appid="1174180">
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Open%20World/?snr=1_5_9__409" style="display: none;">
+                 Open World
                 </a>
                 <a class="app_tag" href="https://store.steampowered.com/tags/en/Adventure/?snr=1_5_9__409" style="display: none;">
                  Adventure
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Multiple%20Endings/?snr=1_5_9__409" style="display: none;">
-                 Multiple Endings
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Story%20Rich/?snr=1_5_9__409" style="display: none;">
+                 Story Rich
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Strategy/?snr=1_5_9__409" style="display: none;">
-                 Strategy
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Western/?snr=1_5_9__409" style="display: none;">
+                 Western
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Well-Written/?snr=1_5_9__409" style="display: none;">
-                 Well-Written
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Action/?snr=1_5_9__409" style="display: none;">
+                 Action
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Dark%20Fantasy/?snr=1_5_9__409" style="display: none;">
-                 Dark Fantasy
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Multiplayer/?snr=1_5_9__409" style="display: none;">
+                 Multiplayer
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Dragons/?snr=1_5_9__409" style="display: none;">
-                 Dragons
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Realistic/?snr=1_5_9__409" style="display: none;">
+                 Realistic
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Female%20Protagonist/?snr=1_5_9__409" style="display: none;">
-                 Female Protagonist
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Shooter/?snr=1_5_9__409" style="display: none;">
+                 Shooter
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Classic/?snr=1_5_9__409" style="display: none;">
-                 Classic
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Singleplayer/?snr=1_5_9__409" style="display: none;">
+                 Singleplayer
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Open%20World/?snr=1_5_9__409" style="display: none;">
-                 Open World
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Atmospheric/?snr=1_5_9__409" style="display: none;">
+                 Atmospheric
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Tactical/?snr=1_5_9__409" style="display: none;">
-                 Tactical
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Third-Person%20Shooter/?snr=1_5_9__409" style="display: none;">
+                 Third-Person Shooter
                 </a>
-                <a class="app_tag" href="https://store.steampowered.com/tags/en/Moddable/?snr=1_5_9__409" style="display: none;">
-                 Moddable
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Horses/?snr=1_5_9__409" style="display: none;">
+                 Horses
                 </a>
-                <div class="app_tag add_button" data-panel='{"focusable":true,"clickOnActivate":true}' onclick="ShowAppTagModal( 47810 )">
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Beautiful/?snr=1_5_9__409" style="display: none;">
+                 Beautiful
+                </a>
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Great%20Soundtrack/?snr=1_5_9__409" style="display: none;">
+                 Great Soundtrack
+                </a>
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Mature/?snr=1_5_9__409" style="display: none;">
+                 Mature
+                </a>
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Third%20Person/?snr=1_5_9__409" style="display: none;">
+                 Third Person
+                </a>
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Sandbox/?snr=1_5_9__409" style="display: none;">
+                 Sandbox
+                </a>
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/First-Person/?snr=1_5_9__409" style="display: none;">
+                 First-Person
+                </a>
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/Gore/?snr=1_5_9__409" style="display: none;">
+                 Gore
+                </a>
+                <a class="app_tag" href="https://store.steampowered.com/tags/en/FPS/?snr=1_5_9__409" style="display: none;">
+                 FPS
+                </a>
+                <div class="app_tag add_button" data-panel='{"focusable":true,"clickOnActivate":true}' onclick="ShowAppTagModal( 1174180 )">
                  +
                 </div>
                </div>
@@ -1289,19 +1297,19 @@
                   Very Positive
                  </span>
                  <span class="responsive_reviewdesc_short">
-                  (90% of 14,482)
+                  (87% of 214,327)
                   <span class="desc_short">
                    All Time
                   </span>
                  </span>
                  <!-- microdata -->
-                 <meta content="14482" itemprop="reviewCount"/>
+                 <meta content="214327" itemprop="reviewCount"/>
                  <meta content="9" itemprop="ratingValue"/>
                  <meta content="10" itemprop="bestRating"/>
                  <meta content="1" itemprop="worstRating"/>
                 </div>
                </div>
-               <div class="user_reviews_summary_row" data-tooltip-html="91% of the 228 user reviews in the last 30 days are positive." id="appReviewsRecent_responsive" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
+               <div class="user_reviews_summary_row" data-tooltip-html="92% of the 10,232 user reviews in the last 30 days are positive." id="appReviewsRecent_responsive" onclick="window.location='#app_reviews_hash'" style="cursor: pointer;">
                 <div class="subtitle column">
                  Recent Reviews:
                 </div>
@@ -1310,7 +1318,7 @@
                   Very Positive
                  </span>
                  <span class="responsive_reviewdesc_short">
-                  (91% of 228)
+                  (92% of 10,232)
                   <span class="desc_short">
                    Recent
                   </span>
@@ -1330,107 +1338,77 @@
                <div class="highlight_player_area_spacer">
                 <img src="https://store.cloudflare.steamstatic.com/public/images/game/game_highlight_image_spacer.gif"/>
                </div>
-               <div class="highlight_player_item highlight_movie" data-mp4-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823689/movie_max.mp4?t=1614195331" data-mp4-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823689/movie480.mp4?t=1614195331" data-panel='{"focusable":true,"clickOnActivate":true}' data-poster="https://cdn.cloudflare.steamstatic.com/steam/apps/256823689/movie.293x165.jpg?t=1614195331" data-webm-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823689/movie_max_vp9.webm?t=1614195331" data-webm-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823689/movie480_vp9.webm?t=1614195331" id="highlight_movie_256823689" style="display: none;">
+               <div class="highlight_player_item highlight_movie" data-mp4-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767979/movie_max.mp4?t=1574881964" data-mp4-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767979/movie480.mp4?t=1574881964" data-panel='{"focusable":true,"clickOnActivate":true}' data-poster="https://cdn.cloudflare.steamstatic.com/steam/apps/256767979/movie.293x165.jpg?t=1574881964" data-webm-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767979/movie_max.webm?t=1574881964" data-webm-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767979/movie480.webm?t=1574881964" id="highlight_movie_256767979" style="display: none;">
                </div>
-               <div class="highlight_player_item highlight_movie" data-mp4-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823687/movie_max.mp4?t=1614195339" data-mp4-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823687/movie480.mp4?t=1614195339" data-panel='{"focusable":true,"clickOnActivate":true}' data-poster="https://cdn.cloudflare.steamstatic.com/steam/apps/256823687/movie.293x165.jpg?t=1614195339" data-webm-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823687/movie_max_vp9.webm?t=1614195339" data-webm-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256823687/movie480_vp9.webm?t=1614195339" id="highlight_movie_256823687" style="display: none;">
+               <div class="highlight_player_item highlight_movie" data-mp4-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767971/movie_max.mp4?t=1574881973" data-mp4-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767971/movie480.mp4?t=1574881973" data-panel='{"focusable":true,"clickOnActivate":true}' data-poster="https://cdn.cloudflare.steamstatic.com/steam/apps/256767971/movie.293x165.jpg?t=1574881973" data-webm-hd-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767971/movie_max.webm?t=1574881973" data-webm-source="https://cdn.cloudflare.steamstatic.com/steam/apps/256767971/movie480.webm?t=1574881973" id="highlight_movie_256767971" style="display: none;">
                </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_7fe94447069d399c8b32c125d684ec7b255600ba.jpg" style="display: none;">
+               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.jpg" style="display: none;">
                 <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_7fe94447069d399c8b32c125d684ec7b255600ba.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_7fe94447069d399c8b32c125d684ec7b255600ba.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
+                 <a class="highlight_screenshot_link" data-screenshotid="ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.1920x1080.jpg?t=1618851907" rel="noreferrer" target="_blank">
                   <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
                  </a>
                 </div>
                </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.jpg" style="display: none;">
+               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_bac60bacbf5da8945103648c08d27d5e202444ca.jpg" style="display: none;">
                 <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
+                 <a class="highlight_screenshot_link" data-screenshotid="ss_bac60bacbf5da8945103648c08d27d5e202444ca.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.1920x1080.jpg?t=1618851907" rel="noreferrer" target="_blank">
                   <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
                  </a>
                 </div>
                </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_6d3f7f75d007bc2efe93b1f230b66850757001db.jpg" style="display: none;">
+               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.jpg" style="display: none;">
                 <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_6d3f7f75d007bc2efe93b1f230b66850757001db.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_6d3f7f75d007bc2efe93b1f230b66850757001db.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
+                 <a class="highlight_screenshot_link" data-screenshotid="ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.1920x1080.jpg?t=1618851907" rel="noreferrer" target="_blank">
                   <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
                  </a>
                 </div>
                </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.jpg" style="display: none;">
+               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.jpg" style="display: none;">
                 <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
+                 <a class="highlight_screenshot_link" data-screenshotid="ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.1920x1080.jpg?t=1618851907" rel="noreferrer" target="_blank">
                   <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
                  </a>
                 </div>
                </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_15c511e75db32a0ff967b9b97ac0fb824556b707.jpg" style="display: none;">
+               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.jpg" style="display: none;">
                 <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_15c511e75db32a0ff967b9b97ac0fb824556b707.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_15c511e75db32a0ff967b9b97ac0fb824556b707.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
-                  <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
-                 </a>
-                </div>
-               </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.jpg" style="display: none;">
-                <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
-                  <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
-                 </a>
-                </div>
-               </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_afc54931c8ae9665ab2716e40c814ba0d8997972.jpg" style="display: none;">
-                <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_afc54931c8ae9665ab2716e40c814ba0d8997972.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_afc54931c8ae9665ab2716e40c814ba0d8997972.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
-                  <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
-                 </a>
-                </div>
-               </div>
-               <div class="highlight_player_item highlight_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="highlight_screenshot_ss_4bad018ac270857660c0d82ba62c5651ef47e497.jpg" style="display: none;">
-                <div class="screenshot_holder">
-                 <a class="highlight_screenshot_link" data-screenshotid="ss_4bad018ac270857660c0d82ba62c5651ef47e497.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_4bad018ac270857660c0d82ba62c5651ef47e497.1920x1080.jpg?t=1615244558" rel="noreferrer" target="_blank">
+                 <a class="highlight_screenshot_link" data-screenshotid="ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.jpg" href="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.1920x1080.jpg?t=1618851907" rel="noreferrer" target="_blank">
                   <img src="https://store.cloudflare.steamstatic.com/public/images/blank.gif"/>
                  </a>
                 </div>
                </div>
                <script type="text/javascript">
-                var rgScreenshotURLs = {"ss_7fe94447069d399c8b32c125d684ec7b255600ba.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_7fe94447069d399c8b32c125d684ec7b255600ba_SIZE_.jpg?t=1615244558","ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c_SIZE_.jpg?t=1615244558","ss_6d3f7f75d007bc2efe93b1f230b66850757001db.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_6d3f7f75d007bc2efe93b1f230b66850757001db_SIZE_.jpg?t=1615244558","ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957_SIZE_.jpg?t=1615244558","ss_15c511e75db32a0ff967b9b97ac0fb824556b707.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_15c511e75db32a0ff967b9b97ac0fb824556b707_SIZE_.jpg?t=1615244558","ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9_SIZE_.jpg?t=1615244558","ss_afc54931c8ae9665ab2716e40c814ba0d8997972.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_afc54931c8ae9665ab2716e40c814ba0d8997972_SIZE_.jpg?t=1615244558","ss_4bad018ac270857660c0d82ba62c5651ef47e497.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/47810\/ss_4bad018ac270857660c0d82ba62c5651ef47e497_SIZE_.jpg?t=1615244558"};
+                var rgScreenshotURLs = {"ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1174180\/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f_SIZE_.jpg?t=1618851907","ss_bac60bacbf5da8945103648c08d27d5e202444ca.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1174180\/ss_bac60bacbf5da8945103648c08d27d5e202444ca_SIZE_.jpg?t=1618851907","ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1174180\/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e_SIZE_.jpg?t=1618851907","ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1174180\/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f_SIZE_.jpg?t=1618851907","ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.jpg":"https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1174180\/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9_SIZE_.jpg?t=1618851907"};
                </script>
               </div>
               <div id="highlight_strip">
-               <div data-panel='{"maintainY":true,"flow-children":"row"}' id="highlight_strip_scroll" style="width: 1202px;">
+               <div data-panel='{"maintainY":true,"flow-children":"row"}' id="highlight_strip_scroll" style="width: 842px;">
                 <div class="highlight_selector">
                 </div>
-                <div class="highlight_strip_item highlight_strip_movie" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_movie_256823689">
-                 <img class="movie_thumb" src="https://cdn.cloudflare.steamstatic.com/steam/apps/256823689/movie.184x123.jpg?t=1614195331"/>
+                <div class="highlight_strip_item highlight_strip_movie" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_movie_256767979">
+                 <img class="movie_thumb" src="https://cdn.cloudflare.steamstatic.com/steam/apps/256767979/movie.184x123.jpg?t=1574881964"/>
                  <div class="highlight_movie_marker">
                  </div>
                 </div>
-                <div class="highlight_strip_item highlight_strip_movie" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_movie_256823687">
-                 <img class="movie_thumb" src="https://cdn.cloudflare.steamstatic.com/steam/apps/256823687/movie.184x123.jpg?t=1614195339"/>
+                <div class="highlight_strip_item highlight_strip_movie" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_movie_256767971">
+                 <img class="movie_thumb" src="https://cdn.cloudflare.steamstatic.com/steam/apps/256767971/movie.184x123.jpg?t=1574881973"/>
                  <div class="highlight_movie_marker">
                  </div>
                 </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_7fe94447069d399c8b32c125d684ec7b255600ba.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_7fe94447069d399c8b32c125d684ec7b255600ba.116x65.jpg?t=1615244558"/>
+                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.jpg">
+                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.116x65.jpg?t=1618851907"/>
                 </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.116x65.jpg?t=1615244558"/>
+                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_bac60bacbf5da8945103648c08d27d5e202444ca.jpg">
+                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.116x65.jpg?t=1618851907"/>
                 </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_6d3f7f75d007bc2efe93b1f230b66850757001db.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_6d3f7f75d007bc2efe93b1f230b66850757001db.116x65.jpg?t=1615244558"/>
+                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.jpg">
+                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.116x65.jpg?t=1618851907"/>
                 </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.116x65.jpg?t=1615244558"/>
+                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.jpg">
+                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.116x65.jpg?t=1618851907"/>
                 </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_15c511e75db32a0ff967b9b97ac0fb824556b707.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_15c511e75db32a0ff967b9b97ac0fb824556b707.116x65.jpg?t=1615244558"/>
-                </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.116x65.jpg?t=1615244558"/>
-                </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_afc54931c8ae9665ab2716e40c814ba0d8997972.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_afc54931c8ae9665ab2716e40c814ba0d8997972.116x65.jpg?t=1615244558"/>
-                </div>
-                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_4bad018ac270857660c0d82ba62c5651ef47e497.jpg">
-                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/ss_4bad018ac270857660c0d82ba62c5651ef47e497.116x65.jpg?t=1615244558"/>
+                <div class="highlight_strip_item highlight_strip_screenshot" data-panel='{"focusable":true,"clickOnActivate":true}' id="thumb_screenshot_ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.jpg">
+                 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.116x65.jpg?t=1618851907"/>
                 </div>
                </div>
               </div>
@@ -1475,7 +1453,7 @@
 
                                                 var k_nElementWidth = 120;
                                                 var k_playerItemClassName = '.highlight_player_item';
-                                                var g_nStripWidth = 1200;
+                                                var g_nStripWidth = 840;
                                                 var g_nMediaItems = player.m_elemPlayerArea.find( '.highlight_player_item' ).length;
                                                 var g_TouchEventStart = null;
 
@@ -1597,7 +1575,7 @@
           <div class="queue_ctn">
            <div class="queue_actions_ctn" id="queueActionsCtn">
             <p>
-             <a href="https://store.steampowered.com/login/?redir=app%2F47810&amp;snr=1_5_9_">
+             <a href="https://store.steampowered.com/login/?redir=app%2F1174180&amp;snr=1_5_9_">
               Sign in
              </a>
              to add this item to your wishlist, follow it, or mark it as ignored
@@ -1606,37 +1584,6 @@
           </div>
           <!-- button area with share, follow, etc. for responsive ux -->
           <div data-panel='{"maintainY":true,"flow-children":"row"}' id="rowBtnActions" style="display: none;">
-          </div>
-         </div>
-         <div class="page_content">
-          <div class="steamaward_nominate_gamepage_ctn gamepage">
-           <div class="steamaward_nominate_award">
-            <img class="award_icon" src="https://cdn.cloudflare.steamstatic.com/store/promo/autumn2021/trophy.png?v=1'">
-            </img>
-           </div>
-           <div class="game_nominate steamaward_nominate_left">
-            <div class="game_nominate_line1 mslight ellipsis">
-             NOMINATE THIS GAME FOR
-            </div>
-            <div class="game_nominate_line2 msblack epurple ellipsis">
-             THE STEAM AWARDS
-            </div>
-            <div class="game_nominate_line3 mslight epurpledark ellipsis" style="text-transform: uppercase">
-             COMING THIS DECEMBER.
-             <a class="hover_highlight" href="https://store.steampowered.com/steamawards/nominations?snr=1_5_9_">
-              LEARN MORE.
-             </a>
-            </div>
-           </div>
-           <div class="game_nominate steamaward_nominate_right show_nomination_dialog">
-            <div class="game_nominate_nonomination">
-             <span>
-              Nominate this game for an award
-             </span>
-            </div>
-           </div>
-           <div style="clear: left;">
-           </div>
           </div>
          </div>
          <div class="purchase_options_content" id="purchaseOptionsContent" style="display: none;">
@@ -1667,13 +1614,13 @@
             Sign in to see reasons why you may or may not like this based on your games, friends, and curators you follow.
            </p>
            <br/>
-           <a class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/login/?redir=app/47810">
+           <a class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/login/?redir=app/1174180">
             <span>
              Sign In
             </span>
            </a>
            or
-           <a class="btnv6_blue_hoverfade btn_medium" href="steam://store/47810">
+           <a class="btnv6_blue_hoverfade btn_medium" href="steam://store/1174180">
             <span>
              Open in Steam
             </span>
@@ -1691,23 +1638,72 @@
              Single-player
             </div>
            </a>
+           <a class="game_area_details_specs_ctn" data-panel='{"flow-children":"column"}' href="https://store.steampowered.com/search/?category2=36&amp;snr=1_5_9__423">
+            <div class="icon">
+             <img class="category_icon" src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_multiPlayer.png"/>
+            </div>
+            <div class="label">
+             Online PvP
+            </div>
+           </a>
+           <a class="game_area_details_specs_ctn" data-panel='{"flow-children":"column"}' href="https://store.steampowered.com/search/?category2=38&amp;snr=1_5_9__423">
+            <div class="icon">
+             <img class="category_icon" src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_coop.png"/>
+            </div>
+            <div class="label">
+             Online Co-op
+            </div>
+           </a>
+           <a class="game_area_details_specs_ctn" data-panel='{"flow-children":"column"}' href="https://store.steampowered.com/search/?category2=22&amp;snr=1_5_9__423">
+            <div class="icon">
+             <img class="category_icon" src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_achievements.png"/>
+            </div>
+            <div class="label">
+             Steam Achievements
+            </div>
+           </a>
+           <a class="game_area_details_specs_ctn" data-panel='{"flow-children":"column"}' href="https://store.steampowered.com/search/?category2=35&amp;snr=1_5_9__423">
+            <div class="icon">
+             <img class="category_icon" src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_cart.png"/>
+            </div>
+            <div class="label">
+             In-App Purchases
+            </div>
+           </a>
+           <a class="game_area_details_specs_ctn" data-panel='{"flow-children":"column"}' href="https://store.steampowered.com/search/?category2=18&amp;snr=1_5_9__423">
+            <div class="icon">
+             <img class="category_icon" src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_partial_controller.png"/>
+            </div>
+            <div class="label">
+             Partial Controller Support
+            </div>
+           </a>
+           <a class="game_area_details_specs_ctn" data-panel='{"flow-children":"column"}' href="https://store.steampowered.com/search/?category2=41&amp;snr=1_5_9__423">
+            <div class="icon">
+             <img class="category_icon" src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_remote_play.png"/>
+            </div>
+            <div class="label">
+             Remote Play on Phone
+            </div>
+           </a>
+           <a class="game_area_details_specs_ctn" data-panel='{"flow-children":"column"}' href="https://store.steampowered.com/search/?category2=42&amp;snr=1_5_9__423">
+            <div class="icon">
+             <img class="category_icon" src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_remote_play.png"/>
+            </div>
+            <div class="label">
+             Remote Play on Tablet
+            </div>
+           </a>
+           <div class="DRM_notice">
+            Requires 3rd-Party Account: Rockstar Games Social Club
+           </div>
            <div class="DRM_notice">
             <div>
              Requires agreement to a 3rd-party EULA
             </div>
             <div>
-             <a href="http://store.steampowered.com/eula/eula_47810" onclick="ShowEULA( this ); return false;">
-              Dragon Age: Origins - Ultimate Edition
-             </a>
-            </div>
-           </div>
-           <div class="DRM_notice">
-            <div>
-             EA Play subscription requires acceptance of
-            </div>
-            <div>
-             <a href="https://store.steampowered.com//eula/1289670_eula_0" onclick="ShowEULA( this ); return false;">
-              EA Play Terms
+             <a href="https://store.steampowered.com//eula/1174180_eula_0" onclick="ShowEULA( this ); return false;">
+              Red Dead Redemption 2 EULA
              </a>
             </div>
            </div>
@@ -1721,7 +1717,7 @@
            </div>
            <div class="responsive_banner_link" data-panel='{"focusable":true,"clickOnActivate":true}' id="bannerLanguages" onclick="ToggleBannerContentVisibility('#languageTable', '#expandLanguageBtn')" style="display: none">
             <div class="responsive_banner_link_title">
-             English and 3 more
+             English and 12 more
             </div>
             <div class="expand_section" id="expandLanguageBtn">
             </div>
@@ -1751,8 +1747,31 @@
                </span>
               </td>
               <td class="checkcol">
+               <span>
+                ✔
+               </span>
               </td>
               <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               French
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
               </td>
              </tr>
              <tr class="" style="">
@@ -1767,20 +1786,9 @@
               <td class="checkcol">
               </td>
               <td class="checkcol">
-              </td>
-             </tr>
-             <tr class="" style="">
-              <td class="ellipsis" style="width: 94px; text-align: left">
-               Spanish - Spain
-              </td>
-              <td class="checkcol">
                <span>
                 ✔
                </span>
-              </td>
-              <td class="checkcol">
-              </td>
-              <td class="checkcol">
               </td>
              </tr>
              <tr class="" style="">
@@ -1795,9 +1803,168 @@
               <td class="checkcol">
               </td>
               <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Spanish - Spain
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Japanese
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Korean
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Polish
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Portuguese
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Russian
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Simplified Chinese
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Spanish - Latin America
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+             </tr>
+             <tr class="" style="display: none;">
+              <td class="ellipsis" style="width: 94px; text-align: left">
+               Traditional Chinese
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
+              </td>
+              <td class="checkcol">
+              </td>
+              <td class="checkcol">
+               <span>
+                ✔
+               </span>
               </td>
              </tr>
             </table>
+            <a class="all_languages" onclick="$J('table.game_language_options tr').show(); $J(this).hide(); return false">
+             See all 13 supported languages
+            </a>
            </div>
           </div>
           <div class="block responsive_apppage_details_right">
@@ -1812,15 +1979,17 @@
              <div>
               <div class="game_rating_descriptors">
                <p class="descriptorText">
-                Blood
+                Blood and Gore
                 <br>
                  Intense Violence
                  <br>
-                  Language
+                  Nudity
                   <br>
-                   Partial Nudity
-                   <br/>
                    Sexual Content
+                   <br/>
+                   Strong Language
+                   <br/>
+                   Use of Drugs and Alcohol
                   </br>
                  </br>
                 </br>
@@ -1830,13 +1999,47 @@
                 Interactive Elements
                </div>
                <p class="descriptorText">
-                Online and In-Game Purchases
+                In-Game Purchases
+                <br>
+                 Users Interact
+                </br>
                </p>
               </div>
              </div>
             </div>
             <div class="game_rating_agency">
              Rating for: ESRB
+            </div>
+           </div>
+          </div>
+          <div class="responsive_banner_link" data-panel='{"focusable":true,"clickOnActivate":true}' id="bannerAchievements" onclick="window.location='https://steamcommunity.com/stats/1174180/achievements'" style="display: none">
+           <div class="responsive_banner_link_title responsive_chevron_right">
+            View Steam Achievements
+            <span class="responsive_banner_link_total">
+             (51)
+            </span>
+           </div>
+          </div>
+          <div class="block responsive_apppage_details_right" id="achievement_block">
+           <div class="block_title">
+            Includes 51 Steam Achievements
+           </div>
+           <div class="communitylink_achievement_images">
+            <div class="communitylink_achievement">
+             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1174180/7d617edd1fe18419760f6f365a274c4fbe40567c.jpg" title="Zoologist"/>
+            </div>
+            <div class="communitylink_achievement">
+             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1174180/d31cc96a1ae81d5c9859d2a782268dfe86e917b1.jpg" title="It's Art"/>
+            </div>
+            <div class="communitylink_achievement">
+             <img class="communitylink_achievement" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1174180/e968b36e4c3fba5addab9f4d4a31ddf935cb2804.jpg" title="Trusty Steed"/>
+            </div>
+            <a class="communitylink_achievement communitylink_achivement_plusmore" href="https://steamcommunity.com/stats/1174180/achievements">
+             View
+             <br/>
+             all 51
+            </a>
+            <div style="clear: left;">
             </div>
            </div>
           </div>
@@ -1847,14 +2050,18 @@
               <b>
                Title:
               </b>
-              Dragon Age: Origins - Ultimate Edition
+              Red Dead Redemption 2
               <br/>
               <b>
                Genre:
               </b>
               <span data-panel='{"flow-children":"row"}'>
-               <a href="https://store.steampowered.com/genre/RPG/?snr=1_5_9__408">
-                RPG
+               <a href="https://store.steampowered.com/genre/Action/?snr=1_5_9__408">
+                Action
+               </a>
+               ,
+               <a href="https://store.steampowered.com/genre/Adventure/?snr=1_5_9__408">
+                Adventure
                </a>
               </span>
               <br/>
@@ -1862,47 +2069,54 @@
                <b>
                 Developer:
                </b>
-               <a href="https://store.steampowered.com/developer/Bioware?snr=1_5_9__408">
-                BioWare
+               <a href="https://store.steampowered.com/developer/rockstargames?snr=1_5_9__408">
+                Rockstar Games
                </a>
               </div>
               <div class="dev_row">
                <b>
                 Publisher:
                </b>
-               <a href="https://store.steampowered.com/publisher/EA?snr=1_5_9__408">
-                Electronic Arts
+               <a href="https://store.steampowered.com/publisher/rockstargames?snr=1_5_9__408">
+                Rockstar Games
                </a>
               </div>
               <div class="dev_row">
                <b>
                 Franchise:
                </b>
-               <a href="https://store.steampowered.com/franchise/DragonAge?snr=1_5_9__408">
-                Dragon Age
+               <a href="https://store.steampowered.com/curator/36291848?snr=1_5_9__408">
+                Red Dead Redemption
                </a>
               </div>
               <b>
                Release Date:
               </b>
-              Oct 26, 2010
+              Dec 5, 2019
               <br/>
              </div>
              <div class="details_block" style="padding-top: 14px;">
-              <a class="linkbar" href="https://steamcommunity.com/linkfilter/?url=http://dragonage.bioware.com/dao/" rel="noreferrer noopener" target="_blank">
+              <a class="linkbar" href="https://steamcommunity.com/linkfilter/?url=https://www.rockstargames.com/reddeadredemption2/" rel="noreferrer noopener" target="_blank">
                Visit the website
                <img align="bottom" border="0" src="https://store.cloudflare.steamstatic.com/public/images/v5/ico_external_link.gif"/>
               </a>
-              <a class="linkbar responsive_chevron_right" href="https://store.steampowered.com/newshub/?appids=47810&amp;snr=1_5_9__408" rel="noreferrer" target="_blank">
+              <a class="linkbar" href="https://steamcommunity.com/linkfilter/?url=https://www.rockstargames.com/manuals/" rel="noreferrer noopener" target="_blank">
+               View the manual
+               <img align="bottom" border="0" src="https://store.cloudflare.steamstatic.com/public/images/v5/ico_external_link.gif"/>
+              </a>
+              <a class="linkbar responsive_chevron_right" href="https://steamcommunity.com/linkfilter/?url=https://socialclub.rockstargames.com/games/rdr2/overview" rel="noreferrer noopener" target="_blank">
+               View stats
+              </a>
+              <a class="linkbar responsive_chevron_right" href="https://store.steampowered.com/newshub/?appids=1174180&amp;snr=1_5_9__408" rel="noreferrer" target="_blank">
                View update history
               </a>
-              <a class="linkbar responsive_chevron_right" href="https://store.steampowered.com/newshub/app/47810?snr=1_5_9__408" rel="noreferrer" target="_blank">
+              <a class="linkbar responsive_chevron_right" href="https://store.steampowered.com/newshub/app/1174180?snr=1_5_9__408" rel="noreferrer" target="_blank">
                Read related news
               </a>
-              <a class="linkbar responsive_chevron_right" href="https://steamcommunity.com/app/47810/discussions/" rel="noreferrer" target="_blank">
+              <a class="linkbar responsive_chevron_right" href="https://steamcommunity.com/app/1174180/discussions/" rel="noreferrer" target="_blank">
                View discussions
               </a>
-              <a class="linkbar responsive_chevron_right" href="https://steamcommunity.com/actions/Search?T=ClanAccount&amp;K=Dragon%20Age%3A%20Origins%20-%20Ultimate%20Edition">
+              <a class="linkbar responsive_chevron_right" href="https://steamcommunity.com/actions/Search?T=ClanAccount&amp;K=Red%20Dead%20Redemption%202">
                Find Community Groups
               </a>
              </div>
@@ -1915,12 +2129,12 @@
              Share
             </span>
            </a>
-           <a class="btnv6_blue_hoverfade btn_medium" href="#" onclick="ShowEmbedWidget(47810); return false;">
+           <a class="btnv6_blue_hoverfade btn_medium" href="#" onclick="ShowEmbedWidget(1174180); return false;">
             <span>
              Embed
             </span>
            </a>
-           <a class="btnv6_blue_hoverfade btn_medium" href="javascript:void(0)" id="ReportAppBtn" onclick="ShowReportDialog(47810)">
+           <a class="btnv6_blue_hoverfade btn_medium" href="javascript:void(0)" id="ReportAppBtn" onclick="ShowReportDialog(1174180)">
             <span data-tooltip-text="Report this Product">
              <i class="ico16 reportv6">
              </i>
@@ -1935,7 +2149,7 @@
            </a>
           </div>
           <div id="reportBtn" style="display:none;">
-           <a class="btnv6_blue_hoverfade btn_medium" href="javascript:void(0)" onclick="ShowReportDialog(47810)">
+           <a class="btnv6_blue_hoverfade btn_medium" href="javascript:void(0)" onclick="ShowReportDialog(1174180)">
             <span>
              <img src="https://store.cloudflare.steamstatic.com/public/shared/images/icon_report.svg"/>
             </span>
@@ -1944,7 +2158,7 @@
           <div class="block responsive_apppage_reviewblock">
            <div id="game_area_metascore">
             <div class="score high">
-             91
+             93
             </div>
             <div class="logo">
             </div>
@@ -1953,7 +2167,7 @@
               metacritic
              </div>
              <div id="game_area_metalink">
-              <a href="https://www.metacritic.com/game/pc/dragon-age-origins?ftag=MCD-06-10aaa1f" target="_blank">
+              <a href="https://www.metacritic.com/game/pc/red-dead-redemption-2?ftag=MCD-06-10aaa1f" target="_blank">
                Read Critic Reviews
               </a>
               <img align="bottom" border="0" src="https://store.cloudflare.steamstatic.com/public/images/ico/iconExternalLink.gif"/>
@@ -1979,12 +2193,38 @@
            <div class="block_content block_content_inner">
             <div id="AwardsDefault">
              <div class="game_page_autocollapse" style="max-height: 400px;">
-              <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/extras/DAO_Spike.png?t=1615244558">
-               <br/>
-               <br/>
-               <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/extras/DAO_PC_Gamer.png?t=1615244558">
-               </img>
-              </img>
+              <a class="steamawards2020_app_square_ctn" href="https://store.steampowered.com/steamawards/2020">
+               <div class="steamawards_app_banner_event">
+                <div class="steamawards_app_banner_awardstitle">
+                 The Steam Awards
+                </div>
+                <div class="steamawards2020_app_banner_year">
+                 2020
+                </div>
+               </div>
+               <div class="steamawards_app_banner_contents">
+                <div class="steamawards2020_app_banner_left">
+                 <span class="steamawards2020_app_banner_winner">
+                  Winner
+                 </span>
+                 <div class="steamawards2020_app_banner_header award_title small">
+                  Game of the Year
+                  <span>
+                   Award
+                  </span>
+                 </div>
+                 <div class="steamawards2020_app_banner_header award_title small">
+                  Outstanding Story-Rich Game
+                  <span>
+                   Award
+                  </span>
+                 </div>
+                </div>
+                <div class="steamawards_app_banner_right">
+                 <img src="https://cdn.cloudflare.steamstatic.com/store/promo/steamawards2020/trophy2020.png?v=3"/>
+                </div>
+               </div>
+              </a>
              </div>
             </div>
            </div>
@@ -1992,156 +2232,93 @@
          </div>
          <!-- End Right Column -->
          <div class="leftcol game_description_column" data-panel='{"flow-children":"column"}'>
-          <a class="franchise_notice" href="https://store.steampowered.com/franchise/DragonAge?snr=1_5_9__2001">
-           <div class="background_image" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/36140378/cf5250323776831700d489c22987ce85e6554cb2.jpg');">
-           </div>
-           <div class="franchise_name">
-            Check out the entire Dragon Age franchise on Steam
-           </div>
-           <div class="franchise_highlight">
-           </div>
-          </a>
           <div class="game_area_purchase" id="game_area_purchase">
            <!--[if lte IE 7]>
 <style type="text/css">
 .game_area_purchase_game_dropdown_right_panel .btn_addtocart { float: none; }
 </style>
 <![endif]-->
-           <div class="game_area_purchase_game_wrapper game_purchase_sub_dropdown">
-            <div class="game_area_purchase_game_dropdown_subscription game_area_purchase_game" style="z-index: 500;">
-             <form action="https://store.steampowered.com/cart/" id="add_to_cart_a39aaa0df44729f8e5be117387b8a175" method="POST" name="add_to_cart_a39aaa0df44729f8e5be117387b8a175">
-              <input name="snr" type="hidden" value="1_5_9__403"/>
-              <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
-              <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="3cef4fc989d7cc431aff0cb6"/>
-              <input id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_value" name="subid" type="hidden" value=""/>
-              <input id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_remove_value" name="removesubid" type="hidden" value=""/>
-             </form>
-             <div class="game_area_purchase_platform">
-              <a href="https://store.steampowered.com/subscriptions/ea">
-               <img src="https://cdn.cloudflare.steamstatic.com/store/mastersubs/eaplay/eaplay.svg"/>
-              </a>
-             </div>
-             <h1>
-              Included with EA Play
-             </h1>
-             <div class="game_area_purchase_game_dropdown_description">
-              <a href="https://store.steampowered.com/subscriptions/ea" rel="noreferrer" target="_blank">
-               Join Now
-              </a>
-              for instant access to Dragon Age: Origins - Ultimate Edition and other best-loved titles from EA, plus a 10% member discount and member-only content.
-             </div>
-             <br>
-              <div class="game_area_purchase_game_dropdown_right_panel">
-               <div class="game_purchase_action_bg" id="game_purchase_dropdown_a39aaa0df44729f8e5be117387b8a175_region">
-                <div class="game_area_purchase_game_dropdown_panel" data-panel="[]">
-                 <div class="game_area_purchase_game_dropdown_selection" data-panel='{"focusable":true,"clickOnActivate":true}' id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_pulldown" onclick="ShowGamePurchaseDropdown( 'game_purchase_dropdown_a39aaa0df44729f8e5be117387b8a175_region', 'add_to_cart_a39aaa0df44729f8e5be117387b8a175_menu' );">
-                  <span id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_selected_text">
-                   Starting at $4.99 / month
-                  </span>
-                  <img src="https://store.cloudflare.steamstatic.com/public/images/v5/btn_arrow_down_padded.png"/>
-                 </div>
-                 <div class="game_area_purchase_game_dropdown_menu_container popup_block_new" id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_menu" style="display: none;">
-                  <table cellpadding="0" cellspacing="0" class="game_area_purchase_game_dropdown_menu_items_container_background game_area_purchase_game_dropdown_menu_items_container">
-                   <tr data-panel='{"focusable":true,"clickOnActivate":true}' onclick="javascript:GamePurchaseDropdownSelectOption( 'a39aaa0df44729f8e5be117387b8a175', 474127, false );">
-                    <td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_menu_option_474127">
-                     $4.99 / month
-                    </td>
-                    <td align="center" class="game_area_purchase_game_dropdown_menu_item_savings">
-                    </td>
-                    <div id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_menu_option_description_474127" style="display: none;">
-                     <p class="game_purchase_subscription">
-                      $4.99 at checkout, auto-renewed every 1 month(s) at $4.99.
-                     </p>
-                    </div>
-                   </tr>
-                   <tr data-panel='{"focusable":true,"clickOnActivate":true}' onclick="javascript:GamePurchaseDropdownSelectOption( 'a39aaa0df44729f8e5be117387b8a175', 474129, false );">
-                    <td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_menu_option_474129">
-                     $29.99 / 12 months
-                    </td>
-                    <td align="center" class="game_area_purchase_game_dropdown_menu_item_savings">
-                     -50%
-                    </td>
-                    <div id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_menu_option_description_474129" style="display: none;">
-                     <p class="game_purchase_subscription">
-                      $29.99 at checkout, auto-renewed every 12 month(s) at $29.99.
-                     </p>
-                    </div>
-                   </tr>
-                  </table>
-                 </div>
-                </div>
-                <div class="btn_addtocart" id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_select_option">
-                 <a class="btn_green_steamui btn_medium" href="javascript:GamePurchaseDropdownAddToCart('a39aaa0df44729f8e5be117387b8a175');">
-                  <span id="gamePurchaseAddToCartBtn_responsive" style="display:none">
-                   Select
-                  </span>
-                  <span id="gamePurchaseAddToCartBtn">
-                   Select a Subscription
-                  </span>
-                 </a>
-                </div>
-                <div class="btn_addtocart" id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_add_button" style="display:none;">
-                 <a class="btn_green_steamui btn_medium" href="javascript:GamePurchaseDropdownAddToCart('a39aaa0df44729f8e5be117387b8a175');">
-                  <span>
-                   Add to Cart
-                  </span>
-                 </a>
-                </div>
-                <div class="btn_addtocart" id="add_to_cart_a39aaa0df44729f8e5be117387b8a175_in_cart_button" style="display:none;">
-                 <a class="btn_green_steamui btn_medium" href="https://store.steampowered.com/cart/?snr=1_5_9__403">
-                  <span>
-                   In Cart
-                  </span>
-                 </a>
-                </div>
-               </div>
-              </div>
-             </br>
-            </div>
-           </div>
            <div class="game_area_purchase_game_wrapper">
-            <div class="game_area_purchase_game" id="game_area_purchase_section_add_to_cart_6517">
-             <form action="https://store.steampowered.com/cart/" method="POST" name="add_to_cart_6517">
+            <div class="game_area_purchase_game" id="game_area_purchase_section_add_to_cart_402134">
+             <form action="https://store.steampowered.com/cart/" method="POST" name="add_to_cart_402134">
               <input name="snr" type="hidden" value="1_5_9__403"/>
               <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
               <input name="action" type="hidden" value="add_to_cart"/>
-              <input name="sessionid" type="hidden" value="3cef4fc989d7cc431aff0cb6"/>
-              <input name="subid" type="hidden" value="6517"/>
+              <input name="sessionid" type="hidden" value="972890c4d515474c4e416aed"/>
+              <input name="subid" type="hidden" value="402134"/>
              </form>
              <div class="game_area_purchase_platform">
               <span class="platform_img win">
               </span>
              </div>
              <h1>
-              Buy Dragon Age: Origins - Ultimate Edition
+              Buy Red Dead Redemption 2
              </h1>
-             <p>
-              <a href="http://store.steampowered.com/app/47810/" rel="noreferrer" target="_blank">
-               Dragon Age: Origins - Ultimate Edition
-              </a>
-              includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.
-             </p>
              <p class="game_purchase_discount_countdown">
-              SPECIAL PROMOTION! Offer ends December 1
+              SPECIAL PROMOTION! Offer ends January 26
              </p>
              <div class="game_purchase_action">
               <div class="game_purchase_action_bg">
-               <div class="discount_block game_purchase_discount" data-price-final="749">
+               <div class="discount_block game_purchase_discount" data-price-final="2999">
                 <div class="discount_pct">
-                 -75%
+                 -50%
                 </div>
                 <div class="discount_prices">
                  <div class="discount_original_price">
-                  $29.99
+                  $59.99
                  </div>
                  <div class="discount_final_price">
-                  $7.49
+                  $29.99
                  </div>
                 </div>
                </div>
                <div class="btn_addtocart">
-                <a class="btn_green_steamui btn_medium" data-panel='{"autoFocus":true,"focusable":true,"clickOnActivate":true}' href="javascript:addToCart(6517);" id="btn_add_to_cart_6517">
+                <a class="btn_green_steamui btn_medium" data-panel='{"focusable":true,"clickOnActivate":true}' href="javascript:addToCart(402134);" id="btn_add_to_cart_402134">
+                 <span>
+                  Add to Cart
+                 </span>
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="game_area_purchase_game_wrapper">
+            <div class="game_area_purchase_game" id="game_area_purchase_section_add_to_cart_412454">
+             <form action="https://store.steampowered.com/cart/" method="POST" name="add_to_cart_412454">
+              <input name="snr" type="hidden" value="1_5_9__403"/>
+              <input name="originating_snr" type="hidden" value="1_direct-navigation__"/>
+              <input name="action" type="hidden" value="add_to_cart"/>
+              <input name="sessionid" type="hidden" value="972890c4d515474c4e416aed"/>
+              <input name="subid" type="hidden" value="412454"/>
+             </form>
+             <div class="game_area_purchase_platform">
+              <span class="platform_img win">
+              </span>
+             </div>
+             <h1>
+              Buy Red Dead Redemption 2: Ultimate Edition
+             </h1>
+             <p class="game_purchase_discount_countdown">
+              SPECIAL PROMOTION! Offer ends January 26
+             </p>
+             <div class="game_purchase_action">
+              <div class="game_purchase_action_bg">
+               <div class="discount_block game_purchase_discount" data-price-final="3999">
+                <div class="discount_pct">
+                 -60%
+                </div>
+                <div class="discount_prices">
+                 <div class="discount_original_price">
+                  $99.99
+                 </div>
+                 <div class="discount_final_price">
+                  $39.99
+                 </div>
+                </div>
+               </div>
+               <div class="btn_addtocart">
+                <a class="btn_green_steamui btn_medium" data-panel='{"focusable":true,"clickOnActivate":true}' href="javascript:addToCart(412454);" id="btn_add_to_cart_412454">
                  <span>
                   Add to Cart
                  </span>
@@ -2153,7 +2330,7 @@
            </div>
           </div>
           <!-- game_area_purchase -->
-          <div class="responsive_banner_link" data-panel='{"focusable":true,"clickOnActivate":true}' id="bannerCommunity" onclick="window.location='https://steamcommunity.com/app/47810'" style="display: none">
+          <div class="responsive_banner_link" data-panel='{"focusable":true,"clickOnActivate":true}' id="bannerCommunity" onclick="window.location='https://steamcommunity.com/app/1174180'" style="display: none">
            <div class="responsive_banner_link_title responsive_chevron_right">
             View Community Hub
            </div>
@@ -2163,6 +2340,20 @@
           <div data-featuretarget="events-row">
           </div>
           <div class="game_page_autocollapse" style="max-height: 300px;">
+           <div class="game_area_description">
+            <h2>
+             Ultimate Edition
+            </h2>
+            <p>
+             <img src="https://cdn.akamai.steamstatic.com/steam/apps/1174180/extras/Ultimate_615.jpg?t=1618851907">
+              <br/>
+              The Red Dead Redemption 2:  Ultimate Edition delivers all of the Story Mode content from the Special Edition plus additional content for online including Bonus Outfits for your online Character, Rank Bonuses, Black Chestnut Thoroughbred and free access to the Survivor Camp Theme.
+              <br/>
+              <br/>
+              Plus get free access to Additional Weapons in online.
+             </img>
+            </p>
+           </div>
           </div>
           <div id="contentForThisGame_ctn">
           </div>
@@ -2171,70 +2362,41 @@
             <h2>
              About This Game
             </h2>
-            <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/47810/extras/DAOUE.png?t=1615244558">
-             <br/>
-             <br/>
-             <strong>
-              Dragon Age: Origins
-             </strong>
-             <br/>
-             You are a Grey Warden, one of the last of this legendary order of guardians.  With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all.  Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures.
-             <br/>
-             <br/>
-             <strong>
-              Dragon Age: Origins - Awakening Expansion Pack
-             </strong>
-             <br/>
-             The story of the Grey Wardens continues as you are named their commander.  Fight new enemies, learn new skills and spells, and explore an all-new area of the world, Amaranthine.
-             <br/>
-             <br/>
-             <strong>
-              All Nine Content Packs
-             </strong>
-             <br/>
-             <br/>
-             <ul class="bb_ul">
-              <li>
-               The Stone Prisoner
-               <br/>
-              </li>
-              <li>
-               Warden's Keep
-               <br/>
-              </li>
-              <li>
-               Return to Ostagar
-               <br/>
-              </li>
-              <li>
-               Feastday Gifts
-               <br/>
-              </li>
-              <li>
-               The Darkspawn Chronicles
-               <br/>
-              </li>
-              <li>
-               Feastday Pranks
-               <br/>
-              </li>
-              <li>
-               Leliana's Song
-               <br/>
-              </li>
-              <li>
-               The Golems of Amgarrak
-               <br/>
-              </li>
-              <li>
-               Witch Hunt
-              </li>
-             </ul>
-             <br/>
-             <strong>
-              Collect new rewards, gain new party members, and more as you delve deeper into the Dragon Age storyline. (Critically acclaimed winner of more than 50 awards including over 30 'Best of 2009' awards.)
-             </strong>
-            </img>
+            America, 1899.
+            <br>
+             <br>
+              Arthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.
+              <br>
+               <br>
+                Now featuring additional Story Mode content and a fully-featured Photo Mode, Red Dead Redemption 2 also includes free access to the shared living world of Red Dead Online, where players take on an array of roles to carve their own unique path on the frontier as they track wanted criminals as a Bounty Hunter, create a business as a Trader, unearth exotic treasures as a Collector or run an underground distillery as a Moonshiner and much more.
+                <br>
+                 <br>
+                  With all new graphical and technical enhancements for deeper immersion, Red Dead Redemption 2 for PC takes full advantage of the power of the PC to bring every corner of this massive, rich and detailed world to life including increased draw distances; higher quality global illumination and ambient occlusion for improved day and night lighting; improved reflections and deeper, higher resolution shadows at all distances; tessellated tree textures and improved grass and fur textures for added realism in every plant and animal.
+                  <br>
+                   <br/>
+                   Red Dead Redemption 2 for PC also offers HDR support, the ability to run high-end display setups with 4K resolution and beyond, multi-monitor configurations, widescreen configurations, faster frame rates and more.
+                  </br>
+                 </br>
+                </br>
+               </br>
+              </br>
+             </br>
+            </br>
+           </div>
+          </div>
+          <div class="game_page_autocollapse">
+           <div class="game_area_description" id="game_area_content_descriptors">
+            <h2>
+             Mature Content Description
+            </h2>
+            <p>
+             The developers describe the content like this:
+            </p>
+            <p>
+             <i>
+              This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content
+             </i>
+            </p>
            </div>
           </div>
           <div class="game_page_autocollapse sys_req" style="max-height: 300px;">
@@ -2251,53 +2413,56 @@
                <br/>
                <ul class="bb_ul">
                 <li>
+                 Requires a 64-bit processor and operating system
+                 <br/>
+                </li>
+                <li>
                  <strong>
                   OS:
                  </strong>
-                 Windows XP (SP3) or Windows Vista (SP1) or Windows 7
+                 Windows 7 - Service Pack 1 (6.1.7601)
                  <br/>
                 </li>
                 <li>
                  <strong>
                   Processor:
                  </strong>
-                 Intel Core 2 Single 1.6 Ghz Processor (or equivalent) or AMD 64 2.0 GHz Processor (or equivalent)
+                 Intel® Core™ i5-2500K / AMD FX-6300
                  <br/>
                 </li>
                 <li>
                  <strong>
                   Memory:
                  </strong>
-                 1GB (1.5 GB Vista and Windows 7)
+                 8 GB RAM
                  <br/>
                 </li>
                 <li>
                  <strong>
                   Graphics:
                  </strong>
-                 ATI Radeon X850 256MB or NVIDIA GeForce 6600 GT 128MB or greater (Windows Vista: Radeon X1550 256 MB or NVidia GeForce 7600GT 256MB)
+                 Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB
                  <br/>
                 </li>
                 <li>
                  <strong>
-                  DirectX®:
+                  Network:
                  </strong>
-                 DirectX (November 2007)
+                 Broadband Internet connection
                  <br/>
                 </li>
                 <li>
                  <strong>
-                  Hard Drive:
+                  Storage:
                  </strong>
-                 20 GB HD space
+                 150 GB available space
                  <br/>
                 </li>
                 <li>
                  <strong>
-                  Sound:
+                  Sound Card:
                  </strong>
-                 Direct X Compatible Sound Card
-                 <br/>
+                 Direct X Compatible
                 </li>
                </ul>
               </ul>
@@ -2310,53 +2475,56 @@
                <br/>
                <ul class="bb_ul">
                 <li>
+                 Requires a 64-bit processor and operating system
+                 <br/>
+                </li>
+                <li>
                  <strong>
                   OS:
                  </strong>
-                 Windows XP (SP3) or Windows Vista (SP1) or Windows 7
+                 Windows 10 - April 2018 Update (v1803)
                  <br/>
                 </li>
                 <li>
                  <strong>
                   Processor:
                  </strong>
-                 Intel Core 2 Duo 2.4 Ghz or AMD Phenom II X2 Dual-Core 2.7 Ghz Processor or equivalent
+                 Intel® Core™ i7-4770K / AMD Ryzen 5 1500X
                  <br/>
                 </li>
                 <li>
                  <strong>
                   Memory:
                  </strong>
-                 2 GB (3GB Vista and Windows 7)
+                 12 GB RAM
                  <br/>
                 </li>
                 <li>
                  <strong>
                   Graphics:
                  </strong>
-                 ATI 3850 512 MB or NVidia 8800GTS 512MB or greater
+                 Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB
                  <br/>
                 </li>
                 <li>
                  <strong>
-                  DirectX®:
+                  Network:
                  </strong>
-                 DirectX (November 2007)
+                 Broadband Internet connection
                  <br/>
                 </li>
                 <li>
                  <strong>
-                  Hard Drive:
+                  Storage:
                  </strong>
-                 20 GB HD space
+                 150 GB available space
                  <br/>
                 </li>
                 <li>
                  <strong>
-                  Sound:
+                  Sound Card:
                  </strong>
-                 Direct X Compatible Sound Card
-                 <br/>
+                 Direct X Compatible
                 </li>
                </ul>
               </ul>
@@ -2386,28 +2554,19 @@
           <div class="game_page_autocollapse" style="max-height: 400px;">
            <div id="game_area_legal">
             <p>
-             © 2010 Electronics Arts Inc. All rights reserved.
+             Software license terms in game and at www.rockstargames.com/eula; online account terms at www.rockstargames.com/socialclub. Non-transferable access to special features, such as exclusive/unlockable/downloadable/multiplayer/online &amp; bonus content/services/functions, may require single-use serial code, additional fee, and/or non-transferrable online account registration (varies 13+). Special features access may require internet connection, may not be available to all users or at all times, and may be terminated/modified/offered under different terms without notice. Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account. For info, customer &amp; tech support visit www.rockstargames.com/support. This game is fictional. It may depict people, places, companies, groups, events, buildings, and other things that are similar to those in the real world; they are not affiliated or associated in any way with this game, and such depictions are not factual. The makers/publishers/licensors of this video game do not endorse/condone/encourage any content. Unauthorized copying, alteration, reverse engineering, decompiling, transmission, public performance, rental, pay for play, or copy protection circumvention is prohibited &amp; violates EULA. Certain limits apply to purchase, use, and redemption. See EULA www.rockstargames.com/eula and Terms of Service www.rockstargames.com/legal for details.
+             <br>
+              <br>
+               Rockstar Games, Inc.  ©2005-19. Rockstar Games, Red Dead Redemption, R*, Redemption, Red Dead, Dead Eye are marks/logos/copyrights of Take-Two Interactive. Dolby and the Double-D symbols are trademarks of Dolby Laboratories. The ratings icon is a trademark of the Entertainment Software Association. All other marks and trademarks are properties of their respective owners.  All rights reserved.
+              </br>
+             </br>
             </p>
-           </div>
-          </div>
-          <div class="block" id="franchise_block">
-           <div class="block_header">
-            <div class="right">
-             <a href="https://store.steampowered.com/franchise/DragonAge?snr=1_5_9__317">
-              See all
-             </a>
-            </div>
-            <h2>
-             More from Dragon Age
-            </h2>
-           </div>
-           <div class="block_responsive_horizontal_scroll store_horizontal_autoslider block_content nopad" id="franchise_app_block_content">
            </div>
           </div>
           <div class="block" id="recommended_block">
            <div class="block_header">
             <div class="right">
-             <a href="https://store.steampowered.com/recommended/morelike/app/47810/?snr=1_5_9__300">
+             <a class="deck_view_all_action_link" href="https://store.steampowered.com/recommended/morelike/app/1174180/?snr=1_5_9__300">
               See all
              </a>
             </div>
@@ -2430,12 +2589,12 @@
            <h2 class="user_reviews_header no_bottom_margin">
             Customer reviews
            </h2>
-           <input id="review_appid" type="hidden" value="47810"/>
+           <input id="review_appid" type="hidden" value="1174180"/>
            <input id="review_default_day_range" type="hidden" value="30"/>
            <input id="review_start_date" type="hidden" value="-1"/>
            <input id="review_end_date" type="hidden" value="-1"/>
-           <input id="review_summary_num_positive_reviews" type="hidden" value="13155"/>
-           <input id="review_summary_num_reviews" type="hidden" value="14482"/>
+           <input id="review_summary_num_positive_reviews" type="hidden" value="187350"/>
+           <input id="review_summary_num_reviews" type="hidden" value="214327"/>
            <div class="review_recent_events" id="review_recent_events_container">
            </div>
            <div class="collapsed" id="review_histograms_container">
@@ -2447,11 +2606,11 @@
                <div class="title">
                 Overall Reviews:
                </div>
-               <span class="game_review_summary positive" data-tooltip-html="90% of the 14,482 user reviews for this game are positive.">
+               <span class="game_review_summary positive" data-tooltip-html="87% of the 214,327 user reviews for this game are positive.">
                 Very Positive
                </span>
                <span>
-                (14,482 reviews)
+                (214,327 reviews)
                </span>
                <a class="tooltip" data-tooltip-text="This summary uses only reviews written by customers that purchased the game directly from Steam.">
                 <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark.png"/>
@@ -2471,11 +2630,11 @@
                <div class="title">
                 Recent Reviews:
                </div>
-               <span class="game_review_summary positive" data-tooltip-html="91% of the 228 user reviews in the last 30 days are positive.">
+               <span class="game_review_summary positive" data-tooltip-html="92% of the 10,232 user reviews in the last 30 days are positive.">
                 Very Positive
                </span>
                <span>
-                (228 reviews)
+                (10,232 reviews)
                </span>
                <a class="tooltip" data-tooltip-text="This summary uses only reviews written by customers that purchased the game directly from Steam.">
                 <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark.png"/>
@@ -2499,7 +2658,7 @@
                <label for="review_type_all">
                 All
                 <span class="user_reviews_count">
-                 (15,954)
+                 (240,296)
                 </span>
                </label>
                <br/>
@@ -2507,7 +2666,7 @@
                <label for="review_type_positive">
                 Positive
                 <span class="user_reviews_count">
-                 (14,507)
+                 (210,293)
                 </span>
                </label>
                <br/>
@@ -2515,7 +2674,7 @@
                <label for="review_type_negative">
                 Negative
                 <span class="user_reviews_count">
-                 (1,447)
+                 (30,003)
                 </span>
                </label>
               </div>
@@ -2531,7 +2690,7 @@
                <label for="purchase_type_all">
                 All
                 <span class="user_reviews_count">
-                 (15,954)
+                 (240,296)
                 </span>
                </label>
                <br/>
@@ -2539,7 +2698,7 @@
                <label for="purchase_type_steam">
                 Steam Purchasers
                 <span class="user_reviews_count">
-                 (14,482)
+                 (214,327)
                 </span>
                 <a class="tooltip" data-tooltip-text="These are reviews written by customers that purchased the game directly from Steam.">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -2550,7 +2709,7 @@
                <label for="purchase_type_non_steam">
                 Other
                 <span class="user_reviews_count">
-                 (1,472)
+                 (25,969)
                 </span>
                 <a class="tooltip" data-tooltip-text="These are reviews written by customers that did not purchase the game on Steam. (This may include legitimate sources such as other digital stores, retail stores, testing purposes, or press review purposes. Or, from inappropriate sources such as copies given in exchange for reviews.)">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -2569,7 +2728,7 @@
                <label for="review_language_all">
                 All Languages
                 <span class="user_reviews_count">
-                 (15,954)
+                 (240,296)
                 </span>
                </label>
                <br/>
@@ -2577,7 +2736,7 @@
                <label for="review_language_mine">
                 Your Languages
                 <span class="user_reviews_count">
-                 (12,652)
+                 (81,834)
                 </span>
                 <a class="tooltip" data-tooltip-html="Your preferences are currently set to show content authored in these languages: English.&lt;br&gt;&lt;br&gt; Click 'customize' below to modify your preferences.">
                  <img src="https://store.cloudflare.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png"/>
@@ -2881,13 +3040,30 @@
         You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam.
        </p>
        <p class="small">
+        There is more than one way to buy this game. Please select a specific package to create a widget for:
+       </p>
+       <div class="w_options">
+        <div class="w_option">
+         <input id="wp_402134" name="w_rsubid" type="radio" value="402134"/>
+         <label for="wp_402134">
+          Red Dead Redemption 2
+         </label>
+        </div>
+        <div class="w_option">
+         <input id="wp_412454" name="w_rsubid" type="radio" value="412454"/>
+         <label for="wp_412454">
+          Red Dead Redemption 2: Ultimate Edition
+         </label>
+        </div>
+       </div>
+       <p class="small">
         Enter up to 375 characters to add a description to your widget:
        </p>
        <div class="app_embed_dialog_description">
-        <textarea maxlength="375" name="w_text" placeholder="Dragon Age: Origins - Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs."></textarea>
+        <textarea maxlength="375" name="w_text" placeholder="Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online."></textarea>
        </div>
        <div class="buttoncontainer">
-        <a class="btnv6_blue_hoverfade btn_medium" href="#" onclick="CreateWidget(47810); return false;">
+        <a class="btnv6_blue_hoverfade btn_medium" href="#" onclick="CreateWidget(1174180); return false;">
          <span>
           Create widget
          </span>
@@ -2905,13 +3081,13 @@
      </div>
      <div id="ShareModal" style="display: none">
       <div class="share share_dialog">
-       <a href="https://store.steampowered.com/share/facebook/app/47810" rel="noreferrer" target="_blank" title="Share on Facebook">
+       <a href="https://store.steampowered.com/share/facebook/app/1174180" rel="noreferrer" target="_blank" title="Share on Facebook">
         <img src="https://store.cloudflare.steamstatic.com/public/images/social/facebook_large.png"/>
        </a>
-       <a href="https://store.steampowered.com/share/twitter/app/47810" rel="noreferrer" target="_blank" title="Share on Twitter">
+       <a href="https://store.steampowered.com/share/twitter/app/1174180" rel="noreferrer" target="_blank" title="Share on Twitter">
         <img src="https://store.cloudflare.steamstatic.com/public/images/social/twitter_large.png"/>
        </a>
-       <a href="https://store.steampowered.com/share/reddit/app/47810" rel="noreferrer" target="_blank" title="Share on Reddit">
+       <a href="https://store.steampowered.com/share/reddit/app/1174180" rel="noreferrer" target="_blank" title="Share on Reddit">
         <img src="https://store.cloudflare.steamstatic.com/public/images/social/reddit_large.png"/>
        </a>
        <div class="share_dialog_content">
@@ -2919,7 +3095,7 @@
          Link to the game's store page
         </label>
         <textarea class="share_dialog_value" id="shareDialogLinkStoreLink" onclick="ShareDialogCopyToClipboard();" readonly=""></textarea>
-        https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
+        https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
        </div>
        <div class="share_dialog_result" id="shareDialogResult">
        </div>
@@ -2949,7 +3125,7 @@
          Sign in to add your own tags to this product.
         </p>
         <p>
-         <a class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/login/?redir=app/47810">
+         <a class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/login/?redir=app/1174180">
           <span>
            Sign In
           </span>
@@ -2962,8 +3138,8 @@
      </div>
      <script type="text/javascript">
       $J( function() {
-			InitAppTagModal( 47810,
-				[{"tagid":122,"name":"RPG","count":1024,"browseable":true},{"tagid":1684,"name":"Fantasy","count":766,"browseable":true},{"tagid":1742,"name":"Story Rich","count":706,"browseable":true},{"tagid":4182,"name":"Singleplayer","count":582,"browseable":true},{"tagid":6426,"name":"Choices Matter","count":579,"browseable":true},{"tagid":10695,"name":"Party-Based RPG","count":545,"browseable":true},{"tagid":7107,"name":"Real-Time with Pause","count":406,"browseable":true},{"tagid":5611,"name":"Mature","count":359,"browseable":true},{"tagid":4747,"name":"Character Customization","count":334,"browseable":true},{"tagid":21,"name":"Adventure","count":281,"browseable":true},{"tagid":6971,"name":"Multiple Endings","count":235,"browseable":true},{"tagid":9,"name":"Strategy","count":234,"browseable":true},{"tagid":8461,"name":"Well-Written","count":228,"browseable":true},{"tagid":4604,"name":"Dark Fantasy","count":224,"browseable":true},{"tagid":4046,"name":"Dragons","count":204,"browseable":true},{"tagid":7208,"name":"Female Protagonist","count":201,"browseable":true},{"tagid":1693,"name":"Classic","count":189,"browseable":true},{"tagid":1695,"name":"Open World","count":157,"browseable":true},{"tagid":1708,"name":"Tactical","count":135,"browseable":true},{"tagid":1669,"name":"Moddable","count":119,"browseable":true}],
+			InitAppTagModal( 1174180,
+				[{"tagid":1695,"name":"Open World","count":1489,"browseable":true},{"tagid":21,"name":"Adventure","count":1338,"browseable":true},{"tagid":1742,"name":"Story Rich","count":1267,"browseable":true},{"tagid":1647,"name":"Western","count":1242,"browseable":true},{"tagid":19,"name":"Action","count":1167,"browseable":true},{"tagid":3859,"name":"Multiplayer","count":978,"browseable":true},{"tagid":4175,"name":"Realistic","count":866,"browseable":true},{"tagid":1774,"name":"Shooter","count":852,"browseable":true},{"tagid":4182,"name":"Singleplayer","count":796,"browseable":true},{"tagid":4166,"name":"Atmospheric","count":744,"browseable":true},{"tagid":3814,"name":"Third-Person Shooter","count":727,"browseable":true},{"tagid":6041,"name":"Horses","count":695,"browseable":true},{"tagid":5411,"name":"Beautiful","count":665,"browseable":true},{"tagid":1756,"name":"Great Soundtrack","count":627,"browseable":true},{"tagid":5611,"name":"Mature","count":602,"browseable":true},{"tagid":1697,"name":"Third Person","count":580,"browseable":true},{"tagid":3810,"name":"Sandbox","count":531,"browseable":true},{"tagid":3839,"name":"First-Person","count":404,"browseable":true},{"tagid":4345,"name":"Gore","count":399,"browseable":true},{"tagid":1663,"name":"FPS","count":339,"browseable":true}],
 				[],
 				"1_5_9__410",
 				"1_5_9__411",
@@ -2974,12 +3150,12 @@
 			
 					});
      </script>
-     <link href="https://store.cloudflare.steamstatic.com/public/css/applications/store/main.css?v=fjwE7Y56JUKT&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/manifest.js?v=yInE8dMHH6Xl&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <link href="https://store.cloudflare.steamstatic.com/public/css/applications/store/main.css?v=MvJCiuIe_CuP&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css"/>
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/manifest.js?v=DzY1yP9SnHj4&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/libraries.js?v=qmf6iHu8G_kJ&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/libraries.js?v=K3QBDzkWmu4R&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
-     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/main.js?v=EcKztKIoAXAd&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
+     <script src="https://store.cloudflare.steamstatic.com/public/javascript/applications/store/main.js?v=BDVVc0mdBFd2&amp;l=english&amp;_cdn=cloudflare" type="text/javascript">
      </script>
     </div>
     <!-- responsive_page_legacy_content -->
@@ -2999,7 +3175,7 @@
       </div>
       <div data-panel='{"flow-children":"row"}' id="footer_text">
        <div>
-        © 2021 Valve Corporation.  All rights reserved.  All trademarks are property of their respective owners in the US and other countries.
+        © 2022 Valve Corporation.  All rights reserved.  All trademarks are property of their respective owners in the US and other countries.
        </div>
        <div>
         VAT included in all prices where applicable.

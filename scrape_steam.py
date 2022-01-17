@@ -1,28 +1,14 @@
-# Scrape steam data
-# Place data into Excel
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
 def scrape_test():
-    """ Scrapes data from two URLs and writes the output to a .txt. file (For testing purposes only)
+    """ Scrapes data from a given URL and writes the output to a .txt. file (For testing purposes only)
     """
 
-    r = requests.get('https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/')
+    r = requests.get('https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/')
     soup = BeautifulSoup(r.text, 'html.parser')
     filename = "scrape_test1.txt"
-    with open(filename, 'w', encoding="utf-8") as fd:
-        fd.write(soup.prettify())
-
-    r = requests.get('https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/')
-    soup = BeautifulSoup(r.text, 'html.parser')
-    filename = "scrape_test2.txt"
-    with open(filename, 'w', encoding="utf-8") as fd:
-        fd.write(soup.prettify())
-
-    r = requests.get('https://store.steampowered.com/search/?term=')
-    soup = BeautifulSoup(r.text, 'html.parser')
-    filename = "scrape_test3.txt"
     with open(filename, 'w', encoding="utf-8") as fd:
         fd.write(soup.prettify())
 
@@ -37,13 +23,12 @@ def get_app_ids():
     url = 'https://store.steampowered.com/search/?page=' # this url is used to page through all games on Steam
                                                             # follow url with a number to get a new page of games
 
-    max_pages = 20 # loop through pages 1 - 20 (~500 games total)
+    max_pages = 22 # loop through pages 1 - 22 (~500 games total)
     for i in range(1, max_pages + 1):
-        print(i)
         r = requests.get(url + str(i)) 
         soup = BeautifulSoup(r.text, 'html.parser')
 
-        for game in soup.find_all("a", {"class":"search_result_row ds_collapse_flag"}):
+        for game in soup.find(id="search_result_container").find_all("a", {"class":"search_result_row ds_collapse_flag", "data-ds-appid": True}):
             app_ids.append(game["data-ds-appid"])
 
     return app_ids
@@ -62,13 +47,13 @@ def get_game_data(url):
     soup = BeautifulSoup(r.text, 'html.parser')
     
     # get game title
-    title = soup.find(itemprop='name')
+    title = soup.find(itemprop="name")
     if title == None: # if title not found, set to empty string
         title = ''
     else: # else get title text
         title = title.get_text()
     
-    # get genres
+    # get genres    
     genre_list = ['' for i in range(3)]
     i = 0
 
@@ -142,7 +127,6 @@ def scrape_steam():
                                 data[2][0], data[2][1], data[2][2], data[2][3], data[2][4], data[2][5], data[2][6], data[2][7], data[2][8], data[2][9], 
                                 data[2][10], data[2][11], data[2][12], data[2][13], data[2][14], data[2][15], data[2][16], data[2][17], data[2][18], data[2][19], 
                                 data[3], data[4]) # separate genre_list and tag_list into separate entries
-
     write_data(game_dict)
 
 if __name__ == "__main__":

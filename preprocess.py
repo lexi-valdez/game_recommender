@@ -1,7 +1,3 @@
-# Discretize scraped game data
-# Clean and combine each row of data into new column
-# Place data into Excel
-
 import pandas as pd
 
 def write_data(game_dict):  
