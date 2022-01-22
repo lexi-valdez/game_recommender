@@ -5,7 +5,7 @@ When the user is looking for a new game to play, they can enter a video game the
 This Video Game Recommender is written in Python and uses the Requests, BeautifulSoup, Pandas, Sklearn, and Tkinter libraries. 
 
 ## Motivation
-I decided to work on a recommendation system since it would encapsulate the entire data science process from start to finish. I had previous experience with exploratory data analysis in Python, but did not have much exposure to data collection and cleaning. This project allowed me to pre-process the data myself and apply common data science algorithms that I had not used before. I chose video games specifically since I mainly play RPGs and thought this would be useful the next time I run out of games to play.
+I decided to work on a recommendation system since it would encapsulate the entire data mining process from start to finish. I had previous experience with exploratory data analysis in Python, but did not have much exposure to data collection and cleaning. This project allowed me to pre-process the data myself and apply common data mining algorithms that I had not used before. I chose video games specifically since I mainly play RPGs and thought this would be useful the next time I run out of games to play.
 
 ## Process
 
@@ -28,7 +28,7 @@ To apply cosine/jaccard similarity, I had to make sure all of my data was discre
 
 For the "PosPercent" column, values of 0%-20% were assigned a 1 rating, 21%-40% were a 2, 41%-60% were a 3, 61-80% were a 4, and 81-100% were a 5. 
 
-For the "TotalReviews" column, I partitioned the values into 5 equal groups, where a 1 corresponded with the lowest 20% of values, 2 was the lowest 21%-40% of values, 3 was 41%-60%, 4 was 61%-80%, and 5 was 81%-100%. For example, if I had the "TotalReviews" values 1000, 2000, 2500, 3500, 4000, 5000, 5500, 6000, 8000, 8500 the corresponding 1-5 rating would be 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, respectively.
+For the "TotalReviews" column, I partitioned the values into 5 equal groups, where a 1 corresponded with the lowest 20th percentile of values, 2 was the lowest 21st-40th percentile of values, 3 was 41st-60th percentile, 4 was 61st-80th, and 5 was 81st-100th. For example, if I had the "TotalReviews" values 1000, 2000, 2500, 3500, 4000, 5000, 5500, 6000, 8000, 8500 the corresponding 1-5 rating would be 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, respectively.
 
 After discretizing, I added the "CombinedData" column. This column cleaned and concatenated all of the attributes for each game, which was needed to calculate the cosine similarities.
 
@@ -39,7 +39,75 @@ See the "Preprocessed Data" sheet in game_data.xlsx for my results.
 ### Step 3: Calculate Similarity
 To calculate the Cosine similarity, I used CountVectorizer's fit_transform() on the "CombinedData" column to count how many times each attribute appeared in a particular video game. I then called Sklearn's cosine_similarity() to return an array of cosine similarities between all games.
 
-To calculate the Jaccard similarity, I put each game's attributes into a set. I omitted the "PosPercentDiscrete" and "TotalReviewsDiscrete" columns since the 1-5 ratings would not have much meaning on their own. For example, Game A could have PosPercentDiscrete = 4 and TotalReviewsDiscrete = 5 while Game B could have the values switched. When calculating the set intersection for Game A and Game B, the algorithm would include both 4 and 5 in the intersection, even though the 4 and 5 values mean something completely different between Game A and Game B.
+```
+# From similarity.py
+def calculate_cosine(combined_data_col):
+    """ Finds the cosine similarity between all games
+
+    Args:
+        combined_data_col (pandas.core.series.Series): Column containing concatenated attributes of each game
+    """
+
+    cv = CountVectorizer()
+    matrix = cv.fit_transform(combined_data_col)  
+    cos_sim = cosine_similarity(matrix)
+```
+
+To calculate the Jaccard similarity, I put each game's attributes into a set. For each pair of games, I found the intersection and union between their respective sets and divided them. I omitted the "PosPercentDiscrete" and "TotalReviewsDiscrete" columns in my calculations since the 1-5 ratings would not have much meaning on their own. For example, Game A could have PosPercentDiscrete = 4 and TotalReviewsDiscrete = 5 while Game B could have the values switched. When calculating the set intersection for Game A and Game B, the algorithm would include both 4 and 5 in the intersection, even though the 4 and 5 values mean something completely different between Game A and Game B.
+
+```
+# From similarity.py
+def jaccard_similarity(set1, set2):
+    """ Calculates the jaccard similarity between two games
+
+    Args:
+        set1 (set): Set of attributes for game 1
+        set2 (set): Set of attributes for game 2
+
+    Returns:
+        float: Jaccard score between two games
+    """
+
+    num = len(set1.intersection(set2))
+    denom = len(set1.union(set2))
+    jac_score = num/denom
+    return jac_score
+
+def calculate_jaccard(preprocessed_data):
+    """ Finds the jaccard similarity between all games
+
+    Args:
+        preprocessed_data (pandas.core.frame.DataFrame): Dataframe containing attributes of each game
+    """
+
+    game_dict = {}
+    rows = preprocessed_data.shape[0]
+    cols = preprocessed_data.shape[1]
+    preprocessed_data.rename(columns={'Unnamed: 0':'Title'}, inplace=True) # rename first column as Title
+
+    # generate dict of sets, where each set contains attributes for a single game
+    for i in range(rows):
+        attr_list = []
+        title = preprocessed_data['Title'][i]
+        for j in range(1, cols - 3): # skip over game title, 1-5 ratings, and combined column
+            attr = preprocessed_data.iloc[i,j]
+            if pd.isnull(attr) == False:
+                attr_list.append(attr)
+        game_dict[title] = set(attr_list) 
+
+    # calculate jaccard similarity for each pair of games
+    i = 0 
+    j = 0
+    jac_sim = [[0 for a in range(rows)] for b in range(rows)] # array of jaccard similarities for all games
+
+    for game1 in game_dict.items():
+        j = 0
+        for game2 in game_dict.items():
+            score = jaccard_similarity(game1[1], game2[1])
+            jac_sim[i][j] = score
+            j += 1
+        i += 1
+```
 
 See the "Cosine Similarity" and "Jaccard Similarity" sheets in game_data.xlsx for my results. Note that each row/col corresponds to the same row in "Preprocessed Data" For example, Row 2 in "Preprocessed Data" is "God of War". Row 2 and Column 2 in "Cosine Similarity" (Cell B2) corresponds to the cosine similarity between "God of War" and itself. Row 3 Column 2 (Cell B3) corresponds to the similarity between "God of War" and "Counter-Strike: Global Offensive."
 

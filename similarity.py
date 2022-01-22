@@ -25,7 +25,6 @@ def calculate_cosine(combined_data_col):
     cv = CountVectorizer()
     matrix = cv.fit_transform(combined_data_col)  
     cos_sim = cosine_similarity(matrix)
-    print(type(cos_sim))
     write_data(cos_sim, 'Cosine Similarity')
 
 def jaccard_similarity(set1, set2):
